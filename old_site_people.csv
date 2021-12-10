@@ -1,0 +1,106 @@
+name,pos,email,img,first_name,last_name,alum,id,now
+Jonathan Weissman,Professor,jonathan.weissman@ucsf.edu,assets/img/people/JonathanWeissman.jpg,Jonathan,Weissman,false,JonathanWeissman,
+Jess Bonnar,Technician,jessica.bonnar@ucsf.edu,,Jess,Bonnar,false,JessBonnar,
+Michelle Chan,Post-doc,michelle.chan@ucsf.edu,assets/img/people/MichelleChan.jpg,Michelle,Chan,false,MichelleChan,
+Jin Chen,Post-doc,jin.chen@ucsf.edu,assets/img/people/JinChen.jpg,Jin,Chen,false,JinChen,
+Zach Cogan,Technician,j.zachcogan@gmail.com,assets/img/people/ZachCogan.jpg,Zach,Cogan,false,ZachCogan,
+Manny DeVera,,,assets/img/people/MannyDeVera.jpg,Manny,DeVera,false,MannyDeVera,
+Alina Guna,Post-doc,alina-ioana.guna@ucsf.edu,,Alina,Guna,false,AlinaGuna,
+Marco Hein,Post-doc,marco.hein@ucsf.edu,assets/img/people/MarcoHein.jpg,Marco,Hein,false,MarcoHein,
+Kelsey Hickey,Grad Student|Tetrad,kelsey.hickey@ucsf.edu,assets/img/people/KelseyHickey.jpg,Kelsey,Hickey,false,KelseyHickey,
+Jeff Hussmann,,,assets/img/people/JeffHussmann.jpg,Jeff,Hussmann,false,JeffHussmann,
+Matt Jones,Grad Student|iPQB,matthew.jones@ucsf.edu,assets/img/people/MattJones.jpg,Matt,Jones,false,MattJones,
+Marco Jost,Post-doc,marco.jost@ucsf.edu,assets/img/people/MarcoJost.jpg,Marco,Jost,false,MarcoJost,
+Joan Kanter,Administrative Coordinator,joan.kanter@ucsf.edu,assets/img/people/JoanKanter.jpg,Joan,Kanter,false,JoanKanter,
+Jingchuan Luo,,,,Jingchuan,Luo,false,JingchuanLuo,
+Lakshmi Miller-Vedam,,,,Lakshmi,Miller-Vedam,false,LakshmiMiller-Vedam,
+James Nunez,Post-doc,James.Nunez@ucsf.edu,assets/img/people/JamesNunez.jpg,James,Nunez,false,JamesNunez,
+Angie Pogson,Technician,angela.pogson@ucsf.edu,,Angie,Pogson,false,AngiePogson,
+Katerina Popova,Grad Student|BMS,katerina.popova@ucsf.edu,assets/img/people/KaterinaPopova.jpg,Katerina,Popova,false,KaterinaPopova,
+Joseph Replogle,Grad Student|Tetrad,joseph.replogle@ucsf.edu,assets/img/people/JosephReplogle.jpg,Joseph,Replogle,false,JosephReplogle,
+Xiaojie Qiu,Post-doc,xiaojie.qiu@ucsf.edu,,Xiaojie,Qiu,false,XiaojieQiu,
+Jeff Quinn,Post-doc,jeffrey.quinn@ucsf.edu,assets/img/people/JeffQuinn.jpg,Jeff,Quinn,false,JeffQuinn,
+Reuben Saunders,Grad Student|Tetrad,reuben.saunders@ucsf.edu,assets/img/people/ReubenSaunders.jpg,Reuben,Saunders,false,ReubenSaunders,
+Richard She,Post-doc,richard.she@ucsf.edu,,Richard,She,false,RichardShe,
+Matt Shurtleff,Post-doc,matthew.shurtleff@ucsf.edu,,Matt,Shurtleff,false,MattShurtleff,
+Maxine Wang,Technician,,,Maxine,Wang,false,MaxineWang,
+Dian Yang,,,,Dian,Yang,false,DianYang,
+Britt Adamson,Post-doc,,assets/img/people/BrittAdamson.jpg,Britt,Adamson,true,BrittAdamson,Assistant Professor|Princeton University
+Ashwin Banfal,Technician,,assets/img/people/AshwinBanfal.jpg,Ashwin,Banfal,true,AshwinBanfal,
+Michael Bassik,Post-doc,,assets/img/people/MichaelBassik.jpg,Michael,Bassik,true,MichaelBassik,Assistant Professor|Stanford University
+Arunashree  Bhamidipati,Post-doc,,assets/img/people/ArunashreeBhamidipati.jpg,Arunashree,Bhamidipati,true,ArunashreeBhamidipati,Scientist|Pacific Biosciences
+Alexandre Bolze,Post-doc,,assets/img/people/AlexandreBolze.jpg,Alexandre,Bolze,true,AlexandreBolze,Research Scientist |Helix
+Onn  Brandman,Post-doc,,assets/img/people/OnnBrandman.jpg,Onn,Brandman,true,OnnBrandman,Assistant Professor|Stanford University
+Gloria Ann Brar,Post-doc,,assets/img/people/GloriaBrar.gif,Gloria,Brar,true,GloriaBrar,"Assistant Professor|University of California, Berkeley"
+David  Breslow,Grad student,,assets/img/people/DavidBreslow.jpg,David,Breslow,true,DavidBreslow,Assistant Professor|Yale University
+Dale Cameron,Post-doc,,assets/img/people/DaleCameron.jpg,Dale,Cameron,true,DaleCameron,Assistant Professor|Ursinus College
+Owen Chen,Technician,,assets/img/people/OwenChen.jpg,Owen,Chen,true,OwenChen,Technician |Insitro
+Peter  Chien,Grad student,,assets/img/people/PeterChien.jpg,Peter,Chien,true,PeterChien,"Professor|UMass, Amherst"
+Min Cho,Technician,,assets/img/people/MinCho.jpg,Min,Cho,true,MinCho,Senior Research Associate|Calico
+Clement Chu,Grad student,,assets/img/people/ClementChu.jpg,Clement,Chu,true,ClementChu,Scientist |Counsyl Biotech
+Stirling Churchman,,,assets/img/people/StirlingChurchman.jpg,Stirling,Churchman,true,StirlingChurchman,Assistant Professor|Harvard Medical School
+Sean  Collins,Grad student,,assets/img/people/SeanCollins.jpg,Sean,Collins,true,SeanCollins,
+Elizabeth Costa,Grad Student,,assets/img/people/ElizabethCosta.jpg,Elizabeth,Costa,true,ElizabethCosta,Post-doc|Whitehead Institute
+Vlad Denic,Grad student,,assets/img/people/VladDenic.jpg,Vlad,Denic,true,VladDenic,Associate Professor |Harvard University
+Angela  DePace,Grad student,,assets/img/people/AngelaDePace.jpg,Angela,DePace,true,AngelaDePace,Associate Professor|Harvard Medical School
+Joshua Dunn,,,assets/img/people/JoshuaDunn.jpg,Joshua,Dunn,true,JoshuaDunn,
+Alexander Fields,Post-doc,,assets/img/people/AlexanderFields.jpg,Alexander,Fields,true,AlexanderFields,Bioinformatics Scientist |Grail
+Catherine Foo,,,assets/img/people/CatherineFoo.jpg,Catherine,Foo,true,CatherineFoo,
+Adam Frost,Post-doc,,assets/img/people/AdamFrost.jpg,Adam,Frost,true,AdamFrost,"Assistant Professor |University of California, San Francisco"
+Sina  Ghaemmaghami,Post-doc,,assets/img/people/SinaGhaemmaghami.jpg,Sina,Ghaemmaghami,true,SinaGhaemmaghami,Assistant Professor|University of Rochester
+Luke Gilbert,,,assets/img/people/LukeGilbert.jpg,Luke,Gilbert,true,LukeGilbert,
+John Hawkins,,,assets/img/people/JohnHawkins.jpg,John,Hawkins,true,JohnHawkins,
+Ezgi  Hacisuleyman,Post-doc,,assets/img/people/EzgiHacisuleyman.jpg,Ezgi,Hacisuleyman,true,EzgiHacisuleyman,Post-doc|Rockefeller University
+Max Horlbeck,,,assets/img/people/MaxHorlbeck.jpg,Max,Horlbeck,true,MaxHorlbeck,
+Siew Ho-Schleyer,Post-doc,,assets/img/people/SiewHo-Schleyer.jpg,Siew,Ho-Schleyer,true,SiewHo-Schleyer,Scientist |Chiron Corporation (Novartis)
+Julie  Hollien,Post-doc,,assets/img/people/JulieHollien.jpg,Julie,Hollien,true,JulieHollien,Associate Professor|University of Utah
+Jennifer Hood-DeGrenier,Post-doc,,assets/img/people/JenniferHood-DeGrenier.jpg,Jennifer,Hood-DeGrenier,true,JenniferHood-DeGrenier,Associate Professor |Worcester State University
+Nicholas  Ingolia,Post-doc,,assets/img/people/NicholasIngolia.jpg,Nicholas,Ingolia,true,NicholasIngolia,"Assistant Professor|University of California, Berkeley"
+Martin Jonikas,Grad student,,assets/img/people/MartinJonikas.jpg,Martin,Jonikas,true,MartinJonikas,Assistant Professor|Princeton University
+Calvin  Jan,Post-doc,,assets/img/people/CalvinJan.jpg,Calvin,Jan,true,CalvinJan,Research Scientist |Calico
+Martin  Kampmann,Post-doc,,assets/img/people/MartinKampmann.jpg,Martin,Kampmann,true,MartinKampmann,"Assistant Professor |University of California, San Francisco"
+Kamena Kostova,,,assets/img/people/KamenaKostova.jpg,Kamena,Kostova,true,KamenaKostova,
+Matthew  Larson,Post-doc,,assets/img/people/MatthewLarson.jpg,Matthew,Larson,true,MatthewLarson,Scientist |Illumina Medical Laboratory
+Manuel Leonetti,Post-doc,,assets/img/people/ManuelLeonetti.jpg,Manuel,Leonetti,true,ManuelLeonetti,Investigator|Chan Zuckerberg Biohub
+Gene-Wei Li,Post-doc,,assets/img/people/Gene-WeiLi.jpg,Gene-Wei,Li,true,Gene-WeiLi,Assistant Professor|MIT
+Han Li,Technician,,,Han,Li,true,HanLi,
+Christina Liem,,,assets/img/people/ChristinaLiem.jpg,Christina,Liem,true,ChristinaLiem,
+Yi-Chang Liu,Grad Student,,assets/img/people/Yi-ChangLiu.jpg,Yi-Chang,Liu,true,Yi-ChangLiu,"Founder, CEO|Glycogenetics, Inc"
+Melissa  Michelitsch,Grad student,,assets/img/people/MelissaMichelitsch.jpg,Melissa,Michelitsch,true,MelissaMichelitsch,Scientist|Chiron Corporation (Novartis)
+Dale Muzzey,,,assets/img/people/DaleMuzzey.jpg,Dale,Muzzey,true,DaleMuzzey,
+John Newman,Post-doc,,assets/img/people/JohnNewman.jpg,John,Newman,true,JohnNewman,Engagement Manager |McKinsey Consulting
+Tom Norman,,,assets/img/people/TomNorman.jpg,Tom,Norman,true,TomNorman,
+Eugene Oh,Grad Student,,assets/img/people/EugeneOh.jpg,Eugene,Oh,true,EugeneOh,"Post-doc |University of California, Berkeley"
+Lev  Osherovich,Grad student,,assets/img/people/LevOsherovich.jpg,Lev,Osherovich,true,LevOsherovich,Senior Writer|BioCentury Publications
+Ryan Pak,Technician,,,Ryan,Pak,true,RyanPak,Grad student|The Scripps Research Institute
+Luu  Pham,Technician,,assets/img/people/LuuPham.jpg,Luu,Pham,true,LuuPham,
+Christopher Reiger,Administrative Coordinator,,assets/img/people/ChristopherReiger.jpg,Christopher,Reiger,true,ChristopherReiger,
+Edwin Rodriguez,Grad Student,,assets/img/people/EdwinRodriguez.jpg,Edwin,Rodriguez,true,EdwinRodriguez,
+Silvia Rouskin,Grad Student,,assets/img/people/SilviaRouskin.jpg,Silvia,Rouskin,true,SilviaRouskin,Whitehead Fellow|MIT
+Dan Santos,,,assets/img/people/DanSantos.jpg,Dan,Santos,true,DanSantos,Scientist|Unity Biotechnology
+Alex Santoso,Grad student,,assets/img/people/AlexSantoso.jpg,Alex,Santoso,true,AlexSantoso,Founder |Science news website
+Nicki Schirle Oakdale,Post-doc,,assets/img/people/NickiOakdale.jpg,Nicki,Oakdale,true,NickiOakdale,Senior Scientist |Gilead
+Maya Schuldiner,Post-doc,,assets/img/people/MayaSchuldiner.jpg,Maya,Schuldiner,true,MayaSchuldiner,
+Sukrit Silas,Post-doc,,,Sukrit,Silas,true,SukritSilas,
+Melanie Smith,Grad Student,,assets/img/people/MelanieSmith.jpg,Melanie,Smith,true,MelanieSmith,Resident|Cornell Medical College
+Helmut Sparrer,Post-doc,,assets/img/people/HelmutSparrer.jpg,Helmut,Sparrer,true,HelmutSparrer,Scientist |Novartis
+Mohini Sridharan Kulp,Grad student,,assets/img/people/MohiniKulp.jpg,Mohini,Kulp,true,MohiniKulp,Instructor |Smith College
+Jacob Stern,,,,Jacob,Stern,true,JacobStern,
+Noam Stern-Ginossar,,,assets/img/people/NoamStern-Ginossar.jpg,Noam,Stern-Ginossar,true,NoamStern-Ginossar,
+Jacob Stewart-Ornstein,Grad Student,,assets/img/people/JacobStewart-Ornstein.jpg,Jacob,Stewart-Ornstein,true,JacobStewart-Ornstein,Post-doc |Harvard
+Kendra Swain,,,assets/img/people/KendraSwain.jpg,Kendra,Swain,true,KendraSwain,Graduate Student |UC Berkeley
+Motomasa Tanaka,Post-doc,,assets/img/people/MotomasaTanaka.jpg,Motomasa,Tanaka,true,MotomasaTanaka,
+Kimberly Tipton,Grad student,,assets/img/people/KimberlyTipton.jpg,Kimberly,Tipton,true,KimberlyTipton,Scientist |CytomX Therapeutics
+Sandra Torres,,,assets/img/people/SandraTorres.jpg,Sandra,Torres,true,SandraTorres,
+Brandon Toyama,Grad student,,assets/img/people/BrandonToyama.jpg,Brandon,Toyama,true,BrandonToyama,Scientist II|Celgene
+,Grad student,,assets/img/people/.jpg,,,true,,
+Kevin Travers,Grad student,,assets/img/people/KevinTravers.jpg,Kevin,Travers,true,KevinTravers,Scientist |Pacific Biosciences
+Ben Tu,Grad student,,assets/img/people/BenTu.jpg,Ben,Tu,true,BenTu,
+Katherine Verges,Grad student,,assets/img/people/KatherineVerges.jpg,Katherine,Verges,true,KatherineVerges,Associate |McKinsey Consulting
+Jackie Villalta,,,assets/img/people/JackieVillalta.jpg,Jackie,Villalta,true,JackieVillalta,
+Jue Wang,Grad student,,assets/img/people/JueWang.jpg,Jue,Wang,true,JueWang,Associate Professor |University of Wisconsin
+Jimena Weibezahn,Post-doc,,,Jimena,Weibezahn,true,JimenaWeibezahn,Scientist|TBD
+Christopher Williams,,,assets/img/people/ChristopherWilliams.jpg,Christopher,Williams,true,ChristopherWilliams,Data Scientist |Airbnb
+Daisy Wong,Technician,,assets/img/people/DaisyWong.jpg,Daisy,Wong,true,DaisyWong,Pharmacy student |UCSF
+Albert Xu,,,assets/img/people/AlbertXu.jpg,Albert,Xu,true,AlbertXu,
+Meghan Zubradt,,,assets/img/people/MeghanZubradt.jpg,Meghan,Zubradt,true,MeghanZubradt,

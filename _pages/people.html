@@ -1,0 +1,116 @@
+---
+layout: default
+title: "People"
+permalink: /people/
+# author_profile: false
+
+---
+
+{% assign current = site.data.people | where: "alum", "false" %}
+{% assign alums = site.data.people | where: "alum", "true" %}
+
+
+{% assign pi = current | where: "pos", "Principal Investigator" %}
+{% assign admins = current | where: "pos", "Admin" %}
+{% assign lab_manager = current | where: "pos", "Lab Manager" %}
+{% assign postdocs = current | where: "pos", "Post-doc" %}
+{% assign grads = current | where: "pos", "Grad student" %}
+{% assign techs = current | where: "pos", "Technician" %}
+
+
+<div class="container">
+
+   <div class="row">
+      {% for jonathan in pi %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{jonathan.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ jonathan.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ jonathan.name }}</span><br>
+               <span class="pos">{{ jonathan.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+<!--    </div>
+
+   <div class="row"> -->
+      {% for admin in admins %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{admin.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ admin.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ admin.name }}</span><br>
+               <span class="pos">{{ admin.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+
+      {% for sumita in lab_manager %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{sumita.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ sumita.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ sumita.name }}</span><br>
+               <span class="pos">{{ sumita.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+<!--    </div>
+
+   <div class="row"> -->
+      {% for postdoc in postdocs %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{postdoc.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ postdoc.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ postdoc.name }}</span><br>
+               <span class="pos">Postdoctoral Fellow</span>
+            </div>
+         </div>
+
+      {% endfor %}
+<!--    </div>
+
+   <div class="row"> -->
+      {% for grad in grads %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{grad.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ grad.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ grad.name }}</span><br>
+               <span class="pos">Graduate Student</span>
+            </div>
+         </div>
+
+      {% endfor %}
+
+      {% for tech in techs %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{grad.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ tech.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ tech.name }}</span><br>
+               <span class="pos">Research Technician</span>
+            </div>
+         </div>
+
+      {% endfor %}
+   </div>
+
+   <h2>Alumni</h2>
+
+   <div class="row">
+      {% for alum in alums %}
+         <div class="row" id="{{alum.id}}">
+            <div class="col-3">{{ alum.name }}</div>
+            <div class="col-3">{{ alum.pos }}</div>
+            <div class="col-6">{{ alum.now }}</div>
+         </div>
+      {% endfor %}
+   </div>
+
+
+</div>

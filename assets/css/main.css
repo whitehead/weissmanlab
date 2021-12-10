@@ -1,0 +1,60 @@
+body {
+  color: #414376;
+
+}
+
+.default {
+  padding-top: 60px;
+}
+@media (max-width: 979px) {
+  .default {
+    padding-top: 0px;
+  }
+}
+
+
+
+
+.portrait {
+  max-height: 250px;
+
+}
+
+a.author_link {
+  color: black;
+  text-decoration: none;
+}
+
+a.article_link {
+  text-decoration: none;
+
+
+}
+
+.inner_box img {
+  width: 100%;
+}
+
+.inner_box {
+  border-top: 3px solid #414376;
+  border-bottom: 3px solid #414376;
+}
+.inner_box a {
+  color: #414376;
+  text-decoration: none;
+}
+
+.inner_box a:hover {
+  color: #242542;
+}
+
+.border_top {
+  border-top: 3px solid #414376;
+}
+.border_left {
+  border-left: 3px solid #414376;
+}
+
+.research_img {
+  height:100%; overflow: hidden;
+}
