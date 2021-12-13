@@ -11,8 +11,9 @@ permalink: /people/
 
 
 {% assign pi = current | where: "pos", "Principal Investigator" %}
-{% assign admins = current | where: "pos", "Admin" %}
-{% assign lab_manager = current | where: "pos", "Lab Manager" %}
+{% assign cristen = current | where: "pos", "Admin Lab Manager" %}
+{% assign anne = current | where: "pos", "Admin Assistant" %}
+{% assign sumita = current | where: "pos", "Lab Manager" %}
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
 {% assign techs = current | where: "pos", "Technician" %}
@@ -35,7 +36,7 @@ permalink: /people/
 <!--    </div>
 
    <div class="row"> -->
-      {% for admin in admins %}
+      {% for admin in cristen %}
 
          <div class="col-md-4 g-0 border_left my-5" id="{{admin.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ admin.id }}.jpg" />
@@ -47,13 +48,25 @@ permalink: /people/
 
       {% endfor %}
 
-      {% for sumita in lab_manager %}
+      {% for admin in anne %}
 
-         <div class="col-md-4 g-0 border_left my-5" id="{{sumita.id}}">
-            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ sumita.id }}.jpg" />
+         <div class="col-md-4 g-0 border_left my-5" id="{{admin.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ admin.id }}.jpg" />
             <div class="label p-3">
-               <span class="name">{{ sumita.name }}</span><br>
-               <span class="pos">{{ sumita.pos }}</span>
+               <span class="name">{{ admin.name }}</span><br>
+               <span class="pos">{{ admin.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+
+      {% for lab_manager in sumita %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{lab_manager.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ lab_manager.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ lab_manager.name }}</span><br>
+               <span class="pos">{{ lab_manager.pos }}</span>
             </div>
          </div>
 
