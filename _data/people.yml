@@ -1,916 +1,672 @@
 - name: Jonathan Weissman
   pos: Principal Investigator
   email: weissman@wi.mit.edu
-  first_name: Jonathan
-  last_name: Weissman
   id: JonathanWeissman
   alum: false
 
 - name: Sumita Sinha
   pos: Lab Manager
   email: ssinha@wi.mit.edu
-  first_name: Sumita
-  last_name: Sinha
   id: SumitaSinha
   alum: false
 
 - name: Cristen Muresan
   pos: Admin Lab Manager
   email: muresanc@wi.mit.edu
-  first_name: Cristen
-  last_name: Muresan
   id: CristenMuresan
   alum: false
 
 - name: Anne Odera
   pos: Admin Assistant
   email: aodera@wi.mit.edu
-  first_name: Anne
-  last_name: Odera
   id: AnneOdera
   alum: false
 
 - name: Richard She
   pos: Post-doc
   email: rshe@wi.mit.edu
-  first_name: Richard
-  last_name: She
   id: RichardShe
   alum: false
 
 - name: Luke Koblan
   pos: Post-doc
   email: lkoblan@wi.mit.edu
-  first_name: Luke
-  last_name: Koblan
   id: LukeKoblan
   alum: false
 
 - name: Zebulon Levine
   pos: Post-doc
   email: levinez@wi.mit.edu
-  first_name: Zebulon
-  last_name: Levine
   id: ZebulonLevine
   alum: false
 
 - name: Xiaojie Qiu
   pos: Post-doc
   email: xqiu@wi.mit.edu
-  first_name: Xiaojie
-  last_name: Qiu
   id: XiaojieQiu
   alum: false
 
 - name: Yuancheng (Ryan) Lu
   pos: Post-doc
   email: ylu@wi.mit.edu
-  first_name: Yuancheng
-  last_name: Lu
   id: YuanchengLu
   alum: false
 
 - name: Katie Yost
   pos: Post-doc
   email: kyost@wi.mit.edu
-  first_name: Katie
-  last_name: Yost
   id: KatieYost
   alum: false
 
 - name: Jeffrey Hussmann
   pos: Post-doc
   email: jah@wi.mit.edu
-  first_name: Jeffrey
-  last_name: Hussmann
   id: JeffreyHussmann
   alum: false
 
 - name: Alina Guna
   pos: Post-doc
   email: aguna@wi.mit.edu
-  first_name: Alina
-  last_name: Guna
   id: AlinaGuna
   alum: false
 
 - name: Jingchuan Luo
   pos: Post-doc
   email: jluo@wi.mit.edu
-  first_name: Jingchuan
-  last_name: Luo
   id: JingchuanLuo
   alum: false
 
 - name: Dian Yang
   pos: Post-doc
   email: dyang@wi.mit.edu
-  first_name: Dian
-  last_name: Yang
   id: DianYang
   alum: false
 
 - name: Tessa Bertozzi
   pos: Post-doc
   email: bertozzi@wi.mit.edu
-  first_name: Tessa
-  last_name: Bertozzi
   id: TessaBertozzi
   alum: false
 
 - name: Ania Puszynska
   pos: Post-doc
   email: apuszyns@wi.mit.edu
-  first_name: Ania
-  last_name: Puszynska
   id: AniaPuszynska
   alum: false
 
 - name: Genya Frenkel
   pos: Post-doc
   email: genya@wi.mit.edu
-  first_name: Genya
-  last_name: Frenkel
   id: GenyaFrenkel
   alum: false
 
 - name: Joseph Replogle
   pos: Grad student
   email: joseph@wi.mit.edu
-  first_name: Joseph
-  last_name: Replogle
   id: JosephReplogle
   alum: false
 
 - name: Lakshmi Miller-Vedam
   pos: Grad student
   email: lmvedam@wi.mit.edu
-  first_name: Lakshmi
-  last_name: Miller-Vedam
   id: LakshmiMiller-Vedam
   alum: false
 
 - name: Reuben Saunders
   pos: Grad student
   email: reubens@wi.mit.edu
-  first_name: Reuben
-  last_name: Saunders
   id: ReubenSaunders
   alum: false
 
-- name: Matthew Jones
+- name: Matt Jones
   pos: Grad student
   email: mgjones@wi.mit.edu
-  first_name: Matthew
-  last_name: Jones
   id: MatthewJones
   alum: false
 
 - name: Alex LeNail
   pos: Grad student
   email: lenail@mit.edu
-  first_name: Alex
-  last_name: LeNail
-  id: AlexLenail
+  id: AlexanderLeNail
   alum: false
 
 - name: Yi Hua Chen
   pos: Grad student
   email: yhc@wi.mit.edu
-  first_name: Yi
-  last_name: Chen
   id: YiChen
   alum: false
 
 - name: Gayathri Muthukumar
   pos: Grad student
   email: gmkumar@wi.mit.edu
-  first_name: Gayathri
-  last_name: Muthukumar
   id: GayathriMuthukumar
   alum: false
 
 - name: Katerina Popova
   pos: Grad student
   email: kpopova@wi.mit.edu
-  first_name: Katerina
-  last_name: Popova
   id: KaterinaPopova
   alum: false
 
 - name: Acer Xu
   pos: Grad student
   email: acer@wi.mit.edu
-  first_name: Acer
-  last_name: Xu
   id: AcerXu
   alum: false
 
 - name: Sarah Schumacher
   pos: Technician
   email: sjanel@wi.mit.edu
-  first_name: Sarah
-  last_name: Schumacher
   id: SarahSchumacher
   alum: false
 
 - name: Theo Esanti
   pos: Technician
   email: esantsit@wi.mit.edu
-  first_name: Theo
-  last_name: Esanti
   id: TheoEsanti
   alum: false
 
 - name: Atharv Oak
   pos: Undergrad
   email: aoak@wi.mit.edu
-  first_name: Atharv
-  last_name: Oak
   id: AtharvOak
   alum: false
 
 - name: Yue Hue
   pos: Undergrad
   email: yue.h@wi.mit.edu
-  first_name: Yue
-  last_name: Hue
   id: YueHue
   alum: false
 
 - name: Jeff Quinn
   pos: Post-doc
-  first_name: Jeff
-  last_name: Quinn
   id: JeffQuinn
   alum: true
 
 - name: Jess Bonnar
   pos: Technician
-  first_name: Jess
-  last_name: Bonnar
   id: JessBonnar
   alum: true
 
 - name: Michelle Chan
   pos: Post-doc
-  first_name: Michelle
-  last_name: Chan
   id: MichelleChan
   alum: true
 
 - name: Jin Chen
   pos: Post-doc
-  first_name: Jin
-  last_name: Chen
   id: JinChen
   alum: true
 
 - name: Zach Cogan
   pos: Technician
-  first_name: Zach
-  last_name: Cogan
   id: ZachCogan
   alum: true
 
 - name: Manny DeVera
-  first_name: Manny
-  last_name: DeVera
   id: MannyDeVera
   alum: true
 
 - name: Marco Hein
   pos: Post-doc
-  first_name: Marco
-  last_name: Hein
   id: MarcoHein
   alum: true
 
 - name: Kelsey Hickey
   pos: Grad student
-  first_name: Kelsey
-  last_name: Hickey
   id: KelseyHickey
   alum: true
 
 - name: Marco Jost
   pos: Post-doc
-  first_name: Marco
-  last_name: Jost
   id: MarcoJost
   alum: true
 
 - name: Joan Kanter
   pos: Admin
-  first_name: Joan
-  last_name: Kanter
   id: JoanKanter
   alum: true
 
 - name: James Nuñez
   pos: Post-doc
-  first_name: James
-  last_name: Nuñez
   id: JamesNuñez
   alum: true
 
 - name: Angela Pogson
   pos: Technician
-  first_name: Angela
-  last_name: Pogson
   id: AngelaPogson
   alum: true
 
 - name: Matt Shurtleff
   pos: Post-doc
-  first_name: Matt
-  last_name: Shurtleff
   id: MattShurtleff
   alum: true
 
 - name: Maxine Wang
   pos: Technician
-  first_name: Maxine
-  last_name: Wang
   id: MaxineWang
   alum: true
 
 - name: Britt Adamson
   pos: Post-doc
-  first_name: Britt
-  last_name: Adamson
   id: BrittAdamson
   alum: true
   now: Assistant Professor|Princeton University
 
 - name: Ashwin Banfal
   pos: Technician
-  first_name: Ashwin
-  last_name: Banfal
   id: AshwinBanfal
   alum: true
 
 - name: Michael Bassik
   pos: Post-doc
-  first_name: Michael
-  last_name: Bassik
   id: MichaelBassik
   alum: true
   now: Assistant Professor|Stanford University
 
 - name: Arunashree  Bhamidipati
   pos: Post-doc
-  first_name: Arunashree
-  last_name: Bhamidipati
   id: ArunashreeBhamidipati
   alum: true
   now: Scientist|Pacific Biosciences
 
 - name: Alexandre Bolze
   pos: Post-doc
-  first_name: Alexandre
-  last_name: Bolze
   id: AlexandreBolze
   alum: true
   now: Research Scientist |Helix
 
 - name: Onn  Brandman
   pos: Post-doc
-  first_name: Onn
-  last_name: Brandman
   id: OnnBrandman
   alum: true
   now: Assistant Professor|Stanford University
 
 - name: Gloria Ann Brar
   pos: Post-doc
-  first_name: Gloria
-  last_name: Brar
   id: GloriaBrar
   alum: true
   now: Assistant Professor|University of California, Berkeley
 
 - name: David  Breslow
   pos: Grad student
-  first_name: David
-  last_name: Breslow
   id: DavidBreslow
   alum: true
   now: Assistant Professor|Yale University
 
 - name: Dale Cameron
   pos: Post-doc
-  first_name: Dale
-  last_name: Cameron
   id: DaleCameron
   alum: true
   now: Assistant Professor|Ursinus College
 
 - name: Owen Chen
   pos: Technician
-  first_name: Owen
-  last_name: Chen
   id: OwenChen
   alum: true
   now: Technician |Insitro
 
 - name: Peter  Chien
   pos: Grad student
-  first_name: Peter
-  last_name: Chien
   id: PeterChien
   alum: true
   now: Professor|UMass, Amherst
 
 - name: Min Cho
   pos: Technician
-  first_name: Min
-  last_name: Cho
   id: MinCho
   alum: true
   now: Senior Research Associate|Calico
 
 - name: Clement Chu
   pos: Grad student
-  first_name: Clement
-  last_name: Chu
   id: ClementChu
   alum: true
   now: Scientist |Counsyl Biotech
 
 - name: Stirling Churchman
-  first_name: Stirling
-  last_name: Churchman
   id: StirlingChurchman
   alum: true
   now: Assistant Professor|Harvard Medical School
 
 - name: Sean  Collins
   pos: Grad student
-  first_name: Sean
-  last_name: Collins
   id: SeanCollins
   alum: true
 
 - name: Elizabeth Costa
   pos: Grad Student
-  first_name: Elizabeth
-  last_name: Costa
   id: ElizabethCosta
   alum: true
   now: Post-doc|Whitehead Institute
 
 - name: Vlad Denic
   pos: Grad student
-  first_name: Vlad
-  last_name: Denic
   id: VladDenic
   alum: true
   now: Associate Professor |Harvard University
 
 - name: Angela  DePace
   pos: Grad student
-  first_name: Angela
-  last_name: DePace
   id: AngelaDePace
   alum: true
   now: Associate Professor|Harvard Medical School
 
 - name: Joshua Dunn
-  first_name: Joshua
-  last_name: Dunn
   id: JoshuaDunn
   alum: true
 
 - name: Alexander Fields
   pos: Post-doc
-  first_name: Alexander
-  last_name: Fields
   id: AlexanderFields
   alum: true
   now: Bioinformatics Scientist |Grail
 
 - name: Catherine Foo
-  first_name: Catherine
-  last_name: Foo
   id: CatherineFoo
   alum: true
 
 - name: Adam Frost
   pos: Post-doc
-  first_name: Adam
-  last_name: Frost
   id: AdamFrost
   alum: true
   now: Assistant Professor |University of California, San Francisco
 
 - name: Sina  Ghaemmaghami
   pos: Post-doc
-  first_name: Sina
-  last_name: Ghaemmaghami
   id: SinaGhaemmaghami
   alum: true
   now: Assistant Professor|University of Rochester
 
 - name: Luke Gilbert
-  first_name: Luke
-  last_name: Gilbert
   id: LukeGilbert
   alum: true
 
 - name: John Hawkins
-  first_name: John
-  last_name: Hawkins
   id: JohnHawkins
   alum: true
 
 - name: Ezgi  Hacisuleyman
   pos: Post-doc
-  first_name: Ezgi
-  last_name: Hacisuleyman
   id: EzgiHacisuleyman
   alum: true
   now: Post-doc|Rockefeller University
 
 - name: Max Horlbeck
-  first_name: Max
-  last_name: Horlbeck
   id: MaxHorlbeck
   alum: true
 
 - name: Siew Ho-Schleyer
   pos: Post-doc
-  first_name: Siew
-  last_name: Ho-Schleyer
   id: SiewHo-Schleyer
   alum: true
   now: Scientist |Chiron Corporation (Novartis)
 
 - name: Julie  Hollien
   pos: Post-doc
-  first_name: Julie
-  last_name: Hollien
   id: JulieHollien
   alum: true
   now: Associate Professor|University of Utah
 
 - name: Jennifer Hood-DeGrenier
   pos: Post-doc
-  first_name: Jennifer
-  last_name: Hood-DeGrenier
   id: JenniferHood-DeGrenier
   alum: true
   now: Associate Professor |Worcester State University
 
 - name: Nicholas  Ingolia
   pos: Post-doc
-  first_name: Nicholas
-  last_name: Ingolia
   id: NicholasIngolia
   alum: true
   now: Assistant Professor|University of California, Berkeley
 
 - name: Martin Jonikas
   pos: Grad student
-  first_name: Martin
-  last_name: Jonikas
   id: MartinJonikas
   alum: true
   now: Assistant Professor|Princeton University
 
 - name: Calvin  Jan
   pos: Post-doc
-  first_name: Calvin
-  last_name: Jan
   id: CalvinJan
   alum: true
   now: Research Scientist |Calico
 
 - name: Martin  Kampmann
   pos: Post-doc
-  first_name: Martin
-  last_name: Kampmann
   id: MartinKampmann
   alum: true
   now: Assistant Professor |University of California, San Francisco
 
 - name: Kamena Kostova
-  first_name: Kamena
-  last_name: Kostova
   id: KamenaKostova
   alum: true
 
 - name: Matthew Larson
   pos: Post-doc
-  first_name: Matthew
-  last_name: Larson
   id: MatthewLarson
   alum: true
   now: Scientist |Illumina Medical Laboratory
 
 - name: Manuel Leonetti
   pos: Post-doc
-  first_name: Manuel
-  last_name: Leonetti
   id: ManuelLeonetti
   alum: true
   now: Investigator|Chan Zuckerberg Biohub
 
 - name: Gene-Wei Li
   pos: Post-doc
-  first_name: Gene-Wei
-  last_name: Li
   id: Gene-WeiLi
   alum: true
   now: Assistant Professor|MIT
 
 - name: Han Li
   pos: Technician
-  first_name: Han
-  last_name: Li
   id: HanLi
   alum: true
 
 - name: Christina Liem
-  first_name: Christina
-  last_name: Liem
   id: ChristinaLiem
   alum: true
 
 - name: Yi-Chang Liu
   pos: Grad Student
-  first_name: Yi-Chang
-  last_name: Liu
   id: Yi-ChangLiu
   alum: true
   now: Founder, CEO|Glycogenetics, Inc
 
 - name: Melissa  Michelitsch
   pos: Grad student
-  first_name: Melissa
-  last_name: Michelitsch
   id: MelissaMichelitsch
   alum: true
   now: Scientist|Chiron Corporation (Novartis)
 
 - name: Dale Muzzey
-  first_name: Dale
-  last_name: Muzzey
   id: DaleMuzzey
   alum: true
 
 - name: John Newman
   pos: Post-doc
-  first_name: John
-  last_name: Newman
   id: JohnNewman
   alum: true
   now: Engagement Manager |McKinsey Consulting
 
 - name: Tom Norman
-  first_name: Tom
-  last_name: Norman
   id: TomNorman
   alum: true
 
 - name: Eugene Oh
   pos: Grad Student
-  first_name: Eugene
-  last_name: Oh
   id: EugeneOh
   alum: true
   now: Post-doc |University of California, Berkeley
 
 - name: Lev  Osherovich
   pos: Grad student
-  first_name: Lev
-  last_name: Osherovich
   id: LevOsherovich
   alum: true
   now: Senior Writer|BioCentury Publications
 
 - name: Ryan Pak
   pos: Technician
-  first_name: Ryan
-  last_name: Pak
   id: RyanPak
   alum: true
   now: Grad student|The Scripps Research Institute
 
 - name: Luu  Pham
   pos: Technician
-  first_name: Luu
-  last_name: Pham
   id: LuuPham
   alum: true
 
 - name: Christopher Reiger
   pos: Admin
-  first_name: Christopher
-  last_name: Reiger
   id: ChristopherReiger
   alum: true
 
 - name: Edwin Rodriguez
   pos: Grad Student
-  first_name: Edwin
-  last_name: Rodriguez
   id: EdwinRodriguez
   alum: true
 
 - name: Silvia Rouskin
   pos: Grad Student
-  first_name: Silvia
-  last_name: Rouskin
   id: SilviaRouskin
   alum: true
   now: Whitehead Fellow|MIT
 
 - name: Dan Santos
-  first_name: Dan
-  last_name: Santos
   id: DanSantos
   alum: true
   now: Scientist|Unity Biotechnology
 
 - name: Alex Santoso
   pos: Grad student
-  first_name: Alex
-  last_name: Santoso
   id: AlexSantoso
   alum: true
   now: Founder |Science news website
 
 - name: Nicki Schirle Oakdale
   pos: Post-doc
-  first_name: Nicki
-  last_name: Oakdale
   id: NickiOakdale
   alum: true
   now: Senior Scientist |Gilead
 
 - name: Maya Schuldiner
   pos: Post-doc
-  first_name: Maya
-  last_name: Schuldiner
   id: MayaSchuldiner
   alum: true
 
 - name: Sukrit Silas
   pos: Post-doc
-  first_name: Sukrit
-  last_name: Silas
   id: SukritSilas
   alum: true
 
 - name: Melanie Smith
   pos: Grad Student
-  first_name: Melanie
-  last_name: Smith
   id: MelanieSmith
   alum: true
   now: Resident|Cornell Medical College
 
 - name: Helmut Sparrer
   pos: Post-doc
-  first_name: Helmut
-  last_name: Sparrer
   id: HelmutSparrer
   alum: true
   now: Scientist |Novartis
 
 - name: Mohini Sridharan Kulp
   pos: Grad student
-  first_name: Mohini
-  last_name: Kulp
   id: MohiniKulp
   alum: true
   now: Instructor |Smith College
 
 - name: Jacob Stern
-  first_name: Jacob
-  last_name: Stern
   id: JacobStern
   alum: true
 
 - name: Noam Stern-Ginossar
-  first_name: Noam
-  last_name: Stern-Ginossar
   id: NoamStern-Ginossar
   alum: true
 
 - name: Jacob Stewart-Ornstein
   pos: Grad Student
-  first_name: Jacob
-  last_name: Stewart-Ornstein
   id: JacobStewart-Ornstein
   alum: true
   now: Post-doc |Harvard
 
 - name: Kendra Swain
-  first_name: Kendra
-  last_name: Swain
   id: KendraSwain
   alum: true
   now: Graduate Student |UC Berkeley
 
 - name: Motomasa Tanaka
   pos: Post-doc
-  first_name: Motomasa
-  last_name: Tanaka
   id: MotomasaTanaka
   alum: true
 
 - name: Kimberly Tipton
   pos: Grad student
-  first_name: Kimberly
-  last_name: Tipton
   id: KimberlyTipton
   alum: true
   now: Scientist |CytomX Therapeutics
 
 - name: Sandra Torres
-  first_name: Sandra
-  last_name: Torres
   id: SandraTorres
   alum: true
 
 - name: Brandon Toyama
   pos: Grad student
-  first_name: Brandon
-  last_name: Toyama
   id: BrandonToyama
   alum: true
   now: Scientist II|Celgene
 
 - name: Kevin Travers
   pos: Grad student
-  first_name: Kevin
-  last_name: Travers
   id: KevinTravers
   alum: true
   now: Scientist |Pacific Biosciences
 
 - name: Ben Tu
   pos: Grad student
-  first_name: Ben
-  last_name: Tu
   id: BenTu
   alum: true
 
 - name: Katherine Verges
   pos: Grad student
-  first_name: Katherine
-  last_name: Verges
   id: KatherineVerges
   alum: true
   now: Associate |McKinsey Consulting
 
 - name: Jackie Villalta
-  first_name: Jackie
-  last_name: Villalta
   id: JackieVillalta
   alum: true
 
 - name: Jue Wang
   pos: Grad student
-  first_name: Jue
-  last_name: Wang
   id: JueWang
   alum: true
   now: Associate Professor |University of Wisconsin
 
 - name: Jimena Weibezahn
   pos: Post-doc
-  first_name: Jimena
-  last_name: Weibezahn
   id: JimenaWeibezahn
   alum: true
   now: Scientist|TBD
 
 - name: Christopher Williams
-  first_name: Christopher
-  last_name: Williams
   id: ChristopherWilliams
   alum: true
   now: Data Scientist |Airbnb
 
 - name: Daisy Wong
   pos: Technician
-  first_name: Daisy
-  last_name: Wong
   id: DaisyWong
   alum: true
   now: Pharmacy student |UCSF
 
 - name: Albert Xu
-  first_name: Albert
-  last_name: Xu
   id: AlbertXu
   alum: true
 
 - name: Meghan Zubradt
-  first_name: Meghan
-  last_name: Zubradt
   id: MeghanZubradt
   alum: true

@@ -1,13 +1,7 @@
 
 
-people page should have a lab photo at the top
-
-
-how to better align pubmed authors with our db, but keep casual names
-Alexander LeNail
-
-higher res photos?
-
-
+have the jupyter notebook not overwrite the current yaml files, only add to them
+match publications by DOI
+match people by ID -- but maybe overwrite here?
 
 
