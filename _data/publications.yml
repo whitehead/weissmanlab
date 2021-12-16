@@ -428,7 +428,7 @@
     \ approach to facilitate imaging-based pooled CRISPR screens."
   doi: 10.1083/jcb.202008158
   journal: The Journal of cell biology
-- title: 'A CRISPR/Cas9-Engineered '
+- title: 'A CRISPR/Cas9-Engineered ARID1A-Deficient Human Gastric Cancer Organoid Model Reveals Essential and Nonessential Modes of Oncogenic Transformation'
   authors:
   - Yuan-Hung Lo
   - Kevin S Kolahi
@@ -1033,7 +1033,7 @@
     for diseases of dysregulated gene expression.
   doi: 10.1038/s41587-019-0387-5
   journal: Nature biotechnology
-- title: 'The microtubule regulator '
+- title: 'The microtubule regulator ringer functions downstream from the RNA repair/splicing pathway to promote axon regeneration'
   authors:
   - Ernest J Monahan Vargas
   - Andrew J Matamoros
@@ -1848,7 +1848,7 @@
   - Barbara Wold
   - Ramnik Xavier
   - Nir Yosef
-  - None None
+  - Human Cell Atlas Meeting Participants
   publication_date: 06/12/17
   publication_year: '2017'
   pubmed_id: '29206104'
@@ -1908,9 +1908,9 @@
 
     The in vivo CRISPRa platform developed here allows for parallel and combinatorial
     genetic screens in live animals; this approach enables screening for drivers and
-    suppressors of cell replication and tumor initiation. (Hepatology 2017).'
+    suppressors of cell replication and tumor initiation.'
   doi: 10.1002/hep.29626
-  journal: Hepatology (Baltimore, Md.)
+  journal: Hepatology
 - title: Inducible and multiplex gene regulation using CRISPR-Cpf1-based transcription
     factors.
   authors:

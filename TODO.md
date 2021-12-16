@@ -2,26 +2,13 @@
 
 
 
-Nir Yosef, None None
-A CRISPR/Cas9-Engineered
-The microtubule regulator
-
-
-
 research page image styling
 
 
-CRISPR materials
+resources page styling
+CRISPR page styling
 
 
-
-research page "discoveries" accordion
-
-
-links page styling
-
-
-alumns: fill out sheet, style better
 
 
 people page should have a lab photo at the top
