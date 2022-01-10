@@ -9,9 +9,6 @@ layout: compress
   <head>
     <meta charset="utf-8">
 
-    <!-- remove me when site goes live: -->
-    <meta name="robots" content="noindex">
-
     {% include seo.html %}
 
     <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
