@@ -34,7 +34,7 @@
   id: LukeKoblan
   alum: false
 
-- name: Zebulon Levine
+- name: Zeb Levine
   pos: Post-doc
   email: levinez@wi.mit.edu
   id: ZebulonLevine
@@ -58,7 +58,7 @@
   id: KatieYost
   alum: false
 
-- name: Jeffrey Hussmann
+- name: Jeff Hussmann
   pos: Post-doc
   email: jah@wi.mit.edu
   id: JeffreyHussmann
@@ -100,12 +100,6 @@
   id: GenyaFrenkel
   alum: false
 
-- name: Joseph Replogle
-  pos: Grad student
-  email: joseph@wi.mit.edu
-  id: JosephReplogle
-  alum: false
-
 - name: Lakshmi Miller-Vedam
   pos: Grad student
   email: lmvedam@wi.mit.edu
@@ -142,16 +136,22 @@
   id: GayathriMuthukumar
   alum: false
 
-- name: Katerina Popova
-  pos: Grad student
-  email: kpopova@wi.mit.edu
-  id: KaterinaPopova
-  alum: false
-
 - name: Acer Xu
   pos: Grad student
   email: acer@wi.mit.edu
   id: AcerXu
+  alum: false
+
+- name: Joseph Min
+  pos: Grad student
+  email: kmin@wi.mit.edu
+  id: JosephMin
+  alum: false
+
+- name: Karina Smolyar
+  pos: Grad student
+  email: ksmolyar@wi.mit.edu
+  id: KarinaSmolyar
   alum: false
 
 - name: Sarah Schumacher
@@ -178,9 +178,21 @@
   id: YueHue
   alum: false
 
+- name: Joseph Replogle
+  pos: Grad student
+  email: joseph@wi.mit.edu
+  id: JosephReplogle
+  alum: true
+
+- name: Katerina Popova
+  pos: Grad student
+  email: kpopova@wi.mit.edu
+  id: KaterinaPopova
+  alum: true
+
 - name: Jeff Quinn
   pos: Post-doc
-  id: JeffQuinn
+  id: JeffreyQuinn
   alum: true
 
 - name: Jess Bonnar
@@ -204,6 +216,7 @@
   alum: true
 
 - name: Manny DeVera
+  pos: Lab Manager
   id: MannyDeVera
   alum: true
 
@@ -223,7 +236,7 @@
   alum: true
 
 - name: Joan Kanter
-  pos: Admin
+  pos: Admin Coordinator
   id: JoanKanter
   alum: true
 
@@ -264,7 +277,7 @@
   alum: true
   now: Assistant Professor|Stanford University
 
-- name: Arunashree  Bhamidipati
+- name: Arunashree Bhamidipati
   pos: Post-doc
   id: ArunashreeBhamidipati
   alum: true
@@ -276,7 +289,7 @@
   alum: true
   now: Research Scientist |Helix
 
-- name: Onn  Brandman
+- name: Onn Brandman
   pos: Post-doc
   id: OnnBrandman
   alum: true
@@ -288,7 +301,7 @@
   alum: true
   now: Assistant Professor|University of California, Berkeley
 
-- name: David  Breslow
+- name: David Breslow
   pos: Grad student
   id: DavidBreslow
   alum: true
@@ -306,7 +319,7 @@
   alum: true
   now: Technician |Insitro
 
-- name: Peter  Chien
+- name: Peter Chien
   pos: Grad student
   id: PeterChien
   alum: true
@@ -329,7 +342,7 @@
   alum: true
   now: Assistant Professor|Harvard Medical School
 
-- name: Sean  Collins
+- name: Sean Collins
   pos: Grad student
   id: SeanCollins
   alum: true
@@ -346,7 +359,7 @@
   alum: true
   now: Associate Professor |Harvard University
 
-- name: Angela  DePace
+- name: Angela DePace
   pos: Grad student
   id: AngelaDePace
   alum: true
@@ -372,7 +385,7 @@
   alum: true
   now: Assistant Professor |University of California, San Francisco
 
-- name: Sina  Ghaemmaghami
+- name: Sina Ghaemmaghami
   pos: Post-doc
   id: SinaGhaemmaghami
   alum: true
@@ -386,7 +399,7 @@
   id: JohnHawkins
   alum: true
 
-- name: Ezgi  Hacisuleyman
+- name: Ezgi Hacisuleyman
   pos: Post-doc
   id: EzgiHacisuleyman
   alum: true
@@ -402,7 +415,7 @@
   alum: true
   now: Scientist |Chiron Corporation (Novartis)
 
-- name: Julie  Hollien
+- name: Julie Hollien
   pos: Post-doc
   id: JulieHollien
   alum: true
@@ -414,7 +427,7 @@
   alum: true
   now: Associate Professor |Worcester State University
 
-- name: Nicholas  Ingolia
+- name: Nicholas Ingolia
   pos: Post-doc
   id: NicholasIngolia
   alum: true
@@ -426,13 +439,13 @@
   alum: true
   now: Assistant Professor|Princeton University
 
-- name: Calvin  Jan
+- name: Calvin Jan
   pos: Post-doc
   id: CalvinJan
   alum: true
   now: Research Scientist |Calico
 
-- name: Martin  Kampmann
+- name: Martin Kampmann
   pos: Post-doc
   id: MartinKampmann
   alum: true
@@ -475,7 +488,7 @@
   alum: true
   now: Founder, CEO|Glycogenetics, Inc
 
-- name: Melissa  Michelitsch
+- name: Melissa Michelitsch
   pos: Grad student
   id: MelissaMichelitsch
   alum: true
@@ -501,7 +514,7 @@
   alum: true
   now: Post-doc |University of California, Berkeley
 
-- name: Lev  Osherovich
+- name: Lev Osherovich
   pos: Grad student
   id: LevOsherovich
   alum: true
@@ -513,7 +526,7 @@
   alum: true
   now: Grad student|The Scripps Research Institute
 
-- name: Luu  Pham
+- name: Luu Pham
   pos: Technician
   id: LuuPham
   alum: true
@@ -602,12 +615,6 @@
   pos: Post-doc
   id: MotomasaTanaka
   alum: true
-
-- name: Kimberly Tipton
-  pos: Grad student
-  id: KimberlyTipton
-  alum: true
-  now: Scientist |CytomX Therapeutics
 
 - name: Sandra Torres
   id: SandraTorres
