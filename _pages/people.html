@@ -14,6 +14,7 @@ permalink: /people/
 {% assign cristen = current | where: "pos", "Admin Lab Manager" %}
 {% assign anne = current | where: "pos", "Admin Assistant" %}
 {% assign sumita = current | where: "pos", "Lab Manager" %}
+{% assign jeffH = current | where: "pos", "Senior Scientist" %}
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
 {% assign techs = current | where: "pos", "Technician" %}
@@ -67,6 +68,17 @@ permalink: /people/
             <div class="label p-3">
                <span class="name">{{ lab_manager.name }}</span><br>
                <span class="pos">{{ lab_manager.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+      {% for scientist in jeffH %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{scientist.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ scientist.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ scientist.name }}</span><br>
+               <span class="pos">{{ scientist.pos }}</span>
             </div>
          </div>
 
