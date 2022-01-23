@@ -18,6 +18,15 @@ permalink: /research/
                     <p>The ability to bridge large-scale approaches and mechanistic investigations is a key focus of the Weissman lab. Beyond the immediate payoff of these efforts, we hope our work will contribute to the broader goal of developing more principled, less ad hoc approaches for defining gene functions.</p>
 
                     <p>Below are descriptions of six broad project areas of the lab.</p>
+
+                    <ul>
+                    <li><a class="d-block" href="#riboprofiling">Ribosome Profiling</a></li>
+                    <li><a class="d-block" href="#ER">Protein Folding in the Endoplasmic Reticulum</a></li>
+                    <li><a class="d-block" href="#epigenome_editing">CRISPR-based engineering of the epigenome</a></li>
+                    <li><a class="d-block" href="#cancer_evolution">Mapping Cancer Evolution</a></li>
+                    <li><a class="d-block" href="#principles">Understanding the Organizational Principles of Cellular Systems</a></li>
+                    <li><a class="d-block" href="#maps">Information-rich Genotype-Phenotype Maps</a></li>
+                    </ul>
                 </div>
                 <div class="col-2">
                     <img class="research_img" src="{{ site.baseurl }}/assets/img/old_site_images/research/proteomics.jpg">
@@ -29,7 +38,7 @@ permalink: /research/
                     <img class="research_img" src="{{ site.baseurl }}/assets/img/old_site_images/research/library1.jpg" style="max-height:100%; max-width:100%; overflow: hidden;">
                 </div>
                 <div class="col-10 pt-4 ps-4">
-                    <h5>Ribosome Profiling</h5>
+                    <h5 id="riboprofiling">Ribosome Profiling</h5>
 
                     <p>The advent of microarray technology, and more recently RNA-seq, has made it possible to monitor the internal state of a cell with unprecedented precision. However, these approaches monitor messenger RNA (mRNA) levels, whereas for the large majority of cases it is proteins that are directly responsible for mediating a gene's cellular functions. We know that mRNA levels are often a highly imperfect proxy for protein production due to the extensive use of translational control. </p>
 
@@ -41,7 +50,7 @@ permalink: /research/
             </div>
             <div class="row border_top g-0">
                 <div class="col-10 pt-4 pe-4">
-                    <h5>Protein Folding in the Endoplasmic Reticulum</h5>
+                    <h5 id='ER'>Protein Folding in the Endoplasmic Reticulum</h5>
 
                     <p>As a rule, proteins that enter the secretory pathway fold within the ER. The ER establishes and maintains a highly specialized environment optimized for folding. Understanding how this is accomplished is a major focus of our research.</p>
 
@@ -94,11 +103,11 @@ permalink: /research/
                     <img class="research_img" src="{{ site.baseurl }}/assets/img/old_site_images/research/emap1.jpg">
                 </div>
                 <div class="col-10 pt-4 ps-4">
-                    <h5>CRISPR-based engineering of the epigenome</h5>
+                    <h5 id='epigenome_editing'>CRISPR-based engineering of the epigenome</h5>
 
                     <p>While the catalog of mammalian genes and when and where these genes are turned on is rapidly expanding, our understanding of their function lags behind. The Weissman lab and collaborators developed robust technologies that enables the systematic investigation of the cellular consequences of turning on or off individual genes. We have identified rules for specific targeting of transcriptional repressors (CRISPRi), typically achieving 90-99% knockdown with minimal off-target effects, and activators (CRISPRa) to endogenous genes via endonuclease-deficient Cas9. Using these rules, we constructed and validated genome-scale CRISPRi and CRISPRa libraries that enable systematic analysis of gene function including both essential and nonessential as well as long noncoding RNAs. Collectively, this work established CRISPRi and CRISPRa as powerful tools that provide rich and complementary information for mapping complex pathways. We have also adapted this approach to allow the largescale analysis of double knockdowns. This enables the systematic search for synthetic lethal interactions that will inform the rational design of combination drug therapies. We are broadly applying the CRISPRi/a approach to understanding disease mechanisms, defining drug targets, and even potentially treating disease by reversibly regulating gene expression without permanently altering patients’ DNA. Most recently, we have developed a variant of CRISPRi/a termed CRISPRoff and CRISPRon that recruits DNA methylase and demethylases, respectively, enabling the rewriting of the DNA methylome allowing heritable and programmable turning off or on of the vast majority of genes. This has provided an unprecedented tool for the heritable control of gene expression and for understanding the mechanism of epigenetic control of gene expression.</p>
 
-                    <h5>Mapping Cancer Evolution</h5>
+                    <h5 id='cancer_evolution'>Mapping Cancer Evolution</h5>
 
                     <p>The Weissman lab has designed, built, and optimized molecular recorder technologies, which makes it possible in principle to capture critical features of a cell’s life—environmental insults, developmental decisions, external and internal signals, ancestry and progeny—in a defined and compact region within its genome. These recordings can then be read out in a massively parallel manner using droplet-based single-cell RNA-sequencing technology. Just as the flight recorder of a plane provides critical forensic information about the normal operation of a plane and how these operations failed, molecular recorders provide an unprecedented view of normal biology and disease. They have built upon their molecular recorder technology in several ways that make it both more easily deployable to study various biological contexts of interest and more information-rich for larger, longer, and deeper recording experiments. Together with Nir Yosef’s group, we have developed a computational pipeline for processing lineage tracing data from large recording experiments, algorithms for phylogenetic tree reconstruction, and a framework for interpreting meaningful biology from lineage tracing data. With these improvements, we have expanded the possible applications for molecular recording and lineage tracing experiments. In addition to our initial application to mammalian embryogenesis, a major focus of the Weissman lab is to use these molecular recorder technologies to study critical aspects of different stages of cancer progression including tracing the rate, routes and drivers of cancer metastasis as well the evolutionary process by which a cell containing oncogenic mutation develops into an aggressive tumor and evades therapeutic challenge.</p>
 
@@ -106,11 +115,11 @@ permalink: /research/
             </div>
             <div class="row border_top g-0">
                 <div class="col-10 pt-4 pe-4">
-                    <h5>Understanding the Organizational Principles of Cellular Systems</h5>
+                    <h5 id='principles'>Understanding the Organizational Principles of Cellular Systems</h5>
 
                     <p>How cellular and organismal complexity emerges from combinatorial expression of genes is a central question in biology that has been a major focus of my lab for nearly two decades. We helped develop the first systematic quantitative genetic interaction maps in 2005 and applied this to understanding how the ER functions as a protein folding organelle. We have gone on to build similar maps in other organisms, including fission yeast (S. pombe), and mammalian cells, and use these to explore a remarkably diverse range of biological phenomenon including how combinatorial perturbations can drive complex cell differentiations. We have also extended this genetic interaction paradigm to study other quantitative phenotypes including, most recently phenotypically-rich, high-content phenotyping approaches such as Perturb-seq (single-cell RNA-sequencing pooled CRISPR screens). To achieve this, we developed an analytical framework for interpreting high-dimensional landscapes of cell states (manifolds) constructed from transcriptional phenotypes and complemented this with machine learning approaches to predict interactions enabling the exploration of vastly larger genetic interaction manifolds.</p>
 
-                    <h5>Information-rich Genotype-Phenotype Maps</h5>
+                    <h5 id='maps'>Information-rich Genotype-Phenotype Maps</h5>
 
                     <p>A central goal of genetics is to define the relationships between genotypes and phenotypes. High-content phenotypic screens such as Perturb-seq (pooled CRISPR-based screens with single-cell RNA-sequencing readouts) enable massively parallel functional genomic mapping but, to date, have been used at limited scales. We recently performed the first genome-scale Perturb-seq targeting all expressed genes with CRISPR interference (CRISPRi) across >2.5 million human cells and developed a framework to power biological discovery with the resulting genotype-phenotype map. We used transcriptional phenotypes to predict the function of poorly-characterized genes, uncovering new regulators of ribosome biogenesis (including CCDC86, ZNF236, and SPATA5L1), transcription (C7orf26), and mitochondrial respiration (TMEM242). In addition to assigning gene function, single-cell transcriptional phenotypes allowed for in-depth dissection of complex cellular phenomena – from RNA processing to differentiation. We leveraged this ability to systematically identify the genetic drivers and consequences of aneuploidy and to discover an unanticipated layer of stress-specific regulation of the mitochondrial genome. Our information-rich genotype-phenotype map thus reveals a multidimensional portrait of gene function and cellular behavior.</p>
 

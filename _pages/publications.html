@@ -28,6 +28,7 @@ permalink: /publications/
    <div class="authors">
    {% for author in pub.authors %}
 
+{% comment %}
       {% capture author_id %}{{ author | split: " " | first }}{{ author | split: " " | last }}{% endcapture %}
 
       {% if lab_members contains author_id %}
@@ -35,12 +36,13 @@ permalink: /publications/
          <nobr><a href="/people/#{{author_id}}" class="author_link"><b>{{ author }}</b></a>{% if forloop.last == false %},{% endif %}</nobr>
 
       {% else %}
-
          <nobr>{{ author }}{% if forloop.last == false %},{% endif %}</nobr>
 
       {% endif %}
-
+{% endcomment %}
+         <nobr>{{ author }}{% if forloop.last == false %},{% endif %}</nobr>
    {% endfor %}
+
 
    </div>
 

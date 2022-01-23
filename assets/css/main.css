@@ -60,3 +60,11 @@ a.article_link {
   height:100%;
   object-fit: cover;
 }
+
+:target::before {
+  content: "";
+  display: block;
+  height: 70px; /* fixed header height*/
+  margin: -70px 0 0; /* negative fixed header height */
+}
+
