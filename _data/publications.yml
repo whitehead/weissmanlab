@@ -1,3 +1,94 @@
+- title: BRD2 inhibition blocks SARS-CoV-2 infection by reducing transcription of
+    the host cell receptor ACE2.
+  authors:
+  - Avi J Samelson
+  - Quang Dinh Tran
+  - "R\xE9my Robinot"
+  - Lucia Carrau
+  - Veronica V Rezelj
+  - Alice Mac Kain
+  - Merissa Chen
+  - Gokul N Ramadoss
+  - Xiaoyan Guo
+  - Shion A Lim
+  - Irene Lui
+  - "James K Nu\xF1ez"
+  - Sarah J Rockwood
+  - Jianhui Wang
+  - Na Liu
+  - Jared Carlson-Stevermer
+  - Jennifer Oki
+  - Travis Maures
+  - Kevin Holden
+  - Jonathan S Weissman
+  - James A Wells
+  - Bruce R Conklin
+  - Benjamin R TenOever
+  - Lisa A Chakrabarti
+  - Marco Vignuzzi
+  - Ruilin Tian
+  - Martin Kampmann
+  publication_date: 15/01/22
+  publication_year: '2022'
+  pubmed_id: '35027731'
+  abstract: SARS-CoV-2 infection of human cells is initiated by the binding of the
+    viral Spike protein to its cell-surface receptor ACE2. We conducted a targeted
+    CRISPRi screen to uncover druggable pathways controlling Spike protein binding
+    to human cells. Here we show that the protein BRD2 is required for ACE2 transcription
+    in human lung epithelial cells and cardiomyocytes, and BRD2 inhibitors currently
+    evaluated in clinical trials potently block endogenous ACE2 expression and SARS-CoV-2
+    infection of human cells, including those of human nasal epithelia. Moreover,
+    pharmacological BRD2 inhibition with the drug ABBV-744 inhibited SARS-CoV-2 replication
+    in Syrian hamsters. We also found that BRD2 controls transcription of several
+    other genes induced upon SARS-CoV-2 infection, including the interferon response,
+    which in turn regulates the antiviral response. Together, our results pinpoint
+    BRD2 as a potent and essential regulator of the host response to SARS-CoV-2 infection
+    and highlight the potential of BRD2 as a therapeutic target for COVID-19.
+  doi: 10.1038/s41556-021-00821-8
+  journal: Nature cell biology
+- title: Peroxisome function relies on organelle-associated mRNA translation.
+  authors:
+  - Noa Dahan
+  - Yury S Bykov
+  - Elizabeth A Boydston
+  - Amir Fadel
+  - Zohar Gazi
+  - Hodaya Hochberg-Laufer
+  - James Martenson
+  - Vlad Denic
+  - Yaron Shav-Tal
+  - Jonathan S Weissman
+  - Naama Aviram
+  - Einat Zalckvar
+  - Maya Schuldiner
+  publication_date: 13/01/22
+  publication_year: '2022'
+  pubmed_id: '35020435'
+  abstract: '[Figure: see text].'
+  doi: 10.1126/sciadv.abk2141
+  journal: Science advances
+- title: 'The dark proteome: translation from noncanonical open reading frames.'
+  authors:
+  - Bradley W Wright
+  - Zixin Yi
+  - Jonathan S Weissman
+  - Jin Chen
+  publication_date: 01/12/21
+  publication_year: '2021'
+  pubmed_id: '34844857'
+  abstract: Omics-based technologies have revolutionized our understanding of the
+    coding potential of the genome. In particular, these studies revealed widespread
+    unannotated open reading frames (ORFs) throughout genomes and that these regions
+    have the potential to encode novel functional (micro-)proteins and/or hold regulatory
+    roles. However, despite their genomic prevalence, relatively few of these noncanonical
+    ORFs have been functionally characterized, likely in part due to their under-recognition
+    by the broader scientific community. The few that have been investigated in detail
+    have demonstrated their essentiality in critical and divergent biological processes.
+    As such, here we aim to discuss recent advances in understanding the diversity
+    of noncanonical ORFs and their roles, as well as detail biologically important
+    examples within the context of the mammalian genome.
+  doi: 10.1016/j.tcb.2021.10.010
+  journal: Trends in cell biology
 - title: Functional single-cell genomics of human cytomegalovirus infection.
   authors:
   - Marco Y Hein
@@ -428,7 +519,8 @@
     \ approach to facilitate imaging-based pooled CRISPR screens."
   doi: 10.1083/jcb.202008158
   journal: The Journal of cell biology
-- title: 'A CRISPR/Cas9-Engineered ARID1A-Deficient Human Gastric Cancer Organoid Model Reveals Essential and Nonessential Modes of Oncogenic Transformation'
+- title: A CRISPR/Cas9-Engineered ARID1A-Deficient Human Gastric Cancer Organoid Model
+    Reveals Essential and Nonessential Modes of Oncogenic Transformation
   authors:
   - Yuan-Hung Lo
   - Kevin S Kolahi
@@ -1033,7 +1125,8 @@
     for diseases of dysregulated gene expression.
   doi: 10.1038/s41587-019-0387-5
   journal: Nature biotechnology
-- title: 'The microtubule regulator ringer functions downstream from the RNA repair/splicing pathway to promote axon regeneration'
+- title: The microtubule regulator ringer functions downstream from the RNA repair/splicing
+    pathway to promote axon regeneration
   authors:
   - Ernest J Monahan Vargas
   - Andrew J Matamoros
