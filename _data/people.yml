@@ -88,6 +88,12 @@
   id: DianYang
   alum: false
 
+- name: Chen Weng
+  pos: Post-doc
+  email: cweng@wi.mit.edu
+  id: ChenWeng
+  alum: false
+
 - name: Tessa Bertozzi
   pos: Post-doc
   email: bertozzi@wi.mit.edu
@@ -201,7 +207,7 @@
   id: JeffreyQuinn
   alum: true
 
-- name: Jess Bonnar
+- name: Jessica Bonnar
   pos: Technician
   id: JessBonnar
   alum: true
