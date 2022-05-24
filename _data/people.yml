@@ -112,10 +112,10 @@
   id: GenyaFrenkel
   alum: false
 
-- name: Lakshmi Miller-Vedam
-  pos: Grad student
-  email: lmvedam@wi.mit.edu
-  id: LakshmiMiller-Vedam
+- name: Julia Joung
+  pos: Post-doc
+  email: joung@wi.mit.edu
+  id: JuliaJoung
   alum: false
 
 - name: Reuben Saunders
@@ -166,6 +166,12 @@
   id: KarinaSmolyar
   alum: false
 
+- name: Edwin Neumann
+  pos: Grad student
+  email: enn@wi.mit.edu
+  id: EdwinNeumann
+  alum: false
+
 - name: Sarah Schumacher
   pos: Technician
   email: sjanel@wi.mit.edu
@@ -189,6 +195,24 @@
   email: yue.h@wi.mit.edu
   id: YueHue
   alum: false
+
+- name: Victory Yinka-Banjo
+  pos: Undergrad
+  email: victory@wi.mit.edu
+  id: VictoryYinka-Banjo
+  alum: false
+
+- name: Ba Pham
+  pos: Lab Assistant
+  email: batongvn@wi.mit.edu
+  id: BaPham
+  alum: false
+
+- name: Lakshmi Miller-Vedam
+  pos: Grad student
+  email: lmvedam@wi.mit.edu
+  id: LakshmiMiller-Vedam
+  alum: true
 
 - name: Joseph Replogle
   pos: Grad student
