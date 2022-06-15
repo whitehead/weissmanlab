@@ -1,3 +1,245 @@
+- title: Mapping information-rich genotype-phenotype landscapes with genome-scale
+    Perturb-seq.
+  authors:
+  - Joseph M Replogle
+  - Reuben A Saunders
+  - Angela N Pogson
+  - Jeffrey A Hussmann
+  - Alexander Lenail
+  - Alina Guna
+  - Lauren Mascibroda
+  - Eric J Wagner
+  - Karen Adelman
+  - Gila Lithwick-Yanai
+  - Nika Iremadze
+  - Florian Oberstrass
+  - Doron Lipson
+  - Jessica L Bonnar
+  - Marco Jost
+  - Thomas M Norman
+  - Jonathan S Weissman
+  publication_date: 11/06/22
+  publication_year: '2022'
+  pubmed_id: '35688146'
+  abstract: A central goal of genetics is to define the relationships between genotypes
+    and phenotypes. High-content phenotypic screens such as Perturb-seq (CRISPR-based
+    screens with single-cell RNA-sequencing readouts) enable massively parallel functional
+    genomic mapping but, to date, have been used at limited scales. Here, we perform
+    genome-scale Perturb-seq targeting all expressed genes with CRISPR interference
+    (CRISPRi) across >2.5 million human cells. We use transcriptional phenotypes to
+    predict the function of poorly characterized genes, uncovering new regulators
+    of ribosome biogenesis (including CCDC86, ZNF236, and SPATA5L1), transcription
+    (C7orf26), and mitochondrial respiration (TMEM242). In addition to assigning gene
+    function, single-cell transcriptional phenotypes allow for in-depth dissection
+    of complex cellular phenomena-from RNA processing to differentiation. We leverage
+    this ability to systematically identify genetic drivers and consequences of aneuploidy
+    and to discover an unanticipated layer of stress-specific regulation of the mitochondrial
+    genome. Our information-rich genotype-phenotype map reveals a multidimensional
+    portrait of gene and cellular function.
+  doi: 10.1016/j.cell.2022.05.013
+  journal: Cell
+- title: Variant to function mapping at single-cell resolution through network propagation.
+  authors:
+  - Fulong Yu
+  - Liam D Cato
+  - Chen Weng
+  - L Alexander Liggett
+  - Soyoung Jeon
+  - Keren Xu
+  - Charleston W K Chiang
+  - Joseph L Wiemels
+  - Jonathan S Weissman
+  - Adam J de Smith
+  - Vijay G Sankaran
+  publication_date: 07/06/22
+  publication_year: '2022'
+  pubmed_id: '35668323'
+  abstract: Genome-wide association studies in combination with single-cell genomic
+    atlases can provide insights into the mechanisms of disease-causal genetic variation.
+    However, identification of disease-relevant or trait-relevant cell types, states
+    and trajectories is often hampered by sparsity and noise, particularly in the
+    analysis of single-cell epigenomic data. To overcome these challenges, we present
+    SCAVENGE, a computational algorithm that uses network propagation to map causal
+    variants to their relevant cellular context at single-cell resolution. We demonstrate
+    how SCAVENGE can help identify key biological mechanisms underlying human genetic
+    variation, applying the method to blood traits at distinct stages of human hematopoiesis,
+    to monocyte subsets that increase the risk for severe Coronavirus Disease 2019
+    (COVID-19) and to intermediate lymphocyte developmental states that predispose
+    to acute leukemia. Our approach not only provides a framework for enabling variant-to-function
+    insights at single-cell resolution but also suggests a more general strategy for
+    maximizing the inferences that can be made using single-cell genomic data.
+  doi: 10.1038/s41587-022-01341-y
+  journal: Nature biotechnology
+- title: Lineage tracing reveals the phylodynamics, plasticity, and paths of tumor
+    evolution.
+  authors:
+  - Dian Yang
+  - Matthew G Jones
+  - Santiago Naranjo
+  - William M Rideout
+  - Kyung Hoi Joseph Min
+  - Raymond Ho
+  - Wei Wu
+  - Joseph M Replogle
+  - Jennifer L Page
+  - Jeffrey J Quinn
+  - Felix Horns
+  - Xiaojie Qiu
+  - Michael Z Chen
+  - William A Freed-Pastor
+  - Christopher S McGinnis
+  - David M Patterson
+  - Zev J Gartner
+  - Eric D Chow
+  - Trever G Bivona
+  - Michelle M Chan
+  - Nir Yosef
+  - Tyler Jacks
+  - Jonathan S Weissman
+  publication_date: 07/05/22
+  publication_year: '2022'
+  pubmed_id: '35523183'
+  abstract: Tumor evolution is driven by the progressive acquisition of genetic and
+    epigenetic alterations that enable uncontrolled growth and expansion to neighboring
+    and distal tissues. The study of phylogenetic relationships between cancer cells
+    provides key insights into these processes. Here, we introduced an evolving lineage-tracing
+    system with a single-cell RNA-seq readout into a mouse model of Kras;Trp53(KP)-driven
+    lung adenocarcinoma and tracked tumor evolution from single-transformed cells
+    to metastatic tumors at unprecedented resolution. We found that the loss of the
+    initial, stable alveolar-type2-like state was accompanied by a transient increase
+    in plasticity. This was followed by the adoption of distinct transcriptional programs
+    that enable rapid expansion and, ultimately, clonal sweep of stable subclones
+    capable of metastasizing. Finally, tumors develop through stereotypical evolutionary
+    trajectories, and perturbing additional tumor suppressors accelerates progression
+    by creating novel trajectories. Our study elucidates the hierarchical nature of
+    tumor evolution and, more broadly, enables in-depth studies of tumor progression.
+  doi: 10.1016/j.cell.2022.04.015
+  journal: Cell
+- title: 'OpenCell: Endogenous tagging for the cartography of human cellular organization.'
+  authors:
+  - Nathan H Cho
+  - Keith C Cheveralls
+  - Andreas-David Brunner
+  - Kibeom Kim
+  - "Andr\xE9 C Michaelis"
+  - Preethi Raghavan
+  - Hirofumi Kobayashi
+  - Laura Savy
+  - Jason Y Li
+  - Hera Canaj
+  - James Y S Kim
+  - Edna M Stewart
+  - Christian Gnann
+  - Frank McCarthy
+  - Joana P Cabrera
+  - Rachel M Brunetti
+  - Bryant B Chhun
+  - Greg Dingle
+  - Marco Y Hein
+  - Bo Huang
+  - Shalin B Mehta
+  - Jonathan S Weissman
+  - "Rafael G\xF3mez-Sj\xF6berg"
+  - Daniel N Itzhak
+  - "Lo\xEFc A Royer"
+  - Matthias Mann
+  - Manuel D Leonetti
+  publication_date: 11/03/22
+  publication_year: '2022'
+  pubmed_id: '35271311'
+  abstract: Elucidating the wiring diagram of the human cell is a central goal of
+    the postgenomic era. We combined genome engineering, confocal live-cell imaging,
+    mass spectrometry, and data science to systematically map the localization and
+    interactions of human proteins. Our approach provides a data-driven description
+    of the molecular and spatial networks that organize the proteome. Unsupervised
+    clustering of these networks delineates functional communities that facilitate
+    biological discovery. We found that remarkably precise functional information
+    can be derived from protein localization patterns, which often contain enough
+    information to identify molecular interactions, and that RNA binding proteins
+    form a specific subgroup defined by unique interaction and localization properties.
+    Paired with a fully interactive website (opencell.czbiohub.org), our work constitutes
+    a resource for the quantitative cartography of human cellular organization.
+  doi: 10.1126/science.abi6983
+  journal: Science
+- title: Variant to function mapping at single-cell resolution through network propagation.
+  authors:
+  - Fulong Yu
+  - Liam D Cato
+  - Chen Weng
+  - L Alexander Liggett
+  - Soyoung Jeon
+  - Keren Xu
+  - Charleston W K Chiang
+  - Joseph L Wiemels
+  - Jonathan S Weissman
+  - Adam J de Smith
+  - Vijay G Sankaran
+  publication_date: 05/02/22
+  publication_year: '2022'
+  pubmed_id: '35118467'
+  abstract: With burgeoning human disease genetic associations and single-cell genomic
+    atlases covering a range of tissues, there are unprecedented opportunities to
+    systematically gain insights into the mechanisms of disease-causal variation.
+    However, sparsity and noise, particularly in the context of single-cell epigenomic
+    data, hamper the identification of disease- or trait-relevant cell types, states,
+    and trajectories. To overcome these challenges, we have developed the SCAVENGE
+    method, which maps causal variants to their relevant cellular context at single-cell
+    resolution by employing the strategy of network propagation. We demonstrate how
+    SCAVENGE can help identify key biological mechanisms underlying human genetic
+    variation including enrichment of blood traits at distinct stages of human hematopoiesis,
+    defining monocyte subsets that increase the risk for severe coronavirus disease
+    2019 (COVID-19), and identifying intermediate lymphocyte developmental states
+    that are critical for predisposition to acute leukemia. Our approach not only
+    provides a framework for enabling variant-to-function insights at single-cell
+    resolution, but also suggests a more general strategy for maximizing the inferences
+    that can be made using single-cell genomic data.
+  doi: 10.1101/2022.01.23.477426
+  journal: biorxiv
+- title: Mapping transcriptomic vector fields of single cells.
+  authors:
+  - Xiaojie Qiu
+  - Yan Zhang
+  - Jorge D Martin-Rufino
+  - Chen Weng
+  - Shayan Hosseinzadeh
+  - Dian Yang
+  - Angela N Pogson
+  - Marco Y Hein
+  - Kyung Hoi Joseph Min
+  - Li Wang
+  - Emanuelle I Grody
+  - Matthew J Shurtleff
+  - Ruoshi Yuan
+  - Song Xu
+  - Yian Ma
+  - Joseph M Replogle
+  - Eric S Lander
+  - Spyros Darmanis
+  - Ivet Bahar
+  - Vijay G Sankaran
+  - Jianhua Xing
+  - Jonathan S Weissman
+  publication_date: 03/02/22
+  publication_year: '2022'
+  pubmed_id: '35108499'
+  abstract: Single-cell (sc)RNA-seq, together with RNA velocity and metabolic labeling,
+    reveals cellular states and transitions at unprecedented resolution. Fully exploiting
+    these data, however, requires kinetic models capable of unveiling governing regulatory
+    functions. Here, we introduce an analytical framework dynamo (https://github.com/aristoteleo/dynamo-release),
+    which infers absolute RNA velocity, reconstructs continuous vector fields that
+    predict cell fates, employs differential geometry to extract underlying regulations,
+    and ultimately predicts optimal reprogramming paths and perturbation outcomes.
+    We highlight dynamo's power to overcome fundamental limitations of conventional
+    splicing-based RNA velocity analyses to enable accurate velocity estimations on
+    a metabolically labeled human hematopoiesis scRNA-seq dataset. Furthermore, differential
+    geometry analyses reveal mechanisms driving early megakaryocyte appearance and
+    elucidate asymmetrical regulation within the PU.1-GATA1 circuit. Leveraging the
+    least-action-path method, dynamo accurately predicts drivers of numerous hematopoietic
+    transitions. Finally, in silico perturbations predict cell-fate diversions induced
+    by gene perturbations. Dynamo, thus, represents an important step in advancing
+    quantitative and predictive theories of cell-state transitions.
+  doi: 10.1016/j.cell.2021.12.045
+  journal: Cell
 - title: BRD2 inhibition blocks SARS-CoV-2 infection by reducing transcription of
     the host cell receptor ACE2.
   authors:
