@@ -184,11 +184,11 @@
   id: TheoEsantsi
   alum: false
 
-- name: James Cameron
-  pos: Technician
-  email: jcameron@wi.mit.edu
-  id: JamesCameron
-  alum: false
+# - name: James Cameron
+#   pos: Technician
+#   email: jcameron@wi.mit.edu
+#   id: JamesCameron
+#   alum: false
 
 - name: Elaine Wu
   pos: Technician
@@ -220,11 +220,11 @@
   id: ArhanKumar
   alum: false
 
-- name: Thao Nguyen
-  pos: Undergrad
-  email: thaobio@mit.edu
-  id: ThaoNguyen
-  alum: false
+# - name: Thao Nguyen
+#   pos: Undergrad
+#   email: thaobio@mit.edu
+#   id: ThaoNguyen
+#   alum: false
 
 - name: Ba Pham
   pos: Lab Assistant
