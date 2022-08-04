@@ -62,7 +62,7 @@
   pos: Senior Scientist
   email: jah@wi.mit.edu
   id: JeffreyHussmann
-  alum: false
+  alum: true
 
 - name: Alina Guna
   pos: Post-doc
@@ -128,7 +128,7 @@
   pos: Grad student
   email: mgjones@wi.mit.edu
   id: MatthewJones
-  alum: false
+  alum: true
 
 - name: Alex LeNail
   pos: Grad student
@@ -158,7 +158,7 @@
   pos: Grad student
   email: kmin@wi.mit.edu
   id: JosephMin
-  alum: false
+  alum: true
 
 - name: Karina Smolyar
   pos: Grad student
@@ -176,12 +176,24 @@
   pos: Technician
   email: sjanel@wi.mit.edu
   id: SarahSchumacher
-  alum: false
+  alum: true
 
-- name: Theo Esanti
+- name: Theo Esantsi
   pos: Technician
   email: esantsit@wi.mit.edu
-  id: TheoEsanti
+  id: TheoEsantsi
+  alum: false
+
+- name: James Cameron
+  pos: Technician
+  email: jcameron@wi.mit.edu
+  id: JamesCameron
+  alum: false
+
+- name: Elaine Wu
+  pos: Technician
+  email: elainewu@wi.mit.edu
+  id: ElaineWu
   alum: false
 
 - name: Atharv Oak
@@ -190,16 +202,28 @@
   id: AtharvOak
   alum: false
 
-- name: Yue Hue
+- name: Yue He
   pos: Undergrad
   email: yue.h@wi.mit.edu
-  id: YueHue
+  id: YueHe
   alum: false
 
 - name: Victory Yinka-Banjo
   pos: Undergrad
   email: victory@wi.mit.edu
   id: VictoryYinka-Banjo
+  alum: false
+
+- name: Arhan Kumar
+  pos: Undergrad
+  email: arhank@wi.mit.edu
+  id: ArhanKumar
+  alum: false
+
+- name: Thao Nguyen
+  pos: Undergrad
+  email: thaobio@mit.edu
+  id: ThaoNguyen
   alum: false
 
 - name: Ba Pham
