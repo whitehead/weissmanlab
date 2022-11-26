@@ -58,18 +58,6 @@
   id: KatieYost
   alum: false
 
-- name: Jeff Hussmann
-  pos: Senior Scientist
-  email: jah@wi.mit.edu
-  id: JeffreyHussmann
-  alum: true
-
-- name: Alina Guna
-  pos: Post-doc
-  email: aguna@wi.mit.edu
-  id: AlinaGuna
-  alum: false
-
 - name: Mohamed El-Brolosy
   pos: Post-doc
   email: mbrolosy@wi.mit.edu
@@ -124,12 +112,6 @@
   id: ReubenSaunders
   alum: false
 
-- name: Matt Jones
-  pos: Grad student
-  email: mgjones@wi.mit.edu
-  id: MatthewJones
-  alum: true
-
 - name: Alex LeNail
   pos: Grad student
   email: lenail@mit.edu
@@ -154,12 +136,6 @@
   id: AcerXu
   alum: false
 
-- name: Joseph Min
-  pos: Grad student
-  email: kmin@wi.mit.edu
-  id: JosephMin
-  alum: true
-
 - name: Karina Smolyar
   pos: Grad student
   email: ksmolyar@wi.mit.edu
@@ -172,23 +148,17 @@
   id: EdwinNeumann
   alum: false
 
-- name: Sarah Schumacher
-  pos: Technician
-  email: sjanel@wi.mit.edu
-  id: SarahSchumacher
-  alum: true
-
 - name: Theo Esantsi
   pos: Technician
   email: esantsit@wi.mit.edu
   id: TheoEsantsi
   alum: false
 
-# - name: James Cameron
-#   pos: Technician
-#   email: jcameron@wi.mit.edu
-#   id: JamesCameron
-#   alum: false
+- name: James Cameron
+  pos: Technician
+  email: jcameron@wi.mit.edu
+  id: JamesCameron
+  alum: false
 
 - name: Elaine Wu
   pos: Technician
@@ -231,6 +201,36 @@
   email: batongvn@wi.mit.edu
   id: BaPham
   alum: false
+
+- name: Jeff Hussmann
+  pos: Senior Scientist
+  email: jah@wi.mit.edu
+  id: JeffreyHussmann
+  alum: true
+
+- name: Alina Guna
+  pos: Post-doc
+  email: aguna@wi.mit.edu
+  id: AlinaGuna
+  alum: true
+
+- name: Joseph Min
+  pos: Grad student
+  email: kmin@wi.mit.edu
+  id: JosephMin
+  alum: true
+
+- name: Sarah Schumacher
+  pos: Technician
+  email: sjanel@wi.mit.edu
+  id: SarahSchumacher
+  alum: true
+
+- name: Matt Jones
+  pos: Grad student
+  email: mgjones@wi.mit.edu
+  id: MatthewJones
+  alum: true
 
 - name: Lakshmi Miller-Vedam
   pos: Grad student

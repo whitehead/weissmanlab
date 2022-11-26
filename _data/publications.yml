@@ -1,3 +1,277 @@
+- title: Dual genome-wide coding and lncRNA screens in neural induction of induced
+    pluripotent stem cells.
+  authors:
+  - David Wu
+  - Aunoy Poddar
+  - Elpiniki Ninou
+  - Elizabeth Hwang
+  - Mitchel A Cole
+  - S John Liu
+  - Max A Horlbeck
+  - Jin Chen
+  - Joseph M Replogle
+  - Giovanni A Carosso
+  - Nicolas W L Eng
+  - Jonghoon Chang
+  - Yin Shen
+  - Jonathan S Weissman
+  - Daniel A Lim
+  publication_date: 17/11/22
+  publication_year: '2022'
+  pubmed_id: '36381608'
+  abstract: Human chromosomes are pervasively transcribed, but systematic understanding
+    of coding and lncRNA genome function in cell differentiation is lacking. Using
+    CRISPR interference (CRISPRi) in human induced pluripotent stem cells, we performed
+    dual genome-wide screens - assessing 18,905 protein-coding and 10,678 lncRNA loci
+    - and identified 419 coding and 201 lncRNA genes that regulate neural induction.
+    Integrative analyses revealed distinct properties of coding and lncRNA genome
+    function, including a 10-fold enrichment of lncRNA genes for roles in differentiation
+    compared to proliferation. Further, we applied Perturb-seq to obtain granular
+    insights into neural induction phenotypes. While most coding hits stalled or aborted
+    differentiation, lncRNA hits were enriched for the genesis of diverse cellular
+    states, including those outside the neural lineage. In addition to providing a
+    rich resource (danlimlab.shinyapps.io/dualgenomewide) for understanding coding
+    and lncRNA gene function in development, these results indicate that the lncRNA
+    genome regulates lineage commitment in a manner fundamentally distinct from coding
+    genes.
+  doi: 10.1016/j.xgen.2022.100177
+  journal: Cell genomics
+- title: GATOR2-dependent mTORC1 activity is a therapeutic vulnerability in FOXO1
+    fusion positive rhabdomyosarcoma.
+  authors:
+  - Jacqueline Morales
+  - David V Allegakoen
+  - "Jos\xE9 A Garcia"
+  - Kristen Kwong
+  - Pushpendra K Sahu
+  - Drew A Fajardo
+  - Yue Pan
+  - Max A Horlbeck
+  - Jonathan S Weissman
+  - W Clay Gustafson
+  - Trever G Bivona
+  - Amit J Sabnis
+  publication_date: 26/10/22
+  publication_year: '2022'
+  pubmed_id: '36282590'
+  abstract: Oncogenic FOXO1 gene fusions drive a subset of rhabdomyosarcoma (RMS)
+    with poor survival and to date these cancer drivers are therapeutically intractable.
+    To identify new therapies for this disease, we undertook an isogenic CRISPR-interference
+    screen to define PAX3-FOXO1 specific genetic dependencies and identified genes
+    in the GATOR2 complex. GATOR2 loss in RMS abrogated amino acid-induced lysosomal
+    localization of mTORC1 and consequent downstream signaling, slowing G1-S cell
+    cycle transition. In vivo suppression of GATOR2 impaired the growth of tumor xenografts
+    and favored the outgrowth of cells lacking PAX3-FOXO1. Loss of a subset of GATOR2
+    members can be compensated by direct genetic activation of mTORC1. RAS mutations
+    are also sufficient to decouple mTORC1 activation from GATOR2, and indeed fusion
+    negative RMS harboring such mutations exhibit amino acid-independent mTORC1 activity.
+    A bi-steric, mTORC1-selective small molecule induced tumor regressions in fusion
+    positive patient-derived tumor xenografts. These findings highlight a vulnerability
+    in FOXO1 fusion positive RMS and provide rationale for the clinical evaluation
+    of bi-steric mTORC1 inhibitors, currently in phase 1 testing, to treat this disease.
+    Isogenic genetic screens can thus identify potentially exploitable vulnerabilities
+    in fusion driven pediatric cancers which otherwise remain mostly undruggable.
+  doi: 10.1172/jci.insight.162207
+  journal: JCI insight
+- title: MTCH2 is a mitochondrial outer membrane protein insertase.
+  authors:
+  - Alina Guna
+  - Taylor A Stevens
+  - Alison J Inglis
+  - Joseph M Replogle
+  - Theodore K Esantsi
+  - Gayathri Muthukumar
+  - Kelly C L Shaffer
+  - Maxine L Wang
+  - Angela N Pogson
+  - Jeff J Jones
+  - Brett Lomenick
+  - Tsui-Fen Chou
+  - Jonathan S Weissman
+  - Rebecca M Voorhees
+  publication_date: 21/10/22
+  publication_year: '2022'
+  pubmed_id: '36264797'
+  abstract: "In the mitochondrial outer membrane, \u03B1-helical transmembrane proteins\
+    \ play critical roles in cytoplasmic-mitochondrial communication. Using genome-wide\
+    \ CRISPR screens, we identified mitochondrial carrier homolog 2 (MTCH2), and its\
+    \ paralog MTCH1, and showed that it is required for insertion of biophysically\
+    \ diverse tail-anchored (TA), signal-anchored, and multipass proteins, but not\
+    \ outer membrane \u03B2-barrel proteins. Purified MTCH2 was sufficient to mediate\
+    \ insertion into reconstituted proteoliposomes. Functional and mutational studies\
+    \ suggested that MTCH2 has evolved from a solute carrier transporter. MTCH2 uses\
+    \ membrane-embedded hydrophilic residues to function as a gatekeeper for the outer\
+    \ membrane, controlling mislocalization of TAs into the endoplasmic reticulum\
+    \ and modulating the sensitivity of leukemia cells to apoptosis. Our identification\
+    \ of MTCH2 as an insertase provides a mechanistic explanation for the diverse\
+    \ phenotypes and disease states associated with MTCH2 dysfunction."
+  doi: 10.1126/science.add1856
+  journal: Science
+- title: Cellular barcoding to decipher clonal dynamics in disease.
+  authors:
+  - Vijay G Sankaran
+  - Jonathan S Weissman
+  - Leonard I Zon
+  publication_date: 14/10/22
+  publication_year: '2022'
+  pubmed_id: '36227997'
+  abstract: Cellular barcodes are distinct DNA sequences that enable one to track
+    specific cells across time or space. Recent advances in our ability to detect
+    natural or synthetic cellular barcodes, paired with single-cell readouts of cell
+    state, have markedly increased our knowledge of clonal dynamics and genealogies
+    of the cells that compose a variety of tissues and organs. These advances hold
+    promise to redefine our view of human disease. Here, we provide an overview of
+    cellular barcoding approaches, discuss applications to gain new insights into
+    disease mechanisms, and provide an outlook on future applications. We discuss
+    unanticipated insights gained through barcoding in studies of cancer and blood
+    cell production and describe how barcoding can be applied to a growing array of
+    medical fields, particularly with the increasing recognition of clonal contributions
+    in human diseases.
+  doi: 10.1126/science.abm5874
+  journal: Science
+- title: Adaptive exchange sustains cullin-RING ubiquitin ligase networks and proper
+    licensing of DNA replication.
+  authors:
+  - Yaru Zhang
+  - Marco Jost
+  - Ryan A Pak
+  - Daniel Lu
+  - Jing Li
+  - Brett Lomenick
+  - Spiros D Garbis
+  - Chi-Ming Li
+  - Jonathan S Weissman
+  - James Russell Lipford
+  - Raymond J Deshaies
+  publication_date: 30/08/22
+  publication_year: '2022'
+  pubmed_id: '36037385'
+  abstract: Cop9 signalosome (CSN) regulates the function of cullin-RING E3 ubiquitin
+    ligases (CRLs) by deconjugating the ubiquitin-like protein NEDD8 from the cullin
+    subunit. To understand the physiological impact of CSN function on the CRL network
+    and cell proliferation, we combined quantitative mass spectrometry and genome-wide
+    CRISPR interference (CRISPRi) and CRISPR activation (CRISPRa) screens to identify
+    factors that modulate cell viability upon inhibition of CSN by the small molecule
+    CSN5i-3. CRL components and regulators strongly modulated the antiproliferative
+    effects of CSN5i-3, and in addition we found two pathways involved in genome integrity,
+    SCF
+  doi: 10.1073/pnas.2205608119
+  journal: PNAS
+- title: Ras-mutant cancers are sensitive to small molecule inhibition of V-type ATPases
+    in mice.
+  authors:
+  - Bhairavi Tolani
+  - Anna Celli
+  - Yanmin Yao
+  - Yong Zi Tan
+  - Richard Fetter
+  - Christina R Liem
+  - Adam J de Smith
+  - Thamiya Vasanthakumar
+  - Paola Bisignano
+  - Adam D Cotton
+  - Ian B Seiple
+  - John L Rubinstein
+  - Marco Jost
+  - Jonathan S Weissman
+  publication_date: 26/07/22
+  publication_year: '2022'
+  pubmed_id: '35879364'
+  abstract: Mutations in Ras family proteins are implicated in 33% of human cancers,
+    but direct pharmacological inhibition of Ras mutants remains challenging. As an
+    alternative to direct inhibition, we screened for sensitivities in Ras-mutant
+    cells and discovered 249C as a Ras-mutant selective cytotoxic agent with nanomolar
+    potency against a spectrum of Ras-mutant cancers. 249C binds to vacuolar (V)-ATPase
+    with nanomolar affinity and inhibits its activity, preventing lysosomal acidification
+    and inhibiting autophagy and macropinocytosis pathways that several Ras-driven
+    cancers rely on for survival. Unexpectedly, potency of 249C varies with the identity
+    of the Ras driver mutation, with the highest potency for KRASG13D and G12V both
+    in vitro and in vivo, highlighting a mutant-specific dependence on macropinocytosis
+    and lysosomal pH. Indeed, 249C potently inhibits tumor growth without adverse
+    side effects in mouse xenografts of KRAS-driven lung and colon cancers. A comparison
+    of isogenic SW48 xenografts with different KRAS mutations confirmed that KRASG13D/+
+    (followed by G12V/+) mutations are especially sensitive to 249C treatment. These
+    data establish proof-of-concept for targeting V-ATPase in cancers driven by specific
+    KRAS mutations such as KRASG13D and G12V.
+  doi: 10.1038/s41587-022-01386-z
+  journal: Nature biotechnology
+- title: Standardized annotation of translated open reading frames.
+  authors:
+  - Jonathan M Mudge
+  - Jorge Ruiz-Orera
+  - John R Prensner
+  - Marie A Brunet
+  - Ferriol Calvet
+  - Irwin Jungreis
+  - Jose Manuel Gonzalez
+  - Michele Magrane
+  - Thomas F Martinez
+  - Jana Felicitas Schulz
+  - Yucheng T Yang
+  - "M Mar Alb\xE0"
+  - Julie L Aspden
+  - Pavel V Baranov
+  - Ariel A Bazzini
+  - Elspeth Bruford
+  - Maria Jesus Martin
+  - Lorenzo Calviello
+  - Anne-Ruxandra Carvunis
+  - Jin Chen
+  - Juan Pablo Couso
+  - Eric W Deutsch
+  - Paul Flicek
+  - Adam Frankish
+  - Mark Gerstein
+  - Norbert Hubner
+  - Nicholas T Ingolia
+  - Manolis Kellis
+  - Gerben Menschaert
+  - Robert L Moritz
+  - Uwe Ohler
+  - Xavier Roucou
+  - Alan Saghatelian
+  - Jonathan S Weissman
+  - Sebastiaan van Heesch
+  publication_date: 14/07/22
+  publication_year: '2022'
+  pubmed_id: '35831657'
+  abstract: null
+  doi: 10.1038/s41587-022-01369-0
+  journal: Nature biotechnology
+- title: A campaign targeting a conserved Hsp70 binding site uncovers how subcellular
+    localization is linked to distinct biological activities.
+  authors:
+  - Hao Shao
+  - Shuhei Taguwa
+  - Luke Gilbert
+  - Arielle Shkedi
+  - Sara Sannino
+  - Christopher J Guerriero
+  - Zachary J Gale-Day
+  - Zapporah T Young
+  - Jeffrey L Brodsky
+  - Jonathan Weissman
+  - Jason E Gestwicki
+  - Judith Frydman
+  publication_date: 14/07/22
+  publication_year: '2022'
+  pubmed_id: '35830852'
+  abstract: The potential of small molecules to localize within subcellular compartments
+    is rarely explored. To probe this question, we measured the localization of Hsp70
+    inhibitors using fluorescence microscopy. We found that even closely related analogs
+    had dramatically different distributions, with some residing predominantly in
+    the mitochondria and others in the ER. CRISPRi screens supported this idea, showing
+    that different compounds had distinct chemogenetic interactions with Hsp70s of
+    the ER (HSPA5/BiP) and mitochondria (HSPA9/mortalin) and their co-chaperones.
+    Moreover, localization seemed to determine function, even for molecules with conserved
+    binding sites. Compounds with distinct partitioning have distinct anti-proliferative
+    activity in breast cancer cells compared with anti-viral activity in cellular
+    models of Dengue virus replication, likely because different sets of Hsp70s are
+    required in these processes. These findings highlight the contributions of subcellular
+    partitioning and chemogenetic interactions to small molecule activity, features
+    that are rarely explored during medicinal chemistry campaigns.
+  doi: 10.1016/j.chembiol.2022.06.006
+  journal: Cell chemical biology
 - title: Mapping information-rich genotype-phenotype landscapes with genome-scale
     Perturb-seq.
   authors:
