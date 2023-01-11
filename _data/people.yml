@@ -59,7 +59,7 @@
   alum: false
 
 - name: Mohamed El-Brolosy
-  pos: Post-doc
+  pos: Visiting Scientist
   email: mbrolosy@wi.mit.edu
   id: MohamedEl-Brolosy
   alum: false
@@ -176,7 +176,7 @@
   pos: Undergrad
   email: yue.h@wi.mit.edu
   id: YueHe
-  alum: false
+  alum: true
 
 - name: Victory Yinka-Banjo
   pos: Undergrad
@@ -190,11 +190,11 @@
   id: ArhanKumar
   alum: false
 
-# - name: Thao Nguyen
-#   pos: Undergrad
-#   email: thaobio@mit.edu
-#   id: ThaoNguyen
-#   alum: false
+- name: Thao Nguyen
+  pos: Undergrad
+  email: thaobio@mit.edu
+  id: ThaoNguyen
+  alum: false
 
 - name: Ba Pham
   pos: Lab Assistant
@@ -300,9 +300,9 @@
   id: JoanKanter
   alum: true
 
-- name: James Nuñez
+- name: "James Nu\xF1ez"
   pos: Post-doc
-  id: JamesNuñez
+  id: "JamesNu\xF1ez"
   alum: true
 
 - name: Angela Pogson
@@ -684,7 +684,7 @@
   pos: Grad student
   id: BrandonToyama
   alum: true
-  now: Scientist II|Celgene
+  now: Scientist II |Celgene
 
 - name: Kevin Travers
   pos: Grad student

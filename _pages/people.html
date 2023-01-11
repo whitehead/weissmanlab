@@ -15,7 +15,7 @@ permalink: /people/
 {% assign anne = current | where: "pos", "Admin Assistant" %}
 {% assign sumita = current | where: "pos", "Lab Manager" %}
 {% assign assistants = current | where: "pos", "Lab Assistant" %}
-{% assign jeffH = current | where: "pos", "Senior Scientist" %}
+{% assign mohammed = current | where: "pos", "Visiting Scientist" %}
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
 {% assign techs = current | where: "pos", "Technician" %}
@@ -86,7 +86,7 @@ permalink: /people/
          </div>
 
       {% endfor %}
-      {% for scientist in jeffH %}
+      {% for scientist in mohammed %}
 
          <div class="col-md-4 g-0 border_left my-5" id="{{scientist.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ scientist.id }}.jpg" />
@@ -151,7 +151,6 @@ permalink: /people/
       {% endfor %}
    </div>
 
-{% comment %}
 <!--    <h2>Alumni</h2>
 
    <div class="row">
@@ -162,8 +161,7 @@ permalink: /people/
             <div class="col-6">{{ alum.now }}</div>
          </div>
       {% endfor %}
-   </div>
- -->
-{% endcomment %}
+   </div> -->
+
 
 </div>

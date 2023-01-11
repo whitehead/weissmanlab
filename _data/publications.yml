@@ -1,3 +1,45 @@
+- title: Maximizing CRISPRi efficacy and accessibility with dual-sgRNA libraries and
+    optimal effectors.
+  authors:
+  - Joseph M Replogle
+  - Jessica L Bonnar
+  - Angela N Pogson
+  - Christina R Liem
+  - Nolan K Maier
+  - Yufang Ding
+  - Baylee J Russell
+  - Xingren Wang
+  - Kun Leng
+  - Alina Guna
+  - Thomas M Norman
+  - Ryan A Pak
+  - Daniel M Ramos
+  - Michael E Ward
+  - Luke A Gilbert
+  - Martin Kampmann
+  - Jonathan S Weissman
+  - Marco Jost
+  publication_date: 29/12/22
+  publication_year: '2022'
+  pubmed_id: '36576240'
+  abstract: CRISPR interference (CRISPRi) enables programmable, reversible, and titratable
+    repression of gene expression (knockdown) in mammalian cells. Initial CRISPRi-mediated
+    genetic screens have showcased the potential to address basic questions in cell
+    biology, genetics, and biotechnology, but wider deployment of CRISPRi screening
+    has been constrained by the large size of single guide RNA (sgRNA) libraries and
+    challenges in generating cell models with consistent CRISPRi-mediated knockdown.
+    Here, we present next-generation CRISPRi sgRNA libraries and effector expression
+    constructs that enable strong and consistent knockdown across mammalian cell models.
+    First, we combine empirical sgRNA selection with a dual-sgRNA library design to
+    generate an ultra-compact (1-3 elements per gene), highly active CRISPRi sgRNA
+    library. Next, we compare CRISPRi effectors to show that the recently published
+    Zim3-dCas9 provides an excellent balance between strong on-target knockdown and
+    minimal non-specific effects on cell growth or the transcriptome. Finally, we
+    engineer a suite of cell lines with stable expression of Zim3-dCas9 and robust
+    on-target knockdown. Our results and publicly available reagents establish best
+    practices for CRISPRi genetic screening.
+  doi: 10.7554/eLife.81856
+  journal: eLife
 - title: Dual genome-wide coding and lncRNA screens in neural induction of induced
     pluripotent stem cells.
   authors:
