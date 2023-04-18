@@ -1,3 +1,108 @@
+- title: Comparative landscape of genetic dependencies in human and chimpanzee stem
+    cells.
+  authors:
+  - Richard She
+  - Tyler Fair
+  - Nathan K Schaefer
+  - Reuben A Saunders
+  - Bryan J Pavlovic
+  - Jonathan S Weissman
+  - Alex A Pollen
+  publication_date: 31/03/23
+  publication_year: '2023'
+  pubmed_id: '36993685'
+  abstract: 'Comparative studies of great apes provide a window into our evolutionary
+    past, but the extent and identity of cellular differences that emerged during
+    hominin evolution remain largely unexplored. We established a comparative loss-of-function
+    approach to evaluate whether changes in human cells alter requirements for essential
+    genes. By performing genome-wide CRISPR interference screens in human and chimpanzee
+    pluripotent stem cells, we identified 75 genes with species-specific effects on
+    cellular proliferation. These genes comprised coherent processes, including cell
+    cycle progression and lysosomal signaling, which we determined to be human-derived
+    by comparison with orangutan cells. Human-specific robustness to '
+  doi: 10.1101/2023.03.19.533346
+  journal: biorxiv
+- title: Microfluidics-free single-cell genomics with templated emulsification.
+  authors:
+  - Iain C Clark
+  - Kristina M Fontanez
+  - Robert H Meltzer
+  - Yi Xue
+  - Corey Hayford
+  - Aaron May-Zhang
+  - Chris D'Amato
+  - Ahmad Osman
+  - Jesse Q Zhang
+  - Pabodha Hettige
+  - Jacob S A Ishibashi
+  - Cyrille L Delley
+  - Daniel W Weisgerber
+  - Joseph M Replogle
+  - Marco Jost
+  - Kiet T Phong
+  - Vanessa E Kennedy
+  - Cheryl A C Peretz
+  - Esther A Kim
+  - Siyou Song
+  - William Karlon
+  - Jonathan S Weissman
+  - Catherine C Smith
+  - Zev J Gartner
+  - Adam R Abate
+  publication_date: 07/03/23
+  publication_year: '2023'
+  pubmed_id: '36879006'
+  abstract: Current single-cell RNA-sequencing approaches have limitations that stem
+    from the microfluidic devices or fluid handling steps required for sample processing.
+    We develop a method that does not require specialized microfluidic devices, expertise
+    or hardware. Our approach is based on particle-templated emulsification, which
+    allows single-cell encapsulation and barcoding of cDNA in uniform droplet emulsions
+    with only a vortexer. Particle-templated instant partition sequencing (PIP-seq)
+    accommodates a wide range of emulsification formats, including microwell plates
+    and large-volume conical tubes, enabling thousands of samples or millions of cells
+    to be processed in minutes. We demonstrate that PIP-seq produces high-purity transcriptomes
+    in mouse-human mixing studies, is compatible with multiomics measurements and
+    can accurately characterize cell types in human breast tissue compared to a commercial
+    microfluidic platform. Single-cell transcriptional profiling of mixed phenotype
+    acute leukemia using PIP-seq reveals the emergence of heterogeneity within chemotherapy-resistant
+    cell subsets that were hidden by standard immunophenotyping. PIP-seq is a simple,
+    flexible and scalable next-generation workflow that extends single-cell sequencing
+    to new applications.
+  doi: 10.1038/s41587-023-01685-z
+  journal: Nature biotechnology
+- title: A dual sgRNA library design to probe genetic modifiers using genome-wide
+    CRISPRi screens.
+  authors:
+  - Alina Guna
+  - Katharine R Page
+  - Joseph R Replogle
+  - Theodore K Esantsi
+  - Maxine L Wang
+  - Jonathan S Weissman
+  - Rebecca M Voorhees
+  publication_date: 31/01/23
+  publication_year: '2023'
+  pubmed_id: '36711738'
+  abstract: The ability to map genetic interactions has been essential for determining
+    gene function and defining biological pathways. Therefore, a system to readily
+    perform genome-wide genetic modifier screens in human cells is a powerful platform
+    for dissecting complex processes in mammalian cells, where redundancy and adaptation
+    commonly mask the phenotype of a single genetic perturbation. Here, we report
+    a CRISPR interference (CRISPRi) based platform, compatible with Fluorescence Activated
+    Cell Sorting (FACS)-based reporter screens, that can be used to query epistatic
+    relationships at scale. This is enabled by a flexible dual-sgRNA library design
+    that allows for the simultaneous delivery and selection of a fixed sgRNA and a
+    second randomized guide, comprised of a genome-wide library, with a single transduction.
+    As a proof of principle, we apply our approach to study the pathways that mediate
+    tail-anchored (TA) protein insertion at the endoplasmic reticulum (ER). We show
+    that this dual-guide library approach can be successfully coupled with FACS-based
+    reporter screening, to identify genetic epistasis and thereby place TA biogenesis
+    factors in their respective parallel pathways. We demonstrate that this dual-guide
+    approach is both more sensitive and specific than traditional growth screening
+    approaches, and is ideally suited for dissecting the complex interplay between
+    factors in human cells.
+  doi: 10.1101/2023.01.22.525086
+  journal: biorxiv
 - title: Maximizing CRISPRi efficacy and accessibility with dual-sgRNA libraries and
     optimal effectors.
   authors:
