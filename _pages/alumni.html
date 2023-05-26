@@ -1,0 +1,69 @@
+---
+layout: default
+title: "Alumni"
+permalink: /alumni/
+---
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alumni</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <table id="csvTable">
+    <thead>
+      <tr id="headerRow"></tr>
+    </thead>
+    <tbody id="dataRows"></tbody>
+  </table>
+
+  <script>
+    function displayCSV(csvData) {
+      var headerRow = document.getElementById('headerRow');
+      var dataRows = document.getElementById('dataRows');
+
+      // Create table header
+      var headers = csvData[0];
+      for (var i = 0; i < headers.length; i++) {
+        var th = document.createElement('th');
+        th.textContent = headers[i];
+        headerRow.appendChild(th);
+      }
+
+      // Create table data rows
+      for (var j = 1; j < csvData.length; j++) {
+        var rowData = csvData[j];
+        var tr = document.createElement('tr');
+        for (var k = 0; k < rowData.length; k++) {
+          var td = document.createElement('td');
+          td.textContent = rowData[k];
+          tr.appendChild(td);
+        }
+        dataRows.appendChild(tr);
+      }
+    }
+
+    // { site.baseurl }/old_site_and_survey_people.csv
+    // Fetch CSV file
+    fetch('../old_site_and_survey_people.csv')
+      .then(response => response.text())
+      .then(data => {
+        var csvData = data.split('\n').map(row => row.split(','));
+        displayCSV(csvData);
+      });
+  </script>
+</body>
+</html>
+
+
