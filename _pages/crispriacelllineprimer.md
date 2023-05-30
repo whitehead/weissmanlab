@@ -120,8 +120,8 @@ us to reserve GFP and mCherry for downstream experiments.
 To help labs test new CRISPRi cell lines, we have deposited on Addgene our published GFP
 CRISPRi reporter (Addgene: 46919). The GFP reporter allows you to generate single-cell
 flow cytometry data to troubleshoot and validate CRISPRi activity and cell line production.
-We have included [positive control sgGFP sequences](http://weissmanlab.ucsf.edu/links/positivecontrolsgRNAlist_V4.xlsx) to be cloned into our sgRNA expression
-vector (Addgene: 60955). We have also included with this protocol a list of [positive control sgRNAs](http://weissmanlab.ucsf.edu/links/positivecontrolsgRNAlist_V4.xlsx)
+We have included [positive control sgGFP sequences](/resources/positivecontrolsgRNAlist_V4.xlsx) to be cloned into our sgRNA expression
+vector (Addgene: 60955). We have also included with this protocol a list of [positive control sgRNAs](/resources/positivecontrolsgRNAlist_V4.xlsx)
 targeting human genes that have shown high activity across cell lines. We then use
 qPCR to measure knockdown efficiency for this second type of positive control.
 
@@ -139,13 +139,13 @@ expression levels, we have found that we need to derive clonal cell lines and te
 CRISPRa activity using a functional assay.**
 
 To help labs test new CRISPRa cell lines, we have deposited on Addgene our published GFP
-CRISPRa reporter (Addgene: Available soon). We have included [positive control sgRNA sequences](http://weissmanlab.ucsf.edu/links/positivecontrolsgRNAlist_V4.xlsx)
+CRISPRa reporter (Addgene: Available soon). We have included [positive control sgRNA sequences](/resources/positivecontrolsgRNAlist_V4.xlsx)
 targeting the endogenous human CXCR4 gene. Both of these positive controls can
 be used to read out single cell CRISPRa activity using flow cytometry. We have also included
-a [list of positive control sgRNAs](http://weissmanlab.ucsf.edu/links/positivecontrolsgRNAlist_V4.xlsx) targeting human genes that have shown high activity. We
+a [list of positive control sgRNAs](/resources/positivecontrolsgRNAlist_V4.xlsx) targeting human genes that have shown high activity. We
 have used qPCR to measure gene activation efficiency for this second type of positive control.
 Additional protocols and reagents are linked here:
-- [Positive control sgRNAs for CRISPRi and CRISPRa](http://weissmanlab.ucsf.edu/links/positivecontrolsgRNAlist_V4.xlsx)
+- [Positive control sgRNAs for CRISPRi and CRISPRa](/resources/positivecontrolsgRNAlist_V4.xlsx)
 - [sgRNA cloning protocol](/resources/sgRNACloningProtocol.pdf)
 - [sgRNA assembly template](/resources/sgRNAAssemblyTemplate.xlsx)
 
