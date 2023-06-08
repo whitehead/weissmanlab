@@ -17,7 +17,7 @@ permalink: /research/
 
                     <p>The ability to bridge large-scale approaches and mechanistic investigations is a key focus of the Weissman lab. Beyond the immediate payoff of these efforts, we hope our work will contribute to the broader goal of developing more principled, less ad hoc approaches for defining gene functions.</p>
 
-                    <p>Below are descriptions of six broad project areas of the lab.</p>
+                    <p>Below are descriptions of seven broad project areas of the lab.</p>
 
                     <ul>
                     <li><a class="d-block" href="#riboprofiling">Ribosome Profiling</a></li>
@@ -26,6 +26,7 @@ permalink: /research/
                     <li><a class="d-block" href="#cancer_evolution">Mapping Cancer Evolution</a></li>
                     <li><a class="d-block" href="#principles">Understanding the Organizational Principles of Cellular Systems</a></li>
                     <li><a class="d-block" href="#maps">Information-rich Genotype-Phenotype Maps</a></li>
+                    <li><a class="d-block" href="#single_cell_analysis">Analytical methods for temporal/spatial single-cell datasets</a></li>
                     </ul>
                 </div>
                 <div class="col-2">
@@ -126,6 +127,51 @@ permalink: /research/
                 </div>
                 <div class="col-2">
                     <img class="research_img" src="{{ site.baseurl }}/assets/img/old_site_images/research/psi.jpg">
+                </div>
+            </div>
+            <div class="row border_top g-0">
+                <div class="col-2">
+                    <img class="research_img" src="{{ site.baseurl }}/assets/img/old_site_images/research/emap1.jpg">
+                </div>
+                <div class="col-10 pt-4 ps-4">
+                    <h5 id='single_cell_analysis'>Analytical methods for temporal/spatial single-cell datasets</h5>
+
+                    <p>Single-cell RNA sequencing has emerged as a prominent and influential tool for unraveling
+                    intricate patterns and regulatory circuits. Nevertheless, the availability of advanced computational
+                    tools for the comprehensive analysis of these datasets, particularly in the domains of advanced
+                    modeling and predictive theories, remains limited. In response, the Weissman lab and collaborators
+                    have developed and implemented an ecosystem with multiple tools to conduct diverse analyses on
+                    single-cell datasets, spanning both expression and spatial perspectives.</p>
+
+                    <h5>Dynast: Inclusive and efficient quantification of labeling and splicing RNAs for time-resolved metabolic labeling based scRNA-seq experiments</h5>
+
+                    <p>Dynast is a command-line pipeline that preprocesses data from metabolic labeling scRNA-seq
+                    experiments. Dynast applies novel consensus-calling algorithms to identify the most probable base
+                    at each sequenced position and quantifies the following four mRNA species: unlabeled unspliced,
+                    unlabeled spliced, labeled unspliced and labeled spliced. In addition, dynast can perform
+                    statistical estimation of these species through expectation maximization (EM) and Bayesian inference.</p>
+
+                    <h5>Dynamo: Mapping transcriptomic vector fields of single cells</h5>
+
+                    <p>Dynamo infers absolute RNA velocity, reconstructs continuous vector fields that predict cell
+                    fates, employs differential geometry to extract underlying regulations, and ultimately predicts
+                    optimal reprogramming paths and perturbation outcomes. It facilitates accurate velocity estimations
+                    on a metabolically labeled human hematopoiesis scRNA-seq dataset, reveals mechanisms driving early
+                    megakaryocyte appearance and elucidates asymmetrical regulation within the PU.1-GATA1 circuit.
+                    Moreover, Dynamo empowers the application of the least-action-path method and in silico
+                    perturbations, enabling the prediction and investigation of intriguing cell states and transitions.</p>
+
+                    <h5>Spateo: Multidimensional spatiotemporal modeling of single-cell spatial transcriptomics</h5>
+
+                    <p>Spateo is a general framework for quantitative spatiotemporal modeling of single-cell resolution
+                    spatial transcriptomics. Spateo delivers novel methods for digitizing spatial layers/columns to
+                    identify spatially-polar genes, and develops a comprehensive framework of cell-cell interaction to
+                    reveal spatial effects of niche factors and cell type-specific ligand-receptor interactions.
+                    Furthermore, Spateo reconstructs 3D models of whole embryos, and performs 3D morphometric analyses.
+                    Lastly, Spateo introduces the concept of “morphometric vector field” of cell migrations, and
+                    integrates spatial differential geometry to unveil regulatory programs underlying various
+                    organogenesis patterns of Drosophila. </p>
+
                 </div>
             </div>
         </div>
