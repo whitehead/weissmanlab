@@ -70,6 +70,12 @@
   id: JaspreetSandhu
   alum: false
 
+- name: James Xue
+  pos: Visiting Scientist
+  email: jamesxue@wi.mit.edu
+  id: JamesXue
+  alum: false
+
 - name: Jingchuan Luo
   pos: Post-doc
   email: jluo@wi.mit.edu
@@ -189,7 +195,7 @@
   pos: Undergrad
   email: aoak@wi.mit.edu
   id: AtharvOak
-  alum: false
+  alum: true
 
 - name: Yue He
   pos: Undergrad

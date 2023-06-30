@@ -8,6 +8,184 @@
   - Bryan J Pavlovic
   - Jonathan S Weissman
   - Alex A Pollen
+  publication_date: 22/06/23
+  publication_year: '2023'
+  pubmed_id: '37343560'
+  abstract: Comparative studies of great apes provide a window into our evolutionary
+    past, but the extent and identity of cellular differences that emerged during
+    hominin evolution remain largely unexplored. We established a comparative loss-of-function
+    approach to evaluate whether human cells exhibit distinct genetic dependencies.
+    By performing genome-wide CRISPR interference screens in human and chimpanzee
+    pluripotent stem cells, we identified 75 genes with species-specific effects on
+    cellular proliferation. These genes comprised coherent processes, including cell-cycle
+    progression and lysosomal signaling, which we determined to be human-derived by
+    comparison with orangutan cells. Human-specific robustness to CDK2 and CCNE1 depletion
+    persisted in neural progenitor cells and cerebral organoids, supporting the G1-phase
+    length hypothesis as a potential evolutionary mechanism in human brain expansion.
+    Our findings demonstrate that evolutionary changes in human cells reshaped the
+    landscape of essential genes and establish a platform for systematically uncovering
+    latent cellular and molecular differences between species.
+  doi: 10.1016/j.cell.2023.05.043
+  journal: Cell
+- title: Coupled protein quality control during nonsense-mediated mRNA decay.
+  authors:
+  - Alison J Inglis
+  - Alina Guna
+  - "\xC1ngel G\xE1lvez-Merch\xE1n"
+  - Akshaye Pal
+  - Theodore K Esantsi
+  - Heather R Keys
+  - Evgeni M Frenkel
+  - Robert Oania
+  - Jonathan S Weissman
+  - Rebecca M Voorhees
+  publication_date: 23/05/23
+  publication_year: '2023'
+  pubmed_id: '37218462'
+  abstract: Translation of mRNAs containing premature termination codons (PTCs) results
+    in truncated protein products with deleterious effects. Nonsense-mediated decay
+    (NMD) is a surveillance pathway responsible for detecting PTC containing transcripts.
+    Although the molecular mechanisms governing mRNA degradation have been extensively
+    studied, the fate of the nascent protein product remains largely uncharacterized.
+    Here, we use a fluorescent reporter system in mammalian cells to reveal a selective
+    degradation pathway specifically targeting the protein product of an NMD mRNA.
+    We show that this process is post-translational and dependent on the ubiquitin
+    proteasome system. To systematically uncover factors involved in NMD-linked protein
+    quality control, we conducted genome-wide flow cytometry-based screens. Our screens
+    recovered known NMD factors but suggested that protein degradation did not depend
+    on the canonical ribosome-quality control (RQC) pathway. A subsequent arrayed
+    screen demonstrated that protein and mRNA branches of NMD rely on a shared recognition
+    event. Our results establish the existence of a targeted pathway for nascent protein
+    degradation from PTC containing mRNAs, and provide a reference for the field to
+    identify and characterize required factors.
+  doi: 10.1242/jcs.261216
+  journal: Journal of cell science
+- title: FET fusion oncoproteins disrupt physiologic DNA repair networks in cancer.
+  authors:
+  - Shruti Menon
+  - Marcus R Breese
+  - Yone Phar Lin
+  - Hannah Allegakoen
+  - Shruthi Perati
+  - Ann Heslin
+  - Max A Horlbeck
+  - Jonathan Weissman
+  - E Alejandro Sweet-Cordero
+  - Trever G Bivona
+  - Asmin Tulpule
+  publication_date: 19/05/23
+  publication_year: '2023'
+  pubmed_id: '37205599'
+  abstract: While oncogenes promote cancer cell growth, unrestrained proliferation
+    represents a significant stressor to cellular homeostasis networks such as the
+    DNA damage response (DDR). To enable oncogene tolerance, many cancers disable
+    tumor suppressive DDR signaling through genetic loss of DDR pathways and downstream
+    effectors (e.g., ATM or p53 tumor suppressor mutations). Whether and how oncogenes
+    can help "self-tolerize" by creating analogous functional deficiencies in physiologic
+    DDR networks is not known. Here we focus on Ewing sarcoma, a FET fusion oncoprotein
+    (EWS-FLI1) driven pediatric bone tumor, as a model for the class of FET rearranged
+    cancers. Native FET protein family members are among the earliest factors recruited
+    to DNA double-strand breaks (DSBs) during the DDR, though the function of both
+    native FET proteins and FET fusion oncoproteins in DNA repair remains to be defined.
+    Using preclinical mechanistic studies of the DDR and clinical genomic datasets
+    from patient tumors, we discover that the EWS-FLI1 fusion oncoprotein is recruited
+    to DNA DSBs and interferes with native FET (EWS) protein function in activating
+    the DNA damage sensor ATM. As a consequence of FET fusion-mediated interference
+    with the DDR, we establish functional ATM deficiency as the principal DNA repair
+    defect in Ewing sarcoma and the compensatory ATR signaling axis as a collateral
+    dependency and therapeutic target in multiple FET rearranged cancers. More generally,
+    we find that aberrant recruitment of a fusion oncoprotein to sites of DNA damage
+    can disrupt physiologic DSB repair, revealing a mechanism for how growth-promoting
+    oncogenes can also create a functional deficiency within tumor suppressive DDR
+    networks.
+  doi: 10.1101/2023.04.30.538578
+  journal: biorxiv
+- title: Translational fidelity screens in mammalian cells reveal eIF3 and eIF4G2
+    as regulators of start codon selectivity.
+  authors:
+  - Richard She
+  - Jingchuan Luo
+  - Jonathan S Weissman
+  publication_date: 05/05/23
+  publication_year: '2023'
+  pubmed_id: '37144468'
+  abstract: "The translation initiation machinery and the ribosome orchestrate a highly\
+    \ dynamic scanning process to distinguish proper start codons from surrounding\
+    \ nucleotide sequences. Here, we performed genome-wide CRISPRi screens in human\
+    \ K562 cells to systematically identify modulators of the frequency of translation\
+    \ initiation at near-cognate start codons. We observed that depletion of any eIF3\
+    \ core subunit promoted near-cognate start codon usage, though sensitivity thresholds\
+    \ of each subunit to sgRNA-mediated depletion varied considerably. Double sgRNA\
+    \ depletion experiments suggested that enhanced near-cognate usage in eIF3D depleted\
+    \ cells required canonical eIF4E cap-binding and was not driven by eIF2A or eIF2D-dependent\
+    \ leucine tRNA initiation. We further characterized the effects of eIF3D depletion\
+    \ and found that the N-terminus of eIF3D was strictly required for accurate start\
+    \ codon selection, whereas disruption of the cap-binding properties of eIF3D had\
+    \ no effect. Lastly, depletion of eIF3D activated TNF\u03B1 signaling via NF-\u03BA\
+    B and the interferon gamma response. Similar transcriptional profiles were observed\
+    \ upon knockdown of eIF1A and eIF4G2, which also promoted near-cognate start codon\
+    \ usage, suggesting that enhanced near-cognate usage could potentially contribute\
+    \ to NF-\u03BAB activation. Our study thus provides new avenues to study the mechanisms\
+    \ and consequences of alternative start codon usage."
+  doi: 10.1093/nar/gkad329
+  journal: Nucleic acids research
+- title: High-content CRISPR screening.
+  authors:
+  - Christoph Bock
+  - Paul Datlinger
+  - Florence Chardon
+  - Matthew A Coelho
+  - Matthew B Dong
+  - Keith A Lawson
+  - Tian Lu
+  - Laetitia Maroc
+  - Thomas M Norman
+  - Bicna Song
+  - Geoff Stanley
+  - Sidi Chen
+  - Mathew Garnett
+  - Wei Li
+  - Jason Moffat
+  - Lei S Qi
+  - Rebecca S Shapiro
+  - Jay Shendure
+  - Jonathan S Weissman
+  - Xiaowei Zhuang
+  publication_date: 01/01/22
+  publication_year: '2022'
+  pubmed_id: '37214176'
+  abstract: CRISPR screens are a powerful source of biological discovery, enabling
+    the unbiased interrogation of gene function in a wide range of applications and
+    species. In pooled CRISPR screens, various genetically encoded perturbations are
+    introduced into pools of cells. The targeted cells proliferate under a biological
+    challenge such as cell competition, drug treatment or viral infection. Subsequently,
+    the perturbation-induced effects are evaluated by sequencing-based counting of
+    the guide RNAs that specify each perturbation. The typical results of such screens
+    are ranked lists of genes that confer sensitivity or resistance to the biological
+    challenge of interest. Contributing to the broad utility of CRISPR screens, adaptations
+    of the core CRISPR technology make it possible to activate, silence or otherwise
+    manipulate the target genes. Moreover, high-content read-outs such as single-cell
+    RNA sequencing and spatial imaging help characterize screened cells with unprecedented
+    detail. Dedicated software tools facilitate bioinformatic analysis and enhance
+    reproducibility. CRISPR screening has unravelled various molecular mechanisms
+    in basic biology, medical genetics, cancer research, immunology, infectious diseases,
+    microbiology and other fields. This Primer describes the basic and advanced concepts
+    of CRISPR screening and its application as a flexible and reliable method for
+    biological discovery, biomedical research and drug development - with a special
+    emphasis on high-content methods that make it possible to obtain detailed biological
+    insights directly as part of the screen.
+  doi: 10.1038/s43586-022-00098-7
+  journal: Nature reviews. Methods primers
+- title: Comparative landscape of genetic dependencies in human and chimpanzee stem
+    cells.
+  authors:
+  - Richard She
+  - Tyler Fair
+  - Nathan K Schaefer
+  - Reuben A Saunders
+  - Bryan J Pavlovic
+  - Jonathan S Weissman
+  - Alex A Pollen
   publication_date: 31/03/23
   publication_year: '2023'
   pubmed_id: '36993685'
