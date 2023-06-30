@@ -170,7 +170,8 @@
   pos: Technician
   email: esantsit@wi.mit.edu
   id: TheoEsantsi
-  alum: false
+  alum: true
+  now: Medical Student | Icahn School of Medicine at Mount Sinai
 
 - name: James Cameron
   pos: Technician
@@ -195,13 +196,14 @@
   email: yue.h@wi.mit.edu
   id: YueHe
   alum: true
-  now: '|'
+  now: PhD Student | Northwestern University
 
 - name: Victory Yinka-Banjo
   pos: Undergrad
   email: victory@wi.mit.edu
   id: VictoryYinka-Banjo
   alum: true
+  now: Scientist Intern (Cancer Diagnostics & Bioinformatics) | Illumina
 
 - name: Arhan Kumar
   pos: Undergrad
@@ -219,13 +221,13 @@
   pos: Undergrad
   email: jacobshp@wi.mit.edu
   id: JacobShapiro
-  alum: false
+  alum: true
 
 - name: Ally Vernich
   pos: Undergrad
   email: avernich@wi.mit.edu
   id: AllyVernich
-  alum: false
+  alum: true
 
 - name: Ba Pham
   pos: Lab Assistant
@@ -237,7 +239,9 @@
   pos: Software Engineer
   email: uks@wi.mit.edu
   id: UkyeonShin
-  alum: false
+  alum: true
+  now: Masters Student in Robotics, Electrical and Computer Engineering | Northeastern
+    University
 
 - name: Sichao Yu
   pos: Software Engineer
@@ -245,40 +249,58 @@
   id: SichaoYu
   alum: false
 
+- name: Jingjie Hu
+  pos: Grad student
+  email: jhu@wi.mit.edu
+  id: JingjieHu
+  alum: false
+
+- name: William Colgan
+  pos: Grad student
+  email: wcolgan@wi.mit.edu
+  id: WilliamColgan
+  alum: false
+
+- name: Esme Sun
+  pos: Undergrad
+  email: emsun@wi.mit.edu
+  id: EsmeSun
+  alum: false
+
 - name: Jeff Hussmann
   pos: Senior Scientist
   email: jah@wi.mit.edu
   id: JeffreyHussmann
   alum: true
-  now: Senior Scientist| Prime Medicine
+  now: Senior Scientist | Prime Medicine
 
 - name: Alina Guna
   pos: Post-doc
   email: aguna@wi.mit.edu
   id: AlinaGuna
   alum: true
-  now: Postdoctoral Researcher| Rebecca Voorhees Lab at Caltech
+  now: Postdoctoral Researcher | Rebecca Voorhees Lab at Caltech
 
 - name: Joseph Min
   pos: Grad student
   email: kmin@wi.mit.edu
   id: JosephMin
   alum: true
-  now: Scientist II | Altos Labs
+  now: Software Engineer | Ginkgo Bioworks
 
 - name: Sarah Schumacher
   pos: Technician
   email: sjanel@wi.mit.edu
   id: SarahSchumacher
   alum: true
-  now: Data Analyst| Boston Medical Center Dept. of Infectious Disease
+  now: Data Analyst | Boston Medical Center Dept. of Infectious Disease
 
 - name: Matt Jones
   pos: Grad student
   email: mgjones@wi.mit.edu
   id: MatthewJones
   alum: true
-  now: Postdoctoral Scholar| Howard Chang Lab at Stanford University
+  now: Postdoctoral Scholar | Howard Chang Lab at Stanford University
 
 - name: Lakshmi Miller-Vedam
   pos: Grad student
@@ -292,20 +314,20 @@
   email: joseph@wi.mit.edu
   id: JosephReplogle
   alum: true
-  now: Medical Scientist Training Program| UCSF
+  now: Medical Scientist Training Program | UCSF
 
 - name: Katerina Popova
   pos: Grad student
   email: kpopova@wi.mit.edu
   id: KaterinaPopova
   alum: true
-  now: Vice President and Research Analyst| Aquilo Capital Management
+  now: Vice President and Research Analyst | Aquilo Capital Management
 
 - name: Jeff Quinn
   pos: Post-doc
   id: JeffreyQuinn
   alum: true
-  now: Senior Scientist| Inscripta
+  now: Associate Director of Off-Target Biology | Beam Therapeutics
 
 - name: Jessica Bonnar
   pos: Technician
@@ -317,14 +339,13 @@
   pos: Post-doc
   id: MichelleChan
   alum: true
-  now: Assistant Professor of Molecular Biology and Genomics| Princeton University
+  now: Assistant Professor of Molecular Biology and Genomics | Princeton University
 
 - name: Jin Chen
   pos: Post-doc
   id: JinChen
   alum: true
-  now: Principal Investigator, Director of Genomics at Altos Labs, and Assistant Professor
-    |University of Texas Southwestern Medical Center
+  now: Principal Investigator | Altos Labs
 
 - name: Zach Cogan
   pos: Technician
@@ -336,51 +357,52 @@
   pos: Lab Manager
   id: MannyDeVera
   alum: true
-  now: Staff Research Associate |University of California San Francisco
+  now: DeRisi Lab Equipment Lab Manager | University of California San Francisco
 
 - name: Marco Hein
   pos: Post-doc
   id: MarcoHein
   alum: true
-  now: Fellow|Chan Zuckerberg Biohub
+  now: Assistant Professor & Group Leader | Max Perutz Labs & Medical University of
+    Vienna, Austria
 
 - name: Kelsey Hickey
   pos: Grad student
   id: KelseyHickey
   alum: true
-  now: Postdoctoral Researcher|Harper Lab at Harvard Medical School
+  now: Postdoctoral Researcher | Harper Lab at Harvard Medical School
 
 - name: Marco Jost
   pos: Post-doc
   id: MarcoJost
   alum: true
-  now: Assistant Professor of Microbiology & Principal Investigator|Harvard Medical
+  now: Assistant Professor of Microbiology & Principal Investigator | Harvard Medical
     School
 
 - name: Joan Kanter
   pos: Admin Coordinator
   id: JoanKanter
   alum: true
-  now: Recently retired Administrative Coordinator|Jonathan Weissman lab at HHMI/UCSF
+  now: Retired Administrative Coordinator | Weissman Lab at HHMI/UCSF
 
 - name: "James Nu\xF1ez"
   pos: Post-doc
   id: "JamesNu\xF1ez"
   alum: true
-  now: Assistant Professor of Biochemistry, Biophysics and Structural biology| UC
-    Berkeley
+  now: PI & Assistant Professor of Biochemistry, Biophysics and Structural Biology
+    | UC Berkeley
 
 - name: Angela Pogson
   pos: Technician
   id: AngelaPogson
   alum: true
-  now: Stanford University|Graduate Student
+  now: Graduate Student in Developmental Biology | Stanford University
 
 - name: Matt Shurtleff
   pos: Post-doc
   id: MattShurtleff
   alum: true
-  now: Scientist|Lycia Therapeutics
+  now: Senior Scientist | Lycia Therapeutics
 
 - name: Maxine Wang
   pos: Technician
@@ -392,288 +414,303 @@
   pos: Post-doc
   id: BrittAdamson
   alum: true
-  now: Assistant Professor|Princeton University
+  now: PI & Assistant Professor of Molecular Biology | Princeton University
 
 - name: Ashwin Banfal
   pos: Technician
   id: AshwinBanfal
   alum: true
-  now: Staff Research Associate II at University of California, San Francisco
+  now: Staff Research Associate II | University of California San Francisco
 
 - name: Michael Bassik
   pos: Post-doc
   id: MichaelBassik
   alum: true
-  now: PI & Associate Professor of Genentics |Stanford University
+  now: PI & Associate Professor of Genentics | Stanford University
 
 - name: Arunashree Bhamidipati
   pos: Post-doc
   id: ArunashreeBhamidipati
   alum: true
-  now: Scientist|Pacific Biosciences
+  now: Senior Staff Scientist & Sequencing Integration Manager | Pacific Biosciences
 
 - name: Alexandre Bolze
   pos: Post-doc
   id: AlexandreBolze
   alum: true
-  now: Research Scientist |Helix
+  now: PI & Principal Scientist | Helix
 
 - name: Onn Brandman
   pos: Post-doc
   id: OnnBrandman
   alum: true
-  now: Assistant Professor|Stanford University
+  now: PI & Associate Professor of Biochemistry | Stanford University
 
 - name: Gloria Ann Brar
   pos: Post-doc
   id: GloriaBrar
   alum: true
-  now: Assistant Professor|University of California, Berkeley
+  now: PI & Associate Professor of Molecular and Cell Biology | University of California,
+    Berkeley
 
 - name: David Breslow
   pos: Grad student
   id: DavidBreslow
   alum: true
-  now: Assistant Professor|Yale University
+  now: PI & Assistant Professor of Molecular, Cellular and Developmental Biology |
+    Yale University
 
 - name: Dale Cameron
   pos: Post-doc
   id: DaleCameron
   alum: true
-  now: Assistant Professor|Ursinus College
+  now: PI, Associate Professor of Biology & Chair of the Biology Department | Ursinus
+    College
 
 - name: Owen Chen
   pos: Technician
   id: OwenChen
   alum: true
-  now: Technician |Insitro
+  now: Advanced Technology Exploration Scientist | Insitro
 
 - name: Peter Chien
   pos: Grad student
   id: PeterChien
   alum: true
-  now: Professor|UMass Amherst
+  now: PI & Professor of Biochemistry and Molecular Biology | University of Massachusetts
+    Amherst
 
 - name: Min Cho
   pos: Technician
   id: MinCho
   alum: true
-  now: Senior Research Associate|Calico
+  now: Scientist II | Altos Labs
 
 - name: Clement Chu
   pos: Grad student
   id: ClementChu
   alum: true
-  now: Scientist |Counsyl Biotech
+  now: Senior Vice President Research Development | Natera
 
 - name: Stirling Churchman
+  pos: Post-doc
   id: StirlingChurchman
   alum: true
-  now: Assistant Professor|Harvard Medical School
+  now: PI & Associate Professor of Genetics | Harvard Medical School
 
 - name: Sean Collins
   pos: Grad student
   id: SeanCollins
   alum: true
-  now: Associate Professor, UC Davis
+  now: PI & Associate Professor of Microbiology & Molecular Genetics | Univeristy
+    of California Davis
 
-- name: Elizabeth Costa
+- name: Elizabeth (Costa) Boydston
   pos: Grad Student
   id: ElizabethCosta
   alum: true
-  now: Post-doc|Whitehead Institute
+  now: Product Manager | Ginkgo Bioworks
 
 - name: Vlad Denic
   pos: Grad student
   id: VladDenic
   alum: true
-  now: Associate Professor |Harvard University
+  now: PI & Professor of Molecular and Cellular Biology | Harvard University
 
 - name: Angela DePace
   pos: Grad student
   id: AngelaDePace
   alum: true
-  now: Associate Professor|Harvard Medical School
+  now: PI & Associate Professor of Systems Biology | Harvard Medical School
 
 - name: Joshua Dunn
+  pos: Grad student
   id: JoshuaDunn
   alum: true
-  now: Head of Design| Ginkgo Bioworks
+  now: Head of Design | Ginkgo Bioworks
 
 - name: Alexander Fields
   pos: Post-doc
   id: AlexanderFields
   alum: true
-  now: Bioinformatics Scientist |Grail
+  now: Director of Bioinformatics and Data Science | Grail
 
 - name: Catherine Foo
+  pos: Grad student
   id: CatherineFoo
   alum: true
-  now: Program Management/Product Development, Pediatric Health and Rare DiseaseProgram
-    Management/Product Development, Pediatric Health and Rare Disease| Invitae
+  now: Senior Principal Scientific Manager | Genetech
 
 - name: Adam Frost
   pos: Post-doc
   id: AdamFrost
   alum: true
-  now: Assistant Professor |University of California San Francisco
+  now: PI & Associate Professor of Biochemistry and Biophysics | University of California
+    San Francisco
 
 - name: Sina Ghaemmaghami
   pos: Post-doc
   id: SinaGhaemmaghami
   alum: true
-  now: Assistant Professor|University of Rochester
+  now: "PI, Mercer Brugler Distinguished Teaching Professor\nGeorge Y. and Catherine\
+    \ H. Wu Professor in Chemistry, \nProfessor of Biology, & \nDirector of AS&E Undergraduate\
+    \ Research | University of Rochester"
 
 - name: Luke Gilbert
+  pos: Post-doc
   id: LukeGilbert
   alum: true
-  now: Assistant Professor and Principal Investigator| UCSF
+  now: PI & Associate Professor of Urology | University of California San Francisco
+    School of Medicine
 
 - name: John Hawkins
+  pos: Bioinformatics Research Collaborator
   id: JohnHawkins
   alum: true
-  now: Computational Biologist |Hexagon Bio
+  now: Computational Biologist | Hexagon Bio
 
 - name: Ezgi Hacisuleyman
   pos: Post-doc
   id: EzgiHacisuleyman
   alum: true
-  now: Post-doc|The Rockefeller University
+  now: Kavli & HHWF Postdoctoral Fellow | Laboratory of Molecular Neuro-Oncology at
+    The Rockefeller University
 
 - name: Max Horlbeck
+  pos: Grad student
   id: MaxHorlbeck
   alum: true
-  now: "Pediatrics Medical Genetics Resident|Boston Children\u2019s Hospital"
+  now: "Pediatrics Medical Genetics Resident | Boston Children\u2019s Hospital"
 
 - name: Siew Ho-Schleyer
   pos: Post-doc
   id: SiewHo-Schleyer
   alum: true
-  now: Scientist |Chiron Corporation (Novartis)
+  now: Executive Director | Kite Pharma
 
 - name: Julie Hollien
   pos: Post-doc
   id: JulieHollien
   alum: true
-  now: Associate Professor|University of Utah
+  now: PI & Associate Professor of Biological Sciences | University of Utah
 
 - name: Jennifer Hood-DeGrenier
   pos: Post-doc
   id: JenniferHood-DeGrenier
   alum: true
-  now: Associate Professor |Worcester State University
+  now: Professor & Chair of Biology | Worcester State University
 
 - name: Nicholas Ingolia
   pos: Post-doc
   id: NicholasIngolia
   alum: true
-  now: Assistant Professor|University of California, Berkeley
+  now: PI & Associate Professor of Molecular & Cell Biology | University of California
+    Berkeley
 
 - name: Martin Jonikas
   pos: Grad student
   id: MartinJonikas
   alum: true
-  now: Assistant Professor|Princeton University
+  now: PI & Associate Professor of Molecular Biology | Princeton University
 
 - name: Calvin Jan
   pos: Post-doc
   id: CalvinJan
   alum: true
-  now: Research Scientist |Calico
+  now: Principal Investigator| Calico Life Sciences
 
 - name: Martin Kampmann
   pos: Post-doc
   id: MartinKampmann
   alum: true
-  now: Assistant Professor |University of California, San Francisco
+  now: PI & Associate Professor of Biochemistry and Biophysics | University of California
+    San Francisco Weill Institute for Neurosciences
 
 - name: Kamena Kostova
   id: KamenaKostova
   alum: true
-  now: Principal Investigator |Department of Embryology, Carnegie Institute
-  'Unnamed: 6': need to review from here up
+  now: PI & Staff Associate | Department of Embryology at Carnegie Institute
 
 - name: Matthew Larson
   pos: Post-doc
   id: MatthewLarson
   alum: true
-  now: Senior Director of Biomarker Discovery | GRAIL Inc.
+  now: Senior Director of Biomarker Discovery | GRAIL
 
 - name: Manuel Leonetti
   pos: Post-doc
   id: ManuelLeonetti
   alum: true
-  now: Group Leader|Chan Zuckerberg Biohub
+  now: Group Leader Quantitative Cell Science | Chan Zuckerberg Biohub
 
 - name: Gene-Wei Li
   pos: Post-doc
   id: Gene-WeiLi
   alum: true
-  now: Associate Professor of Biology |MIT
+  now: PI & Associate Professor of Biology | Massachusetts Institute of Technology
 
 - name: Han Li
   pos: Technician
   id: HanLi
   alum: true
-  now: M.D. Candidate | Weill Cornell Medicine
+  now: Medical Student | Weill Cornell Medicine
 
 - name: Christina Liem
   id: ChristinaLiem
   alum: true
-  now: Student |University of California Santa Cruz
+  now: Student | University of California Santa Cruz
 
 - name: Yi-Chang Liu
   pos: Grad Student
   id: Yi-ChangLiu
   alum: true
-  now: Founder and CEO|Glycogenetics, Inc
+  now: Founder and CEO | GlycoGenetics, Inc
 
 - name: Melissa Michelitsch
   pos: Grad student
   id: MelissaMichelitsch
   alum: true
-  now: Broker and Owner| Mel Selvidge Fine Homes and Investment Property
+  now: Broker and Owner | Mel Selvidge Fine Homes and Investment Property
 
 - name: Dale Muzzey
   id: DaleMuzzey
   alum: true
-  now: Vice President of Bioinformatics| Myriad Genetics
+  now: Chief Scientific Officer | Myriad Genetics
 
 - name: John Newman
   pos: Post-doc
   id: JohnNewman
   alum: true
-  now: VP and Head of Digitalization |Audi AG
+  now: VP and Head of Digitalization | Audi AG
 
 - name: Tom Norman
   id: TomNorman
   alum: true
-  now: Systems Biologist and Principal Investigator| Memorial Sloan Kettering Cancer
-    Center
+  now: PI & Systems Biologist | Memorial Sloan Kettering Cancer Center
 
 - name: Eugene Oh
   pos: Grad Student
   id: EugeneOh
   alum: true
-  now: Assistant Professor & Principal Investigator |Harvard Medical School & MGH
+  now: PI & Assistant Professor | Harvard Medical School & Massachusetts General Hospital
 
 - name: Lev Osherovich
   pos: Grad student
   id: LevOsherovich
   alum: true
-  now: Partner|Delin Ventures
+  now: Founding Director | Tilikum Therapeutics and Tiger Hill Therapeutics
 
 - name: Ryan Pak
   pos: Technician
   id: RyanPak
   alum: true
-  now: Graduate student|The Scripps Research Institute
+  now: Graduate student | The Scripps Research Institute
 
 - name: Luu Pham
   pos: Technician
   id: LuuPham
   alum: true
-  now: Assistant Researcher|UCSF and UC Berkeley
+  now: Assistant Researcher | UCSF and UC Berkeley
 
 - name: Christopher Reiger
   pos: Admin
@@ -686,37 +723,38 @@
   pos: Grad Student
   id: EdwinRodriguez
   alum: true
-  now: Postdoctoral Fellow|Max Planck Institute
+  now: Postdoctoral Fellow | Max Planck Institute
 
 - name: Silvia Rouskin
   pos: Grad Student
   id: SilviaRouskin
   alum: true
-  now: PI and Assistant Professor of Microbiology | Harvard Medical School
+  now: PI & Assistant Professor of Microbiology | Harvard Medical School
 
 - name: Dan Santos
   pos: Grad Student
   id: DanSantos
   alum: true
-  now: Scientist|Maze Theraputics
+  now: Scientist II | Maze Theraputics
 
 - name: Alex Santoso
   pos: Grad student
   id: AlexSantoso
   alum: true
-  now: Founder |Science news website
+  now: Founder | Neatorama
 
 - name: Nicki Schirle Oakdale
   pos: Post-doc
   id: NickiOakdale
   alum: true
-  now: Senior Research Scientist |Gilead
+  now: Senior Research Scientist | Gilead
 
 - name: Maya Schuldiner
   pos: Post-doc
   id: MayaSchuldiner
   alum: true
-  now: Principal Investigator |Weizmann Institute of Science, Israel
+  now: PI & Incumbent of the Dr. Gilbert Omenn and Martha Darling  Professorial Chair
+    in Molecular Genetics | Weizmann Institute of Science, Israel
 
 - name: Sukrit Silas
   pos: Post-doc
@@ -728,24 +766,24 @@
   pos: Grad Student
   id: MelanieSmith
   alum: true
-  now: Rheumatologist and Basic Scientist|Hospital for Special Surgery
+  now: Rheumatologist and Basic Scientist | Hospital for Special Surgery
 
 - name: Helmut Sparrer
   pos: Post-doc
   id: HelmutSparrer
   alum: true
-  now: Scientist |Novartis
+  now: Associate Director & Senior Scientist | Novartis Australia & New Zealand
 
 - name: Mohini Sridharan Kulp
   pos: Grad student
   id: MohiniKulp
   alum: true
-  now: Senior Laboratory Instructor in Chemistry |Smith College
+  now: Senior Laboratory Instructor in Chemistry | Smith College
 
 - name: Jacob Stern
   id: JacobStern
   alum: true
-  now: Product Management | 10X Genomics
+  now: Product Director | 10X Genomics
 
 - name: Noam Stern-Ginossar
   pos: Post-doc
@@ -757,48 +795,49 @@
   pos: Grad Student
   id: JacobStewart-Ornstein
   alum: true
-  now: Post-doc |Harvard
+  now: Off-Target work leader | Prime Medicine
 
 - name: Kendra Swain
   id: KendraSwain
   alum: true
-  now: Professor of Biology |Alabama State University
+  now: Professor of Biology | Alabama State University
 
 - name: Motomasa Tanaka
   pos: Post-doc
   id: MotomasaTanaka
   alum: true
-  now: Team Leader| RIKEN Brain Institute in Japan
+  now: Team Leader | RIKEN Brain Institute in Japan
 
 - name: Sandra Torres
   pos: Grad Student
   id: SandraTorres
   alum: true
-  now: Postdocoral Researcher| Genentech
+  now: Scientist II | Lycia Therapeutics
 
 - name: Brandon Toyama
   pos: Grad student
   id: BrandonToyama
   alum: true
-  now: Scientist II |Celgene
+  now: Senior Principal Scientist | Bristol Myers Squibb Oncogenesis TRC
 
 - name: Kevin Travers
   pos: Grad student
   id: KevinTravers
   alum: true
-  now: Scientist |Pacific Biosciences; VP Research and Development, LevitasBio
+  now: SVP Research and Development | LevitasBio
 
 - name: Ben Tu
   pos: Grad student
   id: BenTu
   alum: true
-  now: Professor and PI| University of Texas Southwestern Medical Center
+  now: HHMI Investigator, PI & Professor of Biochemistry| University of Texas Southwestern
+    Medical Center
 
 - name: Katherine Verges
   pos: Grad student
   id: KatherineVerges
   alum: true
-  now: Associate |McKinsey Consulting
+  now: Associate | McKinsey Consulting
 
 - name: Jackie Villalta
   id: JackieVillalta
@@ -809,32 +848,32 @@
   pos: Grad student
   id: JueWang
   alum: true
-  now: Associate Professor |University of Wisconsin
+  now: PI & Professor of Bacteriology | University of Wisconsin-Madison
 
 - name: Jimena Weibezahn
   pos: Post-doc
   id: JimenaWeibezahn
   alum: true
-  now: Scientist
+  now: "Scientist | Friedrich-Alexander Universit\xE4t Erlangen-N\xFCrnberg, Germany"
 
 - name: Christopher Williams
   id: ChristopherWilliams
   alum: true
-  now: Data Scientist |Airbnb
+  now: Data Scientist | Airbnb
 
 - name: Daisy Wong
   pos: Technician
   id: DaisyWong
   alum: true
-  now: Pharmacy student |UCSF
+  now: Pharmacy Student | UCSF
 
 - name: Albert Xu
   id: AlbertXu
   alum: true
-  now: MD-PhD Student| UCSF School of Medicine
+  now: MD-PhD Student | UCSF School of Medicine
 
-- name: Meghan Zubradt
+- name: Meghan McKeon Zubradt
   pos: Post-doc
   id: MeghanZubradt
   alum: true
-  now: Director of Worldwide Business Development| GSK
+  now: Director of Business Development | GSK
