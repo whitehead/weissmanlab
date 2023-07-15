@@ -212,9 +212,15 @@
   now: Scientist Intern (Cancer Diagnostics & Bioinformatics) | Illumina
 
 - name: Arhan Kumar
-  pos: Undergrad
+  pos: Technician
   email: arhank@wi.mit.edu
   id: ArhanKumar
+  alum: false
+
+- name: Stuti Khandwala
+  pos: Technician
+  email: stutik@wi.mit.edu
+  id: StutiKhandwala
   alum: false
 
 - name: Thao Nguyen
