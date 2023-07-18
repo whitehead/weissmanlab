@@ -1,3 +1,39 @@
+- title: FET fusion oncoproteins disrupt physiologic DNA repair networks and induce
+    ATR synthetic lethality in cancer.
+  authors:
+  - Asmin Tulpule
+  - Shruti Menon
+  - Marcus Breese
+  - Yone Lin
+  - Hannah Allegakoen
+  - Shruthi Perati
+  - Ann Heslin
+  - Max Horlbeck
+  - Jonathan Weissman
+  - Alejandro Sweet-Cordero
+  - Trever Bivona
+  publication_date: 03/07/23
+  publication_year: '2023'
+  pubmed_id: '37398210'
+  abstract: The genetic principle of synthetic lethality is clinically validated in
+    cancers with loss of specific DNA damage response (DDR) pathway genes (i.e. BRCA1/2
+    tumor suppressor mutations). The broader question of whether and how oncogenes
+    create tumor-specific vulnerabilities within DDR networks remains unanswered.
+    Native FET protein family members are among the earliest proteins recruited to
+    DNA double-strand breaks (DSBs) during the DDR, though the function of both native
+    FET proteins and FET fusion oncoproteins in DSB repair remains poorly defined.
+    Here we focus on Ewing sarcoma (ES), an EWS-FLI1 fusion oncoprotein-driven pediatric
+    bone tumor, as a model for FET rearranged cancers. We discover that the EWS-FLI1
+    fusion oncoprotein is recruited to DNA DSBs and interferes with native EWS function
+    in activating the DNA damage sensor ATM. Using preclinical mechanistic approaches
+    and clinical datasets, we establish functional ATM deficiency as a principal DNA
+    repair defect in ES and the compensatory ATR signaling axis as a collateral dependency
+    and therapeutic target in FET rearranged cancers. Thus, aberrant recruitment of
+    a fusion oncoprotein to sites of DNA damage can disrupt normal DSB repair, revealing
+    a mechanism for how oncogenes can create cancer-specific synthetic lethality within
+    DDR networks.
+  doi: 10.21203/rs.3.rs-2869150/v1
+  journal: Research square
 - title: Comparative landscape of genetic dependencies in human and chimpanzee stem
     cells.
   authors:
