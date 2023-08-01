@@ -19,6 +19,7 @@ permalink: /people/
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
 {% assign techs = current | where: "pos", "Technician" %}
+{% assign softengs = current | where: "pos", "Software Engineer" %}
 {% assign urops = current | where: "pos", "Undergrad" %}
 
 
@@ -133,6 +134,18 @@ permalink: /people/
             <div class="label p-3">
                <span class="name">{{ tech.name }}</span><br>
                <span class="pos">Research Technician</span>
+            </div>
+         </div>
+
+      {% endfor %}
+
+      {% for softengs in softengs %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{softengs.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ softengs.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ softengs.name }}</span><br>
+               <span class="pos">Software Engineer</span>
             </div>
          </div>
 
