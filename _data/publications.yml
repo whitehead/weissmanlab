@@ -1,3 +1,73 @@
+- title: Systematic functional interrogation of SARS-CoV-2 host factors using Perturb-seq.
+  authors:
+  - Sara Sunshine
+  - Andreas S Puschnik
+  - Joseph M Replogle
+  - Matthew T Laurie
+  - Jamin Liu
+  - Beth Shoshana Zha
+  - "James K Nu\xF1ez"
+  - Janie R Byrum
+  - Aidan H McMorrow
+  - Matthew B Frieman
+  - Juliane Winkler
+  - Xiaojie Qiu
+  - Oren S Rosenberg
+  - Manuel D Leonetti
+  - Chun Jimmie Ye
+  - Jonathan S Weissman
+  - Joseph L DeRisi
+  - Marco Y Hein
+  publication_date: 07/10/23
+  publication_year: '2023'
+  pubmed_id: '37803001'
+  abstract: "Genomic and proteomic screens have identified numerous host factors of\
+    \ SARS-CoV-2, but efficient delineation of their molecular roles during infection\
+    \ remains a challenge. Here we use Perturb-seq, combining genetic perturbations\
+    \ with a single-cell readout, to investigate how inactivation of host factors\
+    \ changes the course of SARS-CoV-2 infection and the host response in human lung\
+    \ epithelial cells. Our high-dimensional data resolve complex phenotypes such\
+    \ as shifts in the stages of infection and modulations of the interferon response.\
+    \ However, only a small percentage of host factors showed such phenotypes upon\
+    \ perturbation. We further identified the NF-\u03BAB inhibitor I\u03BAB\u03B1\
+    \ (NFKBIA), as well as the translation factors EIF4E2 and EIF4H as strong host\
+    \ dependency factors acting early in infection. Overall, our study provides massively\
+    \ parallel functional characterization of host factors of SARS-CoV-2 and quantitatively\
+    \ defines their roles both in virus-infected and bystander cells."
+  doi: 10.1038/s41467-023-41788-4
+  journal: Nature communications
+- title: "Triaging of \u237A-helical proteins to the mitochondrial outer membrane\
+    \ by distinct chaperone machinery based on substrate topology."
+  authors:
+  - Gayathri Muthukumar
+  - Taylor A Stevens
+  - Alison J Inglis
+  - Theodore K Esantsi
+  - Reuben A Saunders
+  - Fabian Schulte
+  - Rebecca M Voorhees
+  - Alina Guna
+  - Jonathan S Weissman
+  publication_date: 30/08/23
+  publication_year: '2023'
+  pubmed_id: '37645817'
+  abstract: "Mitochondrial outer membrane \u237A-helical proteins play critical roles\
+    \ in mitochondrial-cytoplasmic communication, but the rules governing the targeting\
+    \ and insertion of these biophysically diverse substrates remain unknown. Here,\
+    \ we first defined the complement of required mammalian biogenesis machinery through\
+    \ genome-wide CRISPRi screens using topologically distinct membrane proteins.\
+    \ Systematic analysis of nine identified factors across 21 diverse \u237A-helical\
+    \ substrates reveals that these components are organized into distinct targeting\
+    \ pathways which act on substrates based on their topology. NAC is required for\
+    \ efficient targeting of polytopic proteins whereas signal-anchored proteins require\
+    \ TTC1, a novel cytosolic chaperone which physically engages substrates. Biochemical\
+    \ and mutational studies reveal that TTC1 employs a conserved TPR domain and a\
+    \ hydrophobic groove in its C-terminal domain to support substrate solubilization\
+    \ and insertion into mitochondria. Thus, targeting of diverse mitochondrial membrane\
+    \ proteins is achieved through topological triaging in the cytosol using principles\
+    \ with similarities to ER membrane protein biogenesis systems."
+  doi: 10.1101/2023.08.16.553624
+  journal: biorxiv
 - title: FET fusion oncoproteins disrupt physiologic DNA repair networks and induce
     ATR synthetic lethality in cancer.
   authors:

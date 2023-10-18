@@ -65,7 +65,7 @@
   alum: false
 
 - name: Jaspreet Sandhu
-  pos: Visiting Scientist
+  pos: Post-doc
   email: jsandhu@wi.mit.edu
   id: JaspreetSandhu
   alum: false
@@ -92,7 +92,9 @@
   pos: Post-doc
   email: dyang@wi.mit.edu
   id: DianYang
-  alum: false
+  alum: true
+  now: Assistant Professor of Molecular Pharmacology and Therapeutics  | Coulmbia
+    University
 
 - name: Chen Weng
   pos: Post-doc
@@ -146,7 +148,8 @@
   pos: Grad student
   email: lenail@mit.edu
   id: AlexanderLeNail
-  alum: false
+  alum: true
+  now: Grad Student  | Heiman Lab MIT
 
 - name: Yi Hua Chen
   pos: Grad student
@@ -233,7 +236,8 @@
   pos: Undergrad
   email: thaobio@mit.edu
   id: ThaoNguyen
-  alum: false
+  alum: true
+  now: PhD Student  | Stanford Genetics
 
 - name: Jacob Shapiro
   pos: Undergrad
@@ -545,7 +549,7 @@
   pos: Grad student
   id: JoshuaDunn
   alum: true
-  now: Head of Design | Ginkgo Bioworks
+  now: Senior Director of Design and Computational Biology | Ginkgo Bioworks
 
 - name: Alexander Fields
   pos: Post-doc
@@ -598,7 +602,7 @@
   pos: Grad student
   id: MaxHorlbeck
   alum: true
-  now: "Pediatrics Medical Genetics Resident | Boston Children\u2019s Hospital"
+  now: "Pediatrics/Medical Genetics Resident| Boston Children\u2019s Hospital"
 
 - name: Siew Ho-Schleyer
   pos: Post-doc
