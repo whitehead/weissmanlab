@@ -25,6 +25,10 @@ permalink: /people/
 
 <div class="container">
 
+   <div class="heading" style="margin-top: 30px; margin-bottom: -30px;">
+      <h2><span>Current</span> <a class="alumni-link" href="#alumni" style="font-size: 0.7em; color: rgb(120, 120, 120); margin-left: 15px;">Alumni</a></h2>
+   </div>
+
    <div class="row">
       {% for jonathan in pi %}
 
@@ -164,17 +168,17 @@ permalink: /people/
       {% endfor %}
    </div>
 
-<!--    <h2>Alumni</h2>
+   <h2 id="alumni">Alumni</h2>
 
    <div class="row">
       {% for alum in alums %}
          <div class="row" id="{{alum.id}}">
-            <div class="col-3">{{ alum.name }}</div>
-            <div class="col-3">{{ alum.pos }}</div>
-            <div class="col-6">{{ alum.now }}</div>
+            <div class="col-2">{{ alum.name }}</div>
+            <div class="col-2">{{ alum.pos }}</div>
+            <div class="col-8">{{ alum.now }}</div>
          </div>
       {% endfor %}
-   </div> -->
+   </div> 
 
 
 </div>
