@@ -1,3 +1,27 @@
+- title: A dual sgRNA library design to probe genetic modifiers using genome-wide
+    CRISPRi screens.
+  authors:
+  - Alina Guna
+  - Katharine R Page
+  - Joseph M Replogle
+  - Theodore K Esantsi
+  - Maxine L Wang
+  - Jonathan S Weissman
+  - Rebecca M Voorhees
+  publication_date: 31/10/23
+  publication_year: '2023'
+  pubmed_id: '37904134'
+  abstract: Mapping genetic interactions is essential for determining gene function
+    and defining novel biological pathways. We report a simple to use CRISPR interference
+    (CRISPRi) based platform, compatible with Fluorescence Activated Cell Sorting
+    (FACS)-based reporter screens, to query epistatic relationships at scale. This
+    is enabled by a flexible dual-sgRNA library design that allows for the simultaneous
+    delivery and selection of a fixed sgRNA and a second randomized guide, comprised
+    of a genome-wide library, with a single transduction. We use this approach to
+    identify epistatic relationships for a defined biological pathway, showing both
+    increased sensitivity and specificity than traditional growth screening approaches.
+  doi: 10.1186/s12864-023-09754-y
+  journal: BMC genomics
 - title: Systematic functional interrogation of SARS-CoV-2 host factors using Perturb-seq.
   authors:
   - Sara Sunshine
@@ -235,53 +259,6 @@
     \ and consequences of alternative start codon usage."
   doi: 10.1093/nar/gkad329
   journal: Nucleic acids research
-- title: High-content CRISPR screening.
-  authors:
-  - Christoph Bock
-  - Paul Datlinger
-  - Florence Chardon
-  - Matthew A Coelho
-  - Matthew B Dong
-  - Keith A Lawson
-  - Tian Lu
-  - Laetitia Maroc
-  - Thomas M Norman
-  - Bicna Song
-  - Geoff Stanley
-  - Sidi Chen
-  - Mathew Garnett
-  - Wei Li
-  - Jason Moffat
-  - Lei S Qi
-  - Rebecca S Shapiro
-  - Jay Shendure
-  - Jonathan S Weissman
-  - Xiaowei Zhuang
-  publication_date: 01/01/22
-  publication_year: '2022'
-  pubmed_id: '37214176'
-  abstract: CRISPR screens are a powerful source of biological discovery, enabling
-    the unbiased interrogation of gene function in a wide range of applications and
-    species. In pooled CRISPR screens, various genetically encoded perturbations are
-    introduced into pools of cells. The targeted cells proliferate under a biological
-    challenge such as cell competition, drug treatment or viral infection. Subsequently,
-    the perturbation-induced effects are evaluated by sequencing-based counting of
-    the guide RNAs that specify each perturbation. The typical results of such screens
-    are ranked lists of genes that confer sensitivity or resistance to the biological
-    challenge of interest. Contributing to the broad utility of CRISPR screens, adaptations
-    of the core CRISPR technology make it possible to activate, silence or otherwise
-    manipulate the target genes. Moreover, high-content read-outs such as single-cell
-    RNA sequencing and spatial imaging help characterize screened cells with unprecedented
-    detail. Dedicated software tools facilitate bioinformatic analysis and enhance
-    reproducibility. CRISPR screening has unravelled various molecular mechanisms
-    in basic biology, medical genetics, cancer research, immunology, infectious diseases,
-    microbiology and other fields. This Primer describes the basic and advanced concepts
-    of CRISPR screening and its application as a flexible and reliable method for
-    biological discovery, biomedical research and drug development - with a special
-    emphasis on high-content methods that make it possible to obtain detailed biological
-    insights directly as part of the screen.
-  doi: 10.1038/s43586-022-00098-7
-  journal: Nature reviews. Methods primers
 - title: Comparative landscape of genetic dependencies in human and chimpanzee stem
     cells.
   authors:
@@ -387,6 +364,53 @@
     factors in human cells.
   doi: 10.1101/2023.01.22.525086
   journal: biorxiv
+- title: High-content CRISPR screening.
+  authors:
+  - Christoph Bock
+  - Paul Datlinger
+  - Florence Chardon
+  - Matthew A Coelho
+  - Matthew B Dong
+  - Keith A Lawson
+  - Tian Lu
+  - Laetitia Maroc
+  - Thomas M Norman
+  - Bicna Song
+  - Geoff Stanley
+  - Sidi Chen
+  - Mathew Garnett
+  - Wei Li
+  - Jason Moffat
+  - Lei S Qi
+  - Rebecca S Shapiro
+  - Jay Shendure
+  - Jonathan S Weissman
+  - Xiaowei Zhuang
+  publication_date: 01/01/22
+  publication_year: '2022'
+  pubmed_id: '37214176'
+  abstract: CRISPR screens are a powerful source of biological discovery, enabling
+    the unbiased interrogation of gene function in a wide range of applications and
+    species. In pooled CRISPR screens, various genetically encoded perturbations are
+    introduced into pools of cells. The targeted cells proliferate under a biological
+    challenge such as cell competition, drug treatment or viral infection. Subsequently,
+    the perturbation-induced effects are evaluated by sequencing-based counting of
+    the guide RNAs that specify each perturbation. The typical results of such screens
+    are ranked lists of genes that confer sensitivity or resistance to the biological
+    challenge of interest. Contributing to the broad utility of CRISPR screens, adaptations
+    of the core CRISPR technology make it possible to activate, silence or otherwise
+    manipulate the target genes. Moreover, high-content read-outs such as single-cell
+    RNA sequencing and spatial imaging help characterize screened cells with unprecedented
+    detail. Dedicated software tools facilitate bioinformatic analysis and enhance
+    reproducibility. CRISPR screening has unravelled various molecular mechanisms
+    in basic biology, medical genetics, cancer research, immunology, infectious diseases,
+    microbiology and other fields. This Primer describes the basic and advanced concepts
+    of CRISPR screening and its application as a flexible and reliable method for
+    biological discovery, biomedical research and drug development - with a special
+    emphasis on high-content methods that make it possible to obtain detailed biological
+    insights directly as part of the screen.
+  doi: 10.1038/s43586-022-00098-7
+  journal: Nature reviews. Methods primers
 - title: Maximizing CRISPRi efficacy and accessibility with dual-sgRNA libraries and
     optimal effectors.
   authors:
@@ -3426,6 +3450,38 @@
     DMS-MaPseq's capacity to dramatically expand in vivo analysis of RNA structure.
   doi: 10.1038/nmeth.4057
   journal: Nature methods
+- title: Dynamic translation regulation in Caulobacter cell cycle control.
+  authors:
+  - Jared M Schrader
+  - Gene-Wei Li
+  - W Seth Childers
+  - Adam M Perez
+  - Jonathan S Weissman
+  - Lucy Shapiro
+  - Harley H McAdams
+  publication_date: 03/11/16
+  publication_year: '2016'
+  pubmed_id: '27791168'
+  abstract: Progression of the Caulobacter cell cycle requires temporal and spatial
+    control of gene expression, culminating in an asymmetric cell division yielding
+    distinct daughter cells. To explore the contribution of translational control,
+    RNA-seq and ribosome profiling were used to assay global transcription and translation
+    levels of individual genes at six times over the cell cycle. Translational efficiency
+    (TE) was used as a metric for the relative rate of protein production from each
+    mRNA. TE profiles with similar cell cycle patterns were found across multiple
+    clusters of genes, including those in operons or in subsets of operons. Collections
+    of genes associated with central cell cycle functional modules (e.g., biosynthesis
+    of stalk, flagellum, or chemotaxis machinery) have consistent but different TE
+    temporal patterns, independent of their operon organization. Differential translation
+    of operon-encoded genes facilitates precise cell cycle-timing for the dynamic
+    assembly of multiprotein complexes, such as the flagellum and the stalk and the
+    correct positioning of regulatory proteins to specific cell poles. The cell cycle-regulatory
+    pathways that produce specific temporal TE patterns are separate from-but highly
+    coordinated with-the transcriptional cell cycle circuitry, suggesting that the
+    scheduling of translational regulation is organized by the same cyclical regulatory
+    circuit that directs the transcriptional control of the Caulobacter cell cycle.
+  doi: 10.1073/pnas.1614795113
+  journal: PNAS
 - title: Compact and highly active next-generation libraries for CRISPR-mediated gene
     repression and activation.
   authors:
@@ -3459,38 +3515,6 @@
     Cas9 target sites.
   doi: 10.7554/eLife.19760
   journal: eLife
-- title: Dynamic translation regulation in Caulobacter cell cycle control.
-  authors:
-  - Jared M Schrader
-  - Gene-Wei Li
-  - W Seth Childers
-  - Adam M Perez
-  - Jonathan S Weissman
-  - Lucy Shapiro
-  - Harley H McAdams
-  publication_date: 03/11/16
-  publication_year: '2016'
-  pubmed_id: '27791168'
-  abstract: Progression of the Caulobacter cell cycle requires temporal and spatial
-    control of gene expression, culminating in an asymmetric cell division yielding
-    distinct daughter cells. To explore the contribution of translational control,
-    RNA-seq and ribosome profiling were used to assay global transcription and translation
-    levels of individual genes at six times over the cell cycle. Translational efficiency
-    (TE) was used as a metric for the relative rate of protein production from each
-    mRNA. TE profiles with similar cell cycle patterns were found across multiple
-    clusters of genes, including those in operons or in subsets of operons. Collections
-    of genes associated with central cell cycle functional modules (e.g., biosynthesis
-    of stalk, flagellum, or chemotaxis machinery) have consistent but different TE
-    temporal patterns, independent of their operon organization. Differential translation
-    of operon-encoded genes facilitates precise cell cycle-timing for the dynamic
-    assembly of multiprotein complexes, such as the flagellum and the stalk and the
-    correct positioning of regulatory proteins to specific cell poles. The cell cycle-regulatory
-    pathways that produce specific temporal TE patterns are separate from-but highly
-    coordinated with-the transcriptional cell cycle circuitry, suggesting that the
-    scheduling of translational regulation is organized by the same cyclical regulatory
-    circuit that directs the transcriptional control of the Caulobacter cell cycle.
-  doi: 10.1073/pnas.1614795113
-  journal: PNAS
 - title: Combined chemical-genetic approach identifies cytosolic HSP70 dependence
     in rhabdomyosarcoma.
   authors:
