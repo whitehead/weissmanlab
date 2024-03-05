@@ -1,3 +1,97 @@
+- title: "Triaging of \u03B1-helical proteins to the mitochondrial outer membrane\
+    \ by distinct chaperone machinery based on substrate topology."
+  authors:
+  - Gayathri Muthukumar
+  - Taylor A Stevens
+  - Alison J Inglis
+  - Theodore K Esantsi
+  - Reuben A Saunders
+  - Fabian Schulte
+  - Rebecca M Voorhees
+  - Alina Guna
+  - Jonathan S Weissman
+  publication_date: 02/03/24
+  publication_year: '2024'
+  pubmed_id: '38428433'
+  abstract: "Mitochondrial outer membrane \u237A-helical proteins play critical roles\
+    \ in mitochondrial-cytoplasmic communication, but the rules governing the targeting\
+    \ and insertion of these biophysically diverse proteins remain unknown. Here,\
+    \ we first defined the complement of required mammalian biogenesis machinery through\
+    \ genome-wide CRISPRi screens using topologically distinct membrane proteins.\
+    \ Systematic analysis of nine identified factors across 21 diverse \u237A-helical\
+    \ substrates reveals that these components are organized into distinct targeting\
+    \ pathways that act on substrates based on their topology. NAC is required for\
+    \ the efficient targeting of polytopic proteins, whereas signal-anchored proteins\
+    \ require TTC1, a cytosolic chaperone that physically engages substrates. Biochemical\
+    \ and mutational studies reveal that TTC1 employs a conserved TPR domain and a\
+    \ hydrophobic groove in its C-terminal domain to support substrate solubilization\
+    \ and insertion into mitochondria. Thus, the targeting of diverse mitochondrial\
+    \ membrane proteins is achieved through topological triaging in the cytosol using\
+    \ principles with similarities to ER membrane protein biogenesis systems."
+  doi: 10.1016/j.molcel.2024.01.028
+  journal: Molecular cell
+- title: CRISPR technologies for genome, epigenome and transcriptome editing.
+  authors:
+  - Lukas Villiger
+  - Julia Joung
+  - Luke Koblan
+  - Jonathan Weissman
+  - Omar O Abudayyeh
+  - Jonathan S Gootenberg
+  publication_date: 03/02/24
+  publication_year: '2024'
+  pubmed_id: '38308006'
+  abstract: Our ability to edit genomes lags behind our capacity to sequence them,
+    but the growing understanding of CRISPR biology and its application to genome,
+    epigenome and transcriptome engineering is narrowing this gap. In this Review,
+    we discuss recent developments of various CRISPR-based systems that can transiently
+    or permanently modify the genome and the transcriptome. The discovery of further
+    CRISPR enzymes and systems through functional metagenomics has meaningfully broadened
+    the applicability of CRISPR-based editing. Engineered Cas variants offer diverse
+    capabilities such as base editing, prime editing, gene insertion and gene regulation,
+    thereby providing a panoply of tools for the scientific community. We highlight
+    the strengths and weaknesses of current CRISPR tools, considering their efficiency,
+    precision, specificity, reliance on cellular DNA repair mechanisms and their applications
+    in both fundamental biology and therapeutics. Finally, we discuss ongoing clinical
+    trials that illustrate the potential impact of CRISPR systems on human health.
+  doi: 10.1038/s41580-023-00697-6
+  journal: Nature reviews. Molecular cell biology
+- title: Deciphering cell states and genealogies of human haematopoiesis.
+  authors:
+  - Chen Weng
+  - Fulong Yu
+  - Dian Yang
+  - Michael Poeschla
+  - L Alexander Liggett
+  - Matthew G Jones
+  - Xiaojie Qiu
+  - Lara Wahlster
+  - Alexis Caulier
+  - Jeffrey A Hussmann
+  - Alexandra Schnell
+  - Kathryn E Yost
+  - Luke W Koblan
+  - Jorge D Martin-Rufino
+  - Joseph Min
+  - Alessandro Hammond
+  - Daniel Ssozi
+  - Raphael Bueno
+  - Hari Mallidi
+  - Antonia Kreso
+  - Javier Escabi
+  - William M Rideout
+  - Tyler Jacks
+  - Sahand Hormoz
+  - Peter van Galen
+  - Jonathan S Weissman
+  - Vijay G Sankaran
+  publication_date: 23/01/24
+  publication_year: '2024'
+  pubmed_id: '38253266'
+  abstract: The human blood system is maintained through the differentiation and massive
+    amplification of a limited number of long-lived haematopoietic stem cells (HSCs)
+  doi: 10.1038/s41586-024-07066-z
+  journal: Nature
 - title: A dual sgRNA library design to probe genetic modifiers using genome-wide
     CRISPRi screens.
   authors:

@@ -20,7 +20,7 @@
   pos: Admin Assistant
   email: aodera@wi.mit.edu
   id: AnneOdera
-  alum: false
+  alum: true
 
 - name: Richard She
   pos: Post-doc
@@ -44,7 +44,8 @@
   pos: Post-doc
   email: xqiu@wi.mit.edu
   id: XiaojieQiu
-  alum: false
+  alum: true
+  now: Assistant Professor & Principal Investigator | Stanford University
 
 - name: Yuancheng (Ryan) Lu
   pos: Post-doc
@@ -93,8 +94,7 @@
   email: dyang@wi.mit.edu
   id: DianYang
   alum: true
-  now: Assistant Professor of Molecular Pharmacology and Therapeutics  | Coulmbia
-    University
+  now: Assistant Professor of Molecular Pharmacology and Therapeutics | Coulmbia University
 
 - name: Chen Weng
   pos: Post-doc
@@ -149,7 +149,7 @@
   email: lenail@mit.edu
   id: AlexanderLeNail
   alum: true
-  now: Grad Student  | Heiman Lab MIT
+  now: PhD Student | Heiman Lab MIT
 
 - name: Yi Hua Chen
   pos: Grad student
