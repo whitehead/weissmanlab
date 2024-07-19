@@ -22,12 +22,6 @@
   id: AnneOdera
   alum: true
 
-- name: Maria Gould
-  pos: Admin Assistant
-  email: mgould@wi.mit.edu
-  id: MariaGould
-  alum: false
-
 - name: Richard She
   pos: Post-doc
   email: rshe@wi.mit.edu
@@ -285,12 +279,6 @@
   email: avernich@wi.mit.edu
   id: AllyVernich
   alum: true
-
-- name: Audrey Lim
-  pos: Undergrad
-  email: alim@wi.mit.edu
-  id: AudreyLim
-  alum: false
 
 - name: Ever Marinelli
   pos: Undergrad
