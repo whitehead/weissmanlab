@@ -22,6 +22,12 @@
   id: AnneOdera
   alum: true
 
+- name: Maria Gould
+  pos: Admin Assistant
+  email: mgould@wi.mit.edu
+  id: MariaGould
+  alum: false
+
 - name: Richard She
   pos: Post-doc
   email: rshe@wi.mit.edu
@@ -60,7 +66,7 @@
   alum: false
 
 - name: Mohamed El-Brolosy
-  pos: Visiting Scientist
+  pos: Post-doc
   email: mbrolosy@wi.mit.edu
   id: MohamedEl-Brolosy
   alum: false
@@ -118,7 +124,8 @@
   pos: Post-doc
   email: genya@wi.mit.edu
   id: GenyaFrenkel
-  alum: false
+  alum: true
+  now: Senior Scientist | IOCB Boston
 
 - name: Julia Joung
   pos: Post-doc
@@ -167,7 +174,7 @@
   pos: Grad student
   email: acer@wi.mit.edu
   id: AcerXu
-  alum: false
+  alum: true
 
 - name: Karina Smolyar
   pos: Grad student
@@ -181,6 +188,18 @@
   id: EdwinNeumann
   alum: false
 
+- name: Yassine Damergi
+  pos: Grad student
+  email: ydamergi@wi.mit.edu
+  id: YassineDamergi
+  alum: false
+
+- name: Tyler Masuyama
+  pos: Grad student
+  email: tylermasuyama@wi.mit.edu
+  id: TylerMasuyama
+  alum: false
+
 - name: Theo Esantsi
   pos: Technician
   email: esantsit@wi.mit.edu
@@ -192,19 +211,22 @@
   pos: Technician
   email: jcameron@wi.mit.edu
   id: JamesCameron
-  alum: false
+  alum: true
+  now: PhD Student | MIT
 
 - name: Elaine Wu
   pos: Technician
   email: elainewu@wi.mit.edu
   id: ElaineWu
-  alum: false
+  alum: true
+  now: PhD Student | Weill Cornell
 
 - name: Atharv Oak
   pos: Undergrad
   email: aoak@wi.mit.edu
   id: AtharvOak
   alum: true
+  now: Medical Student | Johns Hopkins Medical School
 
 - name: Yue He
   pos: Undergrad
@@ -224,12 +246,25 @@
   pos: Technician
   email: arhank@wi.mit.edu
   id: ArhanKumar
-  alum: false
+  alum: true
+  now: Graduate Student
 
 - name: Stuti Khandwala
   pos: Technician
   email: stutik@wi.mit.edu
   id: StutiKhandwala
+  alum: false
+
+- name: Blake Bunney
+  pos: Technician
+  email: bbunney@wi.mit.edu
+  id: BlakeBunney
+  alum: false
+
+- name: Haarika Kathi
+  pos: Technician
+  email: hkathi@wi.mit.edu
+  id: HaarikaKathi
   alum: false
 
 - name: Thao Nguyen
@@ -251,11 +286,36 @@
   id: AllyVernich
   alum: true
 
+- name: Audrey Lim
+  pos: Undergrad
+  email: alim@wi.mit.edu
+  id: AudreyLim
+  alum: false
+
+- name: Ever Marinelli
+  pos: Undergrad
+  email: emarinelli@wi.mit.edu
+  id: EverMarinelli
+  alum: false
+
+- name: Esme Sun
+  pos: Undergrad
+  email: emsun@wi.mit.edu
+  id: EsmeSun
+  alum: false
+
+- name: Roxana Vallejo
+  pos: Lab Assistant
+  email: rvallejo@wi.mit.edu
+  id: RoxanaVallejo
+  alum: false
+
 - name: Ba Pham
   pos: Lab Assistant
   email: batongvn@wi.mit.edu
   id: BaPham
-  alum: false
+  alum: true
+  now: Lab Assistant  | IOCB Boston
 
 - name: Ukyeon Shin
   pos: Software Engineer
@@ -281,12 +341,6 @@
   pos: Grad student
   email: wcolgan@wi.mit.edu
   id: WilliamColgan
-  alum: false
-
-- name: Esme Sun
-  pos: Undergrad
-  email: emsun@wi.mit.edu
-  id: EsmeSun
   alum: false
 
 - name: Jeff Hussmann

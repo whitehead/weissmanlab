@@ -1,3 +1,154 @@
+- title: Transcriptome-wide characterization of genetic perturbations.
+  authors:
+  - Ajay Nadig
+  - Joseph M Replogle
+  - Angela N Pogson
+  - Steven A McCarroll
+  - Jonathan S Weissman
+  - Elise B Robinson
+  - Luke J O'Connor
+  publication_date: 15/07/24
+  publication_year: '2024'
+  pubmed_id: '39005298'
+  abstract: Single cell CRISPR screens such as Perturb-seq enable transcriptomic profiling
+    of genetic perturbations at scale. However, the data produced by these screens
+    are often noisy due to cost and technical constraints, limiting power to detect
+    true effects with conventional differential expression analyses. Here, we introduce
+    TRanscriptome-wide Analysis of Differential Expression (TRADE), a statistical
+    framework which estimates the transcriptome-wide distribution of true differential
+    expression effects from noisy gene-level measurements. Within TRADE, we derive
+    multiple novel, interpretable statistical metrics, including the "transcriptome-wide
+    impact", an estimator of the overall transcriptional effect of a perturbation
+    which is stable across sampling depths. We analyze new and published large-scale
+    Perturb-seq datasets to show that many true transcriptional effects are not statistically
+    significant, but detectable in aggregate with TRADE. In a genome-scale Perturb-seq
+    screen, we find that a typical gene perturbation affects an estimated 45 genes,
+    whereas a typical essential gene perturbation affects over 500 genes. An advantage
+    of our approach is its ability to compare the transcriptomic effects of genetic
+    perturbations across contexts and dosages despite differences in power. We use
+    this ability to identify perturbations with cell-type dependent effects and to
+    find examples of perturbations where transcriptional responses are not only larger
+    in magnitude, but also qualitatively different, as a function of dosage. Lastly,
+    we expand our analysis to case/control comparison of gene expression for neuropsychiatric
+    conditions, finding that transcriptomic effect correlations are greater than genetic
+    correlations for these diagnoses. TRADE lays an analytic foundation for the systematic
+    comparison of genetic perturbation atlases, as well as differential expression
+    experiments more broadly.
+  doi: 10.1101/2024.07.03.601903
+  journal: biorxiv
+- title: Brainwide silencing of prion protein by AAV-mediated delivery of an engineered
+    compact epigenetic editor.
+  authors:
+  - Edwin N Neumann
+  - Tessa M Bertozzi
+  - Elaine Wu
+  - Fiona Serack
+  - John W Harvey
+  - Pamela P Brauer
+  - Catherine P Pirtle
+  - Alissa Coffey
+  - Michael Howard
+  - Nikita Kamath
+  - Kenney Lenz
+  - Kenia Guzman
+  - Michael H Raymond
+  - Ahmad S Khalil
+  - Benjamin E Deverman
+  - Eric Vallabh Minikel
+  - Sonia M Vallabh
+  - Jonathan S Weissman
+  publication_date: 27/06/24
+  publication_year: '2024'
+  pubmed_id: '38935715'
+  abstract: 'Prion disease is caused by misfolding of the prion protein (PrP) into
+    pathogenic self-propagating conformations, leading to rapid-onset dementia and
+    death. However, elimination of endogenous PrP halts prion disease progression.
+    In this study, we describe Coupled Histone tail for Autoinhibition Release of
+    Methyltransferase (CHARM), a compact, enzyme-free epigenetic editor capable of
+    silencing transcription through programmable DNA methylation. Using a histone
+    H3 tail-Dnmt3l fusion, CHARM recruits and activates endogenous DNA methyltransferases,
+    thereby reducing transgene size and cytotoxicity. When delivered to the mouse
+    brain by systemic injection of adeno-associated virus (AAV), '
+  doi: 10.1126/science.ado7082
+  journal: Science
+- title: Nucleotide depletion promotes cell fate transitions by inducing DNA replication
+    stress.
+  authors:
+  - Brian T Do
+  - Peggy P Hsu
+  - Sidney Y Vermeulen
+  - Zhishan Wang
+  - Taghreed Hirz
+  - Keene L Abbott
+  - Najihah Aziz
+  - Joseph M Replogle
+  - Stefan Bjelosevic
+  - Jonathan Paolino
+  - Samantha A Nelson
+  - Samuel Block
+  - Alicia M Darnell
+  - Raphael Ferreira
+  - Hanyu Zhang
+  - Jelena Milosevic
+  - Daniel R Schmidt
+  - Christopher Chidley
+  - Isaac S Harris
+  - Jonathan S Weissman
+  - Yana Pikman
+  - Kimberly Stegmaier
+  - Sihem Cheloufi
+  - Xiaofeng A Su
+  - David B Sykes
+  - Matthew G Vander Heiden
+  publication_date: 02/06/24
+  publication_year: '2024'
+  pubmed_id: '38823395'
+  abstract: Control of cellular identity requires coordination of developmental programs
+    with environmental factors such as nutrient availability, suggesting that perturbing
+    metabolism can alter cell state. Here, we find that nucleotide depletion and DNA
+    replication stress drive differentiation in human and murine normal and transformed
+    hematopoietic systems, including patient-derived acute myeloid leukemia (AML)
+    xenografts. These cell state transitions begin during S phase and are independent
+    of ATR/ATM checkpoint signaling, double-stranded DNA break formation, and changes
+    in cell cycle length. In systems where differentiation is blocked by oncogenic
+    transcription factor expression, replication stress activates primed regulatory
+    loci and induces lineage-appropriate maturation genes despite the persistence
+    of progenitor programs. Altering the baseline cell state by manipulating transcription
+    factor expression causes replication stress to induce genes specific for alternative
+    lineages. The ability of replication stress to selectively activate primed maturation
+    programs across different contexts suggests a general mechanism by which changes
+    in metabolism can promote lineage-appropriate cell state transitions.
+  doi: 10.1016/j.devcel.2024.05.010
+  journal: Developmental cell
+- title: 'CRISPRi screens identify the lncRNA, LOUP, as a multifunctional locus regulating macrophage differentiation and inflammatory signaling'
+  authors:
+  - Haley Halasz
+  - Eric Malekos
+  - Sergio Covarrubias
+  - Samira Yitiz
+  - Christy Montano
+  - Lisa Sudek
+  - Sol Katzman
+  - S John Liu
+  - Max A Horlbeck
+  - Leila Namvar
+  - Jonathan S Weissman
+  - Susan Carpenter
+  publication_date: 23/05/24
+  publication_year: '2024'
+  pubmed_id: '38781216'
+  abstract: 'Long noncoding RNAs (lncRNAs) account for the largest portion of RNA
+    from the transcriptome, yet most of their functions remain unknown. Here, we performed
+    two independent high-throughput CRISPRi screens to understand the role of lncRNAs
+    in monocyte function and differentiation. The first was a reporter-based screen
+    to identify lncRNAs that regulate TLR4-NFkB signaling in human monocytes and the
+    second screen identified lncRNAs involved in monocyte to macrophage differentiation.
+    We successfully identified numerous noncoding and protein-coding genes that can
+    positively or negatively regulate inflammation and differentiation. To understand
+    the functional roles of lncRNAs in both processes, we chose to further study the
+    lncRNA '
+  doi: 10.1073/pnas.2322524121
+  journal: PNAS
 - title: "Triaging of \u03B1-helical proteins to the mitochondrial outer membrane\
     \ by distinct chaperone machinery based on substrate topology."
   authors:
@@ -116,6 +267,30 @@
     increased sensitivity and specificity than traditional growth screening approaches.
   doi: 10.1186/s12864-023-09754-y
   journal: BMC genomics
+- title: "Author Correction: Efficient C\u2022G-to-G\u2022C base editors developed\
+    \ using CRISPRi screens, target-library analysis, and machine learning."
+  authors:
+  - Luke W Koblan
+  - Mandana Arbab
+  - Max W Shen
+  - Jeffrey A Hussmann
+  - Andrew V Anzalone
+  - Jordan L Doman
+  - Gregory A Newby
+  - Dian Yang
+  - Beverly Mok
+  - Joseph M Replogle
+  - Albert Xu
+  - Tyler A Sisley
+  - Jonathan S Weissman
+  - Britt Adamson
+  - David R Liu
+  publication_date: 19/10/23
+  publication_year: '2023'
+  pubmed_id: '37853259'
+  abstract: null
+  doi: 10.1038/s41587-023-02028-8
+  journal: Nature biotechnology
 - title: Systematic functional interrogation of SARS-CoV-2 host factors using Perturb-seq.
   authors:
   - Sara Sunshine
