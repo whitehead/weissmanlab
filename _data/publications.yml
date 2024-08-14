@@ -1,3 +1,43 @@
+- title: Multi-species genome-wide CRISPR screens identify GPX4 as a conserved suppressor
+    of cold-induced cell death.
+  authors:
+  - Breanna Lam
+  - Kathrin M Kajderowicz
+  - Heather R Keys
+  - Julian M Roessler
+  - Evgeni M Frenkel
+  - Adina Kirkland
+  - Punam Bisht
+  - Mohamed A El-Brolosy
+  - Rudolf Jaenisch
+  - George W Bell
+  - Jonathan S Weissman
+  - Eric C Griffith
+  - Sinisa Hrvatin
+  publication_date: 02/08/24
+  publication_year: '2024'
+  pubmed_id: '39091747'
+  abstract: "Cells must adapt to environmental changes to maintain homeostasis. One\
+    \ of the most striking environmental adaptations is entry into hibernation during\
+    \ which core body temperature can decrease from 37\xB0C to as low at 4\xB0C. How\
+    \ mammalian cells, which evolved to optimally function within a narrow range of\
+    \ temperatures, adapt to this profound decrease in temperature remains poorly\
+    \ understood. In this study, we conducted the first genome-scale CRISPR-Cas9 screen\
+    \ in cells derived from Syrian hamster, a facultative hibernator, as well as human\
+    \ cells to investigate the genetic basis of cold tolerance in a hibernator and\
+    \ a non-hibernator in an unbiased manner. Both screens independently revealed\
+    \ glutathione peroxidase 4 (GPX4), a selenium-containing enzyme, and associated\
+    \ proteins as critical for cold tolerance. We utilized genetic and pharmacological\
+    \ approaches to demonstrate that GPX4 is active in the cold and its catalytic\
+    \ activity is required for cold tolerance. Furthermore, we show that the role\
+    \ of GPX4 as a suppressor of cold-induced cell death extends across hibernating\
+    \ species, including 13-lined ground squirrels and greater horseshoe bats, highlighting\
+    \ the evolutionary conservation of this mechanism of cold tolerance. This study\
+    \ identifies GPX4 as a central modulator of mammalian cold tolerance and advances\
+    \ our understanding of the evolved mechanisms by which cells mitigate cold-associated\
+    \ damage-one of the most common challenges faced by cells and organisms in nature."
+  doi: 10.1101/2024.07.25.605098
+  journal: biorxiv
 - title: Transcriptome-wide characterization of genetic perturbations.
   authors:
   - Ajay Nadig
@@ -120,7 +160,8 @@
     in metabolism can promote lineage-appropriate cell state transitions.
   doi: 10.1016/j.devcel.2024.05.010
   journal: Developmental cell
-- title: 'CRISPRi screens identify the lncRNA, LOUP, as a multifunctional locus regulating macrophage differentiation and inflammatory signaling'
+- title: CRISPRi screens identify the lncRNA, LOUP, as a multifunctional locus regulating
+    macrophage differentiation and inflammatory signaling
   authors:
   - Haley Halasz
   - Eric Malekos
@@ -149,6 +190,39 @@
     lncRNA '
   doi: 10.1073/pnas.2322524121
   journal: PNAS
+- title: Neuronal activity rapidly reprograms dendritic translation via eIF4G2:uORF
+    binding.
+  authors:
+  - Ezgi Hacisuleyman
+  - Caryn R Hale
+  - Natalie Noble
+  - Ji-Dung Luo
+  - John J Fak
+  - Misa Saito
+  - Jin Chen
+  - Jonathan S Weissman
+  - Robert B Darnell
+  publication_date: 09/04/24
+  publication_year: '2024'
+  pubmed_id: '38589584'
+  abstract: Learning and memory require activity-induced changes in dendritic translation,
+    but which mRNAs are involved and how they are regulated are unclear. In this study,
+    to monitor how depolarization impacts local dendritic biology, we employed a dendritically
+    targeted proximity labeling approach followed by crosslinking immunoprecipitation,
+    ribosome profiling and mass spectrometry. Depolarization of primary cortical neurons
+    with KCl or the glutamate agonist DHPG caused rapid reprogramming of dendritic
+    protein expression, where changes in dendritic mRNAs and proteins are weakly correlated.
+    For a subset of pre-localized messages, depolarization increased the translation
+    of upstream open reading frames (uORFs) and their downstream coding sequences,
+    enabling localized production of proteins involved in long-term potentiation,
+    cell signaling and energy metabolism. This activity-dependent translation was
+    accompanied by the phosphorylation and recruitment of the non-canonical translation
+    initiation factor eIF4G2, and the translated uORFs were sufficient to confer depolarization-induced,
+    eIF4G2-dependent translational control. These studies uncovered an unanticipated
+    mechanism by which activity-dependent uORF translational control by eIF4G2 couples
+    activity to local dendritic remodeling.
+  doi: 10.1038/s41593-024-01615-5
+  journal: Nature neuroscience
 - title: "Triaging of \u03B1-helical proteins to the mitochondrial outer membrane\
     \ by distinct chaperone machinery based on substrate topology."
   authors:

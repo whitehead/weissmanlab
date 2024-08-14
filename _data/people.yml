@@ -261,6 +261,12 @@
   id: HaarikaKathi
   alum: false
 
+- name: Emily He
+  pos: Technician
+  email: ehe@wi.mit.edu
+  id: EmilyHe
+  alum: false
+
 - name: Thao Nguyen
   pos: Undergrad
   email: thaobio@mit.edu
@@ -279,6 +285,12 @@
   email: avernich@wi.mit.edu
   id: AllyVernich
   alum: true
+
+- name: Audrey Lim
+  pos: Undergrad
+  email: alim@wi.mit.edu
+  id: AudreyLim
+  alum: false
 
 - name: Ever Marinelli
   pos: Undergrad
