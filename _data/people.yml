@@ -139,11 +139,18 @@
   id: PuZheng
   alum: false
 
+- name: Emily Ashkin
+  pos: Post-doc
+  email: eashkin@wi.mit.edu
+  id: EmilyAshkin
+  alum: false
+
 - name: Reuben Saunders
   pos: Grad student
   email: reubens@wi.mit.edu
   id: ReubenSaunders
-  alum: false
+  alum: true
+  now: Junior Fellow | Harvard Society of Fellows
 
 - name: Alex LeNail
   pos: Grad student
@@ -298,7 +305,7 @@
   id: EverMarinelli
   alum: false
 
-- name: JIahe Ai
+- name: Jiahe Ai
   pos: Undergrad
   email: jaipynnic@wi.mit.edu
   id: JiaheAi

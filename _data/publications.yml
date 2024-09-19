@@ -1,3 +1,46 @@
+- title: Robustness and reliability of single-cell regulatory multi-omics with deep
+    mitochondrial mutation profiling.
+  authors:
+  - Chen Weng
+  - Jonathan S Weissman
+  - Vijay G Sankaran
+  publication_date: 04/09/24
+  publication_year: '2024'
+  pubmed_id: '39229039'
+  abstract: The detection of mitochondrial DNA (mtDNA) mutations in single cells holds
+    considerable potential to define clonal relationships coupled with information
+    on cell state in humans. Previous methods focused on higher heteroplasmy mutations
+    that are limited in number and can be influenced by functional selection, introducing
+    biases for lineage tracing. Although more challenging to detect, intermediate
+    to low heteroplasmy mtDNA mutations are valuable due to their high diversity,
+    abundance, and lower propensity to selection. To enhance mtDNA mutation detection
+    and facilitate fine-scale lineage tracing, we developed the single-cell Regulatory
+    multi-omics with Deep Mitochondrial mutation profiling (ReDeeM) approach, an integrated
+    experimental and computational framework. Recently, some concerns have been raised
+    about the analytical workflow in the ReDeeM framework. Specifically, it was noted
+    that the mutations detected in a single molecule per cell are enriched on edges
+    of mtDNA molecules, suggesting they resemble artifacts reported in other sequencing
+    approaches. It was then proposed that all mutations found in one molecule per
+    cell should be removed. We detail our error correction method, demonstrating that
+    the observed edge mutations are distinct from previously reported sequencing artifacts.
+    We further show that the proposed removal leads to massive elimination of bona
+    fide and informative mutations. Indeed, mutations accumulating on edges impact
+    a minority of all mutation calls (for example, in hematopoietic stem cells, the
+    excess mutations on the edge account for only 4.3%-7.6% of the total). Recognizing
+    the value of addressing edge mutations even after applying consensus correction,
+    we provide an additional filtering option in the ReDeeM-R package. This approach
+    effectively eliminates the position biases, leads to a mutational signature indistinguishable
+    from bona fide mitochondrial mutations, and removes excess low molecule high connectedness
+    mutations. Importantly, this option preserves the large majority of unique mutations
+    identified by ReDeeM, maintaining the ability of ReDeeM to provide a more than
+    10-fold increase in variant detection compared to previous methods. Additionally,
+    the cells remain well-connected. While there is room for further refinement in
+    mutation calling strategies, the significant advances and biological insights
+    provided by the ReDeeM framework are unique and remain intact. We hope that this
+    detailed discussion and analysis enables the community to employ this approach
+    and contribute to its further development.
+  doi: 10.1101/2024.08.23.609473
+  journal: biorxiv
 - title: Multi-species genome-wide CRISPR screens identify GPX4 as a conserved suppressor
     of cold-induced cell death.
   authors:
