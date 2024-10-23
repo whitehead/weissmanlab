@@ -1,3 +1,71 @@
+- title: High-quality peptide evidence for annotating non-canonical open reading frames
+    as human proteins.
+  authors:
+  - Eric W Deutsch
+  - Leron W Kok
+  - Jonathan M Mudge
+  - Jorge Ruiz-Orera
+  - Ivo Fierro-Monti
+  - Zhi Sun
+  - Jennifer G Abelin
+  - M Mar Alba
+  - Julie L Aspden
+  - Ariel A Bazzini
+  - Elspeth A Bruford
+  - Marie A Brunet
+  - Lorenzo Calviello
+  - Steven A Carr
+  - Anne-Ruxandra Carvunis
+  - Sonia Chothani
+  - Jim Clauwaert
+  - Kellie Dean
+  - Pouya Faridi
+  - Adam Frankish
+  - Norbert Hubner
+  - Nicholas T Ingolia
+  - Michele Magrane
+  - Maria Jesus Martin
+  - Thomas F Martinez
+  - Gerben Menschaert
+  - Uwe Ohler
+  - Sandra Orchard
+  - Owen Rackham
+  - Xavier Roucou
+  - Sarah A Slavoff
+  - Eivind Valen
+  - Aaron Wacholder
+  - Jonathan S Weissman
+  - Wei Wu
+  - Zhi Xie
+  - Jyoti Choudhary
+  - Michal Bassani-Sternberg
+  - "Juan Antonio Vizca\xEDno"
+  - Nicola Ternette
+  - Robert L Moritz
+  - John R Prensner
+  - Sebastiaan van Heesch
+  publication_date: 24/09/24
+  publication_year: '2024'
+  pubmed_id: '39314370'
+  abstract: 'A major scientific drive is to characterize the protein-coding genome
+    as it provides the primary basis for the study of human health. But the fundamental
+    question remains: what has been missed in prior genomic analyses? Over the past
+    decade, the translation of non-canonical open reading frames (ncORFs) has been
+    observed across human cell types and disease states, with major implications for
+    proteomics, genomics, and clinical science. However, the impact of ncORFs has
+    been limited by the absence of a large-scale understanding of their contribution
+    to the human proteome. Here, we report the collaborative efforts of stakeholders
+    in proteomics, immunopeptidomics, Ribo-seq ORF discovery, and gene annotation,
+    to produce a consensus landscape of protein-level evidence for ncORFs. We show
+    that at least 25% of a set of 7,264 ncORFs give rise to translated gene products,
+    yielding over 3,000 peptides in a pan-proteome analysis encompassing 3.8 billion
+    mass spectra from 95,520 experiments. With these data, we developed an annotation
+    framework for ncORFs and created public tools for researchers through GENCODE
+    and PeptideAtlas. This work will provide a platform to advance ncORF-derived proteins
+    in biomedical discovery and, beyond humans, diverse animals and plants where ncORFs
+    are similarly observed.'
+  doi: 10.1101/2024.09.09.612016
+  journal: biorxiv
 - title: Robustness and reliability of single-cell regulatory multi-omics with deep
     mitochondrial mutation profiling.
   authors:

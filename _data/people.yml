@@ -262,12 +262,6 @@
   id: BlakeBunney
   alum: false
 
-- name: Haarika Kathi
-  pos: Technician
-  email: hkathi@wi.mit.edu
-  id: HaarikaKathi
-  alum: false
-
 - name: Emily He
   pos: Technician
   email: ehe@wi.mit.edu
@@ -736,7 +730,8 @@
   pos: Post-doc
   id: Gene-WeiLi
   alum: true
-  now: PI & Associate Professor of Biology | Massachusetts Institute of Technology
+  now: PI, Associate Professor of Biology & HHMI Investigator | Massachusetts Institute
+    of Technology & HHMI
 
 - name: Han Li
   pos: Technician
