@@ -1,3 +1,127 @@
+- title: Combinatorial effector targeting (COMET) for transcriptional modulation and
+    locus-specific biochemistry.
+  authors:
+  - Caroline M Wilson
+  - Greg C Pommier
+  - Daniel D Richman
+  - Nicholas Sambold
+  - Jeffrey A Hussmann
+  - Jonathan S Weissman
+  - Luke A Gilbert
+  publication_date: 18/11/24
+  publication_year: '2024'
+  pubmed_id: '39554033'
+  abstract: Understanding how human gene expression is coordinately regulated by functional
+    units of proteins across the genome remains a major biological goal. Here, we
+    present COMET, a high-throughput screening platform for com binatorial e ffector
+    targeting for the identification of transcriptional modulators. We generate libraries
+    of combinatorial dCas9-based fusion proteins, containing two to six effector domains,
+    allowing us to systematically investigate more than 110,000 combinations of effector
+    proteins at endogenous human loci for their influence on transcription. Importantly,
+    we keep full proteins or domains intact, maintaining catalytic cores and surfaces
+    for protein-protein interactions. We observe more than 5800 significant hits that
+    modulate transcription, we demonstrate cell type specific transcriptional modulation,
+    and we further investigate epistatic relationships between our effector combinations.
+    We validate unexpected combinations as synergistic or buffering, emphasizing COMET
+    as both a method for transcriptional effector discovery, and as a functional genomics
+    tool for identifying novel domain interactions and directing locus-specific biochemistry.
+  doi: 10.1101/2024.10.28.620517
+  journal: biorxiv
+- title: Spatiotemporal modeling of molecular holograms.
+  authors:
+  - Xiaojie Qiu
+  - Daniel Y Zhu
+  - Yifan Lu
+  - Jiajun Yao
+  - Zehua Jing
+  - Kyung Hoi Min
+  - Mengnan Cheng
+  - Hailin Pan
+  - Lulu Zuo
+  - Samuel King
+  - Qi Fang
+  - Huiwen Zheng
+  - Mingyue Wang
+  - Shuai Wang
+  - Qingquan Zhang
+  - Sichao Yu
+  - Sha Liao
+  - Chao Liu
+  - Xinchao Wu
+  - Yiwei Lai
+  - Shijie Hao
+  - Zhewei Zhang
+  - Liang Wu
+  - Yong Zhang
+  - Mei Li
+  - Zhencheng Tu
+  - Jinpei Lin
+  - Zhuoxuan Yang
+  - Yuxiang Li
+  - Ying Gu
+  - David Ellison
+  - Ao Chen
+  - Longqi Liu
+  - Jonathan S Weissman
+  - Jiayi Ma
+  - Xun Xu
+  - Shiping Liu
+  - Yinqi Bai
+  publication_date: 13/11/24
+  publication_year: '2024'
+  pubmed_id: '39532097'
+  abstract: Quantifying spatiotemporal dynamics during embryogenesis is crucial for
+    understanding congenital diseases. We developed Spateo (https://github.com/aristoteleo/spateo-release),
+    a 3D spatiotemporal modeling framework, and applied it to a 3D mouse embryogenesis
+    atlas at E9.5 and E11.5, capturing eight million cells. Spateo enables scalable,
+    partial, non-rigid alignment, multi-slice refinement, and mesh correction to create
+    molecular holograms of whole embryos. It introduces digitization methods to uncover
+    multi-level biology from subcellular to whole organ, identifying expression gradients
+    along orthogonal axes of emergent 3D structures, e.g., secondary organizers such
+    as midbrain-hindbrain boundary (MHB). Spateo further jointly models intercellular
+    and intracellular interaction to dissect signaling landscapes in 3D structures,
+    including the zona limitans intrathalamica (ZLI). Lastly, Spateo introduces "morphometric
+    vector fields" of cell migration and integrates spatial differential geometry
+    to unveil molecular programs underlying asymmetrical murine heart organogenesis
+    and others, bridging macroscopic changes with molecular dynamics. Thus, Spateo
+    enables the study of organ ecology at a molecular level in 3D space over time.
+  doi: 10.1016/j.cell.2024.10.011
+  journal: Cell
+- title: Spatiotemporal lineage tracing reveals the dynamic spatial architecture of
+    tumor growth and metastasis.
+  authors:
+  - Matthew G Jones
+  - Dawei Sun
+  - Kyung Hoi Joseph Min
+  - William N Colgan
+  - Luyi Tian
+  - Jackson A Weir
+  - Victor Z Chen
+  - Luke W Koblan
+  - Kathryn E Yost
+  - Nicolas Mathey-Andrews
+  - Andrew J C Russell
+  - Robert R Stickels
+  - Karol S Balderrama
+  - William M Rideout
+  - Howard Y Chang
+  - Tyler Jacks
+  - Fei Chen
+  - Jonathan S Weissman
+  - Nir Yosef
+  - Dian Yang
+  publication_date: 04/11/24
+  publication_year: '2024'
+  pubmed_id: '39484491'
+  abstract: 'Tumor progression is driven by dynamic interactions between cancer cells
+    and their surrounding microenvironment. Investigating the spatiotemporal evolution
+    of tumors can provide crucial insights into how intrinsic changes within cancer
+    cells and extrinsic alterations in the microenvironment cooperate to drive different
+    stages of tumor progression. Here, we integrate high-resolution spatial transcriptomics
+    and evolving lineage tracing technologies to elucidate how tumor expansion, plasticity,
+    and metastasis co-evolve with microenvironmental remodeling in a '
+  doi: 10.1101/2024.10.21.619529
+  journal: biorxiv
 - title: High-quality peptide evidence for annotating non-canonical open reading frames
     as human proteins.
   authors:
