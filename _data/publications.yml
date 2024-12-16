@@ -1,3 +1,70 @@
+- title: CD47 predominates over CD24 as a macrophage immune checkpoint in cancer.
+  authors:
+  - Juliet Allen
+  - Anna Meglan
+  - Kyle Vaccaro
+  - "Jos\xE9 Velarde"
+  - Victor Chen
+  - Juliano Ribeiro
+  - Jasmine Blandin
+  - Sumeet Gupta
+  - Ranjan Mishra
+  - Raymond Ho
+  - Jennifer Love
+  - Ferenc Reinhardt
+  - George W Bell
+  - Jin Chen
+  - Robert Weinberg
+  - Dian Yang
+  - Jonathan Weissman
+  - Kipp Weiskopf
+  publication_date: 09/12/24
+  publication_year: '2024'
+  pubmed_id: '39651307'
+  abstract: 'Macrophages hold tremendous promise as effectors of cancer immunotherapy,
+    but the best strategies to provoke these cells to attack tumors remain unknown.
+    Here, we evaluated the therapeutic potential of targeting two distinct macrophage
+    immune checkpoints: CD47 and CD24. We found that antibodies targeting these antigens
+    could elicit maximal levels of phagocytosis when combined together in vitro. However,
+    to our surprise, via unbiased genome-wide CRISPR screens, we found that CD24 primarily
+    acts as a target of opsonization rather than an immune checkpoint. In a series
+    of in vitro and in vivo genetic validation studies, we found that CD24 was neither
+    necessary nor sufficient to protect cancer cells from macrophage phagocytosis
+    in most mouse and human tumor models. Instead, anti-CD24 antibodies exhibit robust
+    Fc-dependent activity, and as a consequence, they cause significant on-target
+    hematologic toxicity in mice. To overcome these challenges and leverage our findings
+    for therapeutic purposes, we engineered a collection of 77 novel bispecific antibodies
+    that bind to a tumor antigen with one arm and engage macrophages with the second
+    arm. We discovered multiple novel bispecifics that maximally activate macrophage-mediated
+    cytotoxicity and reduce binding to healthy blood cells, including bispecifics
+    targeting macrophage immune checkpoint molecules in combination with EGFR, TROP2,
+    and CD71. Overall, our findings indicate that CD47 predominates over CD24 as a
+    macrophage immune checkpoint in cancer, and that the novel bispecifics we created
+    may be optimal immunotherapies to direct myeloid cells to eradicate solid tumors.'
+  doi: 10.1101/2024.11.25.625185
+  journal: biorxiv
+- title: 'A platform for multimodal '
+  authors:
+  - Reuben A Saunders
+  - William E Allen
+  - Xingjie Pan
+  - Jaspreet Sandhu
+  - Jiaqi Lu
+  - Thomas K Lau
+  - Karina Smolyar
+  - Zuri A Sullivan
+  - Catherine Dulac
+  - Jonathan S Weissman
+  - Xiaowei Zhuang
+  publication_date: 28/11/24
+  publication_year: '2024'
+  pubmed_id: '39605605'
+  abstract: 'Organ function requires coordinated activities of thousands of genes
+    in distinct, spatially organized cell types. Understanding the basis of emergent
+    tissue function requires approaches to dissect the genetic control of diverse
+    cellular and tissue phenotypes '
+  doi: 10.1101/2024.11.18.624217
+  journal: biorxiv
 - title: Combinatorial effector targeting (COMET) for transcriptional modulation and
     locus-specific biochemistry.
   authors:
