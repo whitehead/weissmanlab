@@ -1,3 +1,230 @@
+- title: High-resolution spatial mapping of cell state and lineage dynamics in vivo
+    with PEtracer.
+  authors:
+  - Luke W Koblan
+  - Kathryn E Yost
+  - Pu Zheng
+  - William N Colgan
+  - Matthew G Jones
+  - Dian Yang
+  - Arhan Kumar
+  - Jaspreet Sandhu
+  - Alexandra Schnell
+  - Dawei Sun
+  - Can Ergen
+  - Reuben A Saunders
+  - Xiaowei Zhuang
+  - William E Allen
+  - Nir Yosef
+  - Jonathan S Weissman
+  publication_date: 24/07/25
+  publication_year: '2025'
+  pubmed_id: '40705858'
+  abstract: Charting the spatiotemporal dynamics of cell fate determination in development
+    and disease is a long-standing objective in biology. Here we present the design,
+    development, and extensive validation of PEtracer, a prime editing-based, evolving
+    lineage tracing technology compatible with both single-cell sequencing and multimodal
+    imaging methodologies to jointly profile cell state and lineage in dissociated
+    cells or while preserving cellular context in tissues with high spatial resolution.
+    Using PEtracer coupled with MERFISH spatial transcriptomic profiling in a syngeneic
+    mouse model of tumor metastasis, we reconstruct the growth of individually-seeded
+    tumors in vivo and uncover distinct modules of cell-intrinsic and cell-extrinsic
+    factors that coordinate tumor growth. More generally, PEtracer enables systematic
+    characterization of cell state and lineage relationships in intact tissues over
+    biologically-relevant temporal and spatial scales.
+  doi: 10.1126/science.adx3800
+  journal: Science
+- title: 'High-resolution spatial mapping of cell state and lineage dynamics '
+  authors:
+  - Luke W Koblan
+  - Kathryn E Yost
+  - Pu Zheng
+  - William N Colgan
+  - Matthew G Jones
+  - Dian Yang
+  - Arhan Kumar
+  - Jaspreet Sandhu
+  - Alexandra Schnell
+  - Dawei Sun
+  - Can Ergen
+  - Reuben A Saunders
+  - Xiaowei Zhuang
+  - William E Allen
+  - Nir Yosef
+  - Jonathan S Weissman
+  publication_date: 15/07/25
+  publication_year: '2025'
+  pubmed_id: '40661400'
+  abstract: 'Charting the spatiotemporal dynamics of cell fate determination in development
+    and disease is a long-standing objective in biology. Here we present the design,
+    development, and extensive validation of PEtracer, a prime editing-based, evolving
+    lineage tracing technology compatible with both single-cell sequencing and multimodal
+    imaging methodologies to jointly profile cell state and lineage in dissociated
+    cells or while preserving cellular context in tissues with high spatial resolution.
+    Using PEtracer coupled with MERFISH spatial transcriptomic profiling in a syngeneic
+    mouse model of tumor metastasis, we reconstruct the growth of individually-seeded
+    tumors '
+  doi: 10.1101/2025.06.15.659774
+  journal: biorxiv
+- title: Shaping the composition of the mitochondrial outer membrane.
+  authors:
+  - Gayathri Muthukumar
+  - Jonathan S Weissman
+  publication_date: 17/06/25
+  publication_year: '2025'
+  pubmed_id: '40523936'
+  abstract: "Mitochondria are critical double-membraned organelles that act as biosynthetic\
+    \ and bioenergetic cellular factories, with the outer membrane providing an interface\
+    \ with the rest of the cell. Mitochondrial outer membrane proteins regulate a\
+    \ variety of processes, including metabolism, innate immunity and apoptosis. Although\
+    \ the biophysical and functional diversity of these proteins is highly documented,\
+    \ the mechanisms of their biogenesis and the integration of that into cellular\
+    \ homeostasis are just starting to take shape. Here, focusing on \u03B1-helical\
+    \ outer membrane proteins, we review recent insights into the mechanisms of synthesis\
+    \ and cytosolic chaperoning, insertion and assembly in the lipid bilayer, and\
+    \ quality control of unassembled or mislocalized transmembrane domains. We further\
+    \ discuss the role convergent evolution played in this process, comparing key\
+    \ biogenesis players from lower eukaryotes, including yeast and trypanosomes,\
+    \ with multicellular metazoan systems, and draw comparisons with the endoplasmic\
+    \ reticulum biogenesis system, in which membrane proteins face similar challenges."
+  doi: 10.1038/s41556-025-01683-0
+  journal: Nature cell biology
+- title: 'Perturb-Multimodal: A platform for pooled genetic screens with imaging and
+    sequencing in intact mammalian tissue.'
+  authors:
+  - Reuben A Saunders
+  - William E Allen
+  - Xingjie Pan
+  - Jaspreet Sandhu
+  - Jiaqi Lu
+  - Thomas K Lau
+  - Karina Smolyar
+  - Zuri A Sullivan
+  - Catherine Dulac
+  - Jonathan S Weissman
+  - Xiaowei Zhuang
+  publication_date: 14/06/25
+  publication_year: '2025'
+  pubmed_id: '40513557'
+  abstract: Metazoan life requires the coordinated activities of thousands of genes
+    in spatially organized cell types. Understanding the basis of tissue function
+    requires approaches to dissect the genetic control of diverse cellular and tissue
+    phenotypes in vivo. Here, we present Perturb-Multimodal (Perturb-Multi), a paired
+    imaging and sequencing method to construct large-scale, multimodal genotype-phenotype
+    maps in tissues with pooled genetic perturbations. Using imaging, we identify
+    perturbations in individual cells while simultaneously measuring their gene expression
+    profiles and subcellular morphology. Using single-cell sequencing, we measure
+    full transcriptomic responses to the same perturbations. We apply Perturb-Multi
+    to study hundreds of genetic perturbations in the mouse liver. Our data suggest
+    the genetic regulators and mechanisms underlying the dynamic control of hepatocyte
+    zonation, the unfolded protein response, and steatosis. Perturb-Multi accelerates
+    discoveries of the genetic basis of complex cell and tissue physiology and provides
+    critical training data for emerging machine learning models of cellular function.
+  doi: 10.1016/j.cell.2025.05.022
+  journal: Cell
+- title: Transcriptome-wide analysis of differential expression in perturbation atlases.
+  authors:
+  - Ajay Nadig
+  - Joseph M Replogle
+  - Angela N Pogson
+  - Mukundh Murthy
+  - Steven A McCarroll
+  - Jonathan S Weissman
+  - Elise B Robinson
+  - Luke J O'Connor
+  publication_date: 22/04/25
+  publication_year: '2025'
+  pubmed_id: '40259084'
+  abstract: Single-cell CRISPR screens such as Perturb-seq enable transcriptomic profiling
+    of genetic perturbations at scale. However, the data produced by these screens
+    are noisy, and many effects may go undetected. Here we introduce transcriptome-wide
+    analysis of differential expression (TRADE)-a statistical model for the distribution
+    of true differential expression effects that accounts for estimation error appropriately.
+    TRADE estimates the 'transcriptome-wide impact', which quantifies the total effect
+    of a perturbation across the transcriptome. Analyzing several large Perturb-seq
+    datasets, we show that many transcriptional effects remain undetected in standard
+    analyses but emerge in aggregate using TRADE. A typical gene perturbation affects
+    an estimated 45 genes, whereas a typical essential gene affects over 500. We find
+    moderate consistency of perturbation effects across cell types, identify perturbations
+    where transcriptional responses vary qualitatively across dosage levels and clarify
+    the relationship between genetic and transcriptomic correlations across neuropsychiatric
+    disorders.
+  doi: 10.1038/s41588-025-02169-3
+  journal: Nature genetics
+- title: Spatiotemporal modeling of molecular holograms.
+  authors:
+  - Xiaojie Qiu
+  - Daniel Y Zhu
+  - Yifan Lu
+  - Jiajun Yao
+  - Zehua Jing
+  - Kyung Hoi Min
+  - Mengnan Cheng
+  - Hailin Pan
+  - Lulu Zuo
+  - Samuel King
+  - Qi Fang
+  - Huiwen Zheng
+  - Mingyue Wang
+  - Shuai Wang
+  - Qingquan Zhang
+  - Sichao Yu
+  - Sha Liao
+  - Chao Liu
+  - Xinchao Wu
+  - Yiwei Lai
+  - Shijie Hao
+  - Zhewei Zhang
+  - Liang Wu
+  - Yong Zhang
+  - Mei Li
+  - Zhencheng Tu
+  - Jinpei Lin
+  - Zhuoxuan Yang
+  - Yuxiang Li
+  - Ying Gu
+  - David Ellison
+  - Yuancheng Ryan Lu
+  - Qinan Hu
+  - Yuhui Hu
+  - Ao Chen
+  - Longqi Liu
+  - Jonathan S Weissman
+  - Jiayi Ma
+  - Xun Xu
+  - Shiping Liu
+  - Yinqi Bai
+  publication_date: 03/03/25
+  publication_year: '2025'
+  pubmed_id: '40024251'
+  abstract: null
+  doi: 10.1016/j.cell.2025.02.026
+  journal: Cell
+- title: Multiplexed mosaic tumor models reveal natural phenotypic variations in drug
+    response within and between populations.
+  authors:
+  - Johnny X Yu
+  - Jung Min Suh
+  - Katerina D Popova
+  - Kristle Garcia
+  - Tanvi Joshi
+  - Bruce Culbertson
+  - Jessica B Spinelli
+  - Vishvak Subramanyam
+  - Kevin Lou
+  - Kevan M Shokat
+  - Jonathan Weissman
+  - Hani Goodarzi
+  publication_date: 07/01/25
+  publication_year: '2025'
+  pubmed_id: '39763922'
+  abstract: 'Many agents that show promise in preclinical cancer models lack efficacy
+    in patients due to patient heterogeneity that is not captured in traditional assays.
+    To address this problem, we have developed GENEVA, a platform that measures the
+    molecular and phenotypic consequences of drug perturbations within diverse populations
+    of cancer cells at single-cell resolution, both '
+  doi: 10.1101/2024.12.13.628239
+  journal: biorxiv
 - title: CD47 predominates over CD24 as a macrophage immune checkpoint in cancer.
   authors:
   - Juliet Allen
