@@ -3,13 +3,10 @@ layout: default
 title: "People"
 permalink: /people/
 # author_profile: false
-
 ---
 
 {% assign current = site.data.people | where: "alum", "false" %}
 {% assign alums = site.data.people | where: "alum", "true" %}
-
-
 {% assign pi = current | where: "pos", "Principal Investigator" %}
 {% assign sumita = current | where: "pos", "Lab Manager" %}
 {% assign assistants = current | where_exp: "item", "item.pos == 'Lab Assistant' or item.pos == 'Administrative Assistant' or item.pos == 'Administrative Lab Manager'" %}
