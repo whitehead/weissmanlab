@@ -9,7 +9,9 @@ permalink: /people/
 {% assign alums = site.data.people | where: "alum", "true" %}
 {% assign pi = current | where: "pos", "Principal Investigator" %}
 {% assign sumita = current | where: "pos", "Lab Manager" %}
-{% assign assistants = current | where_exp: "item", "item.pos == 'Lab Assistant' or item.pos == 'Administrative Assistant' or item.pos == 'Administrative Lab Manager'" %}
+{% assign lab_assistants = current |  where: "pos", "Lab Assistant" %}
+{% assign administrative_assistants = current | where: "pos", "Administrative Assistant" %}
+{% assign administrative_lab_managers = current | where: "pos", "Administrative Lab Manager" %}
 {% assign visiting_scientists = current | where: "pos", "Visiting Scientist" %}
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
@@ -36,9 +38,6 @@ permalink: /people/
          </div>
 
       {% endfor %}
-<!--    </div>
-
-   <div class="row"> -->
 
       {% for lab_manager in sumita %}
 
@@ -52,7 +51,29 @@ permalink: /people/
 
       {% endfor %}
 
-      {% for assistant in assistants %}
+      {% for administrative_assistant in administrative_assistants %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{administrative_assistant.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ administrative_assistant.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ administrative_assistant.name }}</span><br>
+               <span class="pos">{{ administrative_assistant.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+      {% for administrative_lab_manager in administrative_lab_managers %}
+
+         <div class="col-md-4 g-0 border_left my-5" id="{{administrative_lab_manager.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ administrative_lab_manager.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ administrative_lab_manager.name }}</span><br>
+               <span class="pos">{{ administrative_lab_manager.pos }}</span>
+            </div>
+         </div>
+
+      {% endfor %}
+      {% for assistant in lab_assistants %}
 
          <div class="col-md-4 g-0 border_left my-5" id="{{assistant.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ assistant.id }}.jpg" />
@@ -74,9 +95,8 @@ permalink: /people/
          </div>
 
       {% endfor %}
-<!--    </div>
 
-   <div class="row"> -->
+
       {% for postdoc in postdocs %}
 
          <div class="col-md-4 g-0 border_left my-5" id="{{postdoc.id}}">
