@@ -10,6 +10,18 @@
   id: SumitaSinha
   alum: false
 
+- name: Tessa Dinnie
+  pos: Administrative Lab Manager
+  email: tdinnie@wi.mit.edu
+  id: TessaDinnie
+  alum: false
+
+- name: Irina Cashen
+  pos: Administrative Assistant
+  email: icashen@wi.mit.edu
+  id: IrinaCashen
+  alum: false
+
 - name: Cristen Muresan
   pos: Admin Lab Manager
   email: muresanc@wi.mit.edu
@@ -32,7 +44,8 @@
   pos: Post-doc
   email: rshe@wi.mit.edu
   id: RichardShe
-  alum: false
+  alum: true
+  now: Assistant Professor  | Nanyang Technological University, Singapore
 
 - name: Luke Koblan
   pos: Post-doc
@@ -145,18 +158,17 @@
   id: PuZheng
   alum: false
 
+- name: Edwin Neumann
+  pos: Post-doc
+  email: enn@wi.mit.edu
+  id: EdwinNeumann
+  alum: false
+
 - name: Emily Ashkin
   pos: Post-doc
   email: eashkin@wi.mit.edu
   id: EmilyAshkin
   alum: true
-
-- name: Reuben Saunders
-  pos: Grad student
-  email: reubens@wi.mit.edu
-  id: ReubenSaunders
-  alum: true
-  now: Junior Fellow | Harvard Society of Fellows
 
 - name: Alex LeNail
   pos: Grad student
@@ -175,7 +187,8 @@
   pos: Grad student
   email: gmkumar@wi.mit.edu
   id: GayathriMuthukumar
-  alum: false
+  alum: true
+  now: Postdoctoral Fellow | Bertozzi Lab, ChEM-H Institute, Stanford
 
 - name: Acer Xu
   pos: Grad student
@@ -190,22 +203,28 @@
   id: KarinaSmolyar
   alum: false
 
-- name: Edwin Neumann
-  pos: Grad student
-  email: enn@wi.mit.edu
-  id: EdwinNeumann
-  alum: false
-
 - name: Yassine Damergi
   pos: Grad student
   email: ydamergi@wi.mit.edu
   id: YassineDamergi
-  alum: false
+  alum: true
 
 - name: Tyler Masuyama
   pos: Grad student
   email: tylermasuyama@wi.mit.edu
   id: TylerMasuyama
+  alum: false
+
+- name: Yijia Chen
+  pos: Grad student
+  email: ychen@wi.mit.edu
+  id: YijiaChen
+  alum: false
+
+- name: Max Hyman
+  pos: Technician
+  email: mhyman@wi.mit.edu
+  id: MaxHyman
   alum: false
 
 - name: Theo Esantsi
@@ -304,13 +323,14 @@
   pos: Undergrad
   email: emarinelli@wi.mit.edu
   id: EverMarinelli
-  alum: false
+  alum: true
 
 - name: Jiahe Ai
   pos: Undergrad
   email: jaipynnic@wi.mit.edu
   id: JiaheAi
-  alum: false
+  alum: true
+  now: PhD student  |  Cancer Science Institute of Singapore, NUS
 
 - name: Esme Sun
   pos: Undergrad
@@ -361,6 +381,24 @@
   pos: Grad student
   email: wcolgan@wi.mit.edu
   id: WilliamColgan
+  alum: false
+
+- name: Xinjie Pan
+  pos: Visiting Scientist
+  email: xpan@wi.mit.edu
+  id: XinjiePan
+  alum: false
+
+- name: Reuben Saunders
+  pos: Visiting Scientist
+  email: reubens@wi.mit.edu
+  id: ReubenSaunders
+  alum: false
+
+- name: Gokul Gowri
+  pos: Visiting Scientist
+  email: gokulg@mit.edu
+  id: GokulGowri
   alum: false
 
 - name: Jeff Hussmann

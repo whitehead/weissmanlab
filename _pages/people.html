@@ -11,11 +11,9 @@ permalink: /people/
 
 
 {% assign pi = current | where: "pos", "Principal Investigator" %}
-{% assign cristen = current | where: "pos", "Admin Lab Manager" %}
-{% assign anne = current | where: "pos", "Admin Assistant" %}
 {% assign sumita = current | where: "pos", "Lab Manager" %}
-{% assign assistants = current | where: "pos", "Lab Assistant" %}
-{% assign mohammed = current | where: "pos", "Visiting Scientist" %}
+{% assign assistants = current | where_exp: "item", "item.pos == 'Lab Assistant' or item.pos == 'Administrative Assistant' or item.pos == 'Administrative Lab Manager'" %}
+{% assign visiting_scientists = current | where: "pos", "Visiting Scientist" %}
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
 {% assign techs = current | where: "pos", "Technician" %}
@@ -44,29 +42,6 @@ permalink: /people/
 <!--    </div>
 
    <div class="row"> -->
-      {% for admin in cristen %}
-
-         <div class="col-md-4 g-0 border_left my-5" id="{{admin.id}}">
-            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ admin.id }}.jpg" />
-            <div class="label p-3">
-               <span class="name">{{ admin.name }}</span><br>
-               <span class="pos">{{ admin.pos }}</span>
-            </div>
-         </div>
-
-      {% endfor %}
-
-      {% for admin in anne %}
-
-         <div class="col-md-4 g-0 border_left my-5" id="{{admin.id}}">
-            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ admin.id }}.jpg" />
-            <div class="label p-3">
-               <span class="name">{{ admin.name }}</span><br>
-               <span class="pos">{{ admin.pos }}</span>
-            </div>
-         </div>
-
-      {% endfor %}
 
       {% for lab_manager in sumita %}
 
@@ -91,7 +66,7 @@ permalink: /people/
          </div>
 
       {% endfor %}
-      {% for scientist in mohammed %}
+      {% for scientist in visiting_scientists %}
 
          <div class="col-md-4 g-0 border_left my-5" id="{{scientist.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ scientist.id }}.jpg" />
