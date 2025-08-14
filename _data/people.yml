@@ -215,12 +215,6 @@
   id: TylerMasuyama
   alum: false
 
-- name: Yijia Chen
-  pos: Grad student
-  email: ychen@wi.mit.edu
-  id: YijiaChen
-  alum: false
-
 - name: Max Hyman
   pos: Technician
   email: mhyman@wi.mit.edu
@@ -292,6 +286,12 @@
   pos: Technician
   email: ehe@wi.mit.edu
   id: EmilyHe
+  alum: false
+
+- name: Christina Zhang
+  pos: Undergrad
+  email: cjmzhang@wi.mit.edu
+  id: ChristinaZhang
   alum: false
 
 - name: Thao Nguyen
