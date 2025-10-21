@@ -113,7 +113,7 @@
   email: dyang@wi.mit.edu
   id: DianYang
   alum: true
-  now: Assistant Professor of Molecular Pharmacology and Therapeutics | Coulmbia University
+  now: Assistant Professor of Molecular Pharmacology and Therapeutics | Columbia University
 
 - name: Chen Weng
   pos: Post-doc
@@ -175,7 +175,7 @@
   email: lenail@mit.edu
   id: AlexanderLeNail
   alum: true
-  now: PhD Student | Heiman Lab MIT
+  now: Postdoctoral Fellow | Church Lab, Harvard Medical School
 
 - name: Yi Hua Chen
   pos: Grad student
@@ -288,11 +288,17 @@
   id: EmilyHe
   alum: false
 
+- name: Gloria Ma
+  pos: Undergrad
+  email: gloriama@mit.edu
+  id: GloriaMa
+  alum: false
+
 - name: Christina Zhang
   pos: Undergrad
   email: cjmzhang@wi.mit.edu
   id: ChristinaZhang
-  alum: false
+  alum: true
 
 - name: Thao Nguyen
   pos: Undergrad
@@ -336,7 +342,7 @@
   pos: Undergrad
   email: emsun@wi.mit.edu
   id: EsmeSun
-  alum: false
+  alum: true
 
 - name: Alex Li
   pos: Undergrad

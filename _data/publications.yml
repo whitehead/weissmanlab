@@ -1,3 +1,317 @@
+- title: Atlas of Lysosomal Aging Reveals a Molecular Clock of Storage Disorder-Associated
+    Metabolites.
+  authors:
+  - Anna M Puszynska
+  - Thao P Nguyen
+  - Andrew L Cangelosi
+  - Andrea Armani
+  - Justin M Roberts
+  - Kristin A Singh
+  - James C Cameron
+  - Tenzin Tseyang
+  - Grace Y Liu
+  - Steven Lai
+  - Hans-Georg Sprenger
+  - Jason Yang
+  - William N Colgan
+  - Jibril F Kedir
+  - Kathrin M Kajderowicz
+  - Theodore K Esantsi
+  - Yuancheng Ryan Lu
+  - Millenia Waite
+  - Tenzin Kunchok
+  - Caroline A Lewis
+  - Fabian Schulte
+  - George W Bell
+  - David M Sabatini
+  - Jonathan S Weissman
+  publication_date: 03/10/25
+  publication_year: '2025'
+  pubmed_id: '41040360'
+  abstract: 'Lysosomal dysfunction is a well-recognized feature of aging, yet its
+    systematic molecular investigation remains limited. Here, we employ a suite of
+    tools for rapid lysosomal isolation to construct a multi-tissue atlas of the metabolite
+    changes that murine lysosomes undergo during aging. Aged lysosomes in brain, heart,
+    muscle and adipose accumulate glycerophosphodiesters and cystine, metabolites
+    that are causally linked to juvenile lysosomal storage disorders like Batten disease.
+    Levels of these metabolites increase linearly with age, preceding organismal decline.
+    Caloric restriction, a lifespan-extending intervention, mitigates these changes
+    in the heart but not the brain. Our findings link lysosomal storage disorders
+    to aging-related dysfunction, uncover a metabolic lysosomal "aging clock," and
+    open avenues for the mechanistic investigation of how lysosomal functions deteriorate
+    during aging and in age-associated diseases.
+
+    Aging in mice is tracked by a lysosomal "clock", where glycerophosphodiesters
+    and cystine - metabolites causally linked to juvenile lysosomal storage disorders
+    - gradually accumulate in lysosomes of the brain, heart, skeletal muscle and adipose
+    tissue.'
+  doi: 10.1101/2025.09.25.678303
+  journal: biorxiv
+- title: Reprogramming Factors Activate a Non-Canonical Oxidative Resilience Pathway
+    That Can Rejuvenate RPEs and Restore Vision.
+  authors:
+  - Yuancheng Ryan Lu
+  - James C Cameron
+  - Yan Hu
+  - Han Shen
+  - Shintaro Shirahama
+  - Alexander Tyshkovskiy
+  - Zhaoyi Chen
+  - Jiahe Ai
+  - Daniel Y Zhu
+  - Margarete M Karg
+  - Lindsey A Chew
+  - George W Bell
+  - Siddhartha G Jena
+  - Yue He
+  - Philip Seifert
+  - Daisy Y Shu
+  - Mohamed A Ei-Brolosy
+  - Qiannuo Lou
+  - Bohan Zhang
+  - Anna M Puszynska
+  - Xiaojie Qiu
+  - Xiao Tian
+  - Meredith Gregory-Ksander
+  - Vadim N Gladyshev
+  - David A Sinclair
+  - Magali Saint-Geniez
+  - Jason D Buenrostro
+  - Catherine Bowes Rickman
+  - Bruce R Ksander
+  - Jonathan S Weissman
+  publication_date: 15/09/25
+  publication_year: '2025'
+  pubmed_id: '40950238'
+  abstract: 'Oct4, Sox2, and Klf4 (OSK) Yamanaka factors induce pluripotency and reverse
+    age-related epigenetic changes, yet the mechanisms by which they promote rejuvenation
+    remain poorly explored. Oxidative stress contributes to CNS aging and retinal
+    pigmented epithelium (RPE) degeneration in age-related macular degeneration. We
+    find that OSK expression in RPE restores retinal structure and visual function
+    in aged mice and promotes oxidative resilience through a non-canonical, Tet2-independent
+    pathway. Integrative functional genomics identifies GSTA4, a detoxifying enzyme
+    that clears the lipid peroxidation byproduct 4-HNE, as a necessary and sufficient
+    OSK effector. Dynamic GSTA4 regulation by OSK recapitulates a stem cell derived
+    stress resilience program. GSTA4 overexpression alone enhances mitochondrial resilience,
+    rejuvenates the aged RPE transcriptome, and reverses visual decline. GSTA4 is
+    consistently upregulated across diverse lifespan-extending interventions suggesting
+    a broader pro-longevity role. These findings uncover a previously unrecognized
+    protective axis driven by Yamanaka factors that circumvents reprogramming, providing
+    therapeutic insights for age-related diseases.
+
+    OSK-GSTA4 provides a dynamic, Tet2-independent stress-resilience axis.Functional
+    genomics pinpoints GSTA4 as a direct downstream effector activated by OSK.RPE
+    aging involves progressive accumulation of 4-HNE that can be detoxified by GSTA4.Enhancing
+    GSTA4 rejuvenates RPE cells, restores vision and is associated with lifespan-extending
+    interventions.'
+  doi: 10.1101/2025.08.30.673239
+  journal: biorxiv
+- title: 'Translon: a single term for translated regions.'
+  authors:
+  - "Micha\u0142 I \u015Awirski"
+  - Jack A S Tierney
+  - "M Mar Alb\xE0"
+  - Dmitry E Andreev
+  - Julie L Aspden
+  - John F Atkins
+  - Michal Bassani-Sternberg
+  - Marla J Berry
+  - Stefano Biffo
+  - Kathleen Boris-Lawrie
+  - Mark Borodovsky
+  - Ian Brierley
+  - Matthew Brook
+  - Marie A Brunet
+  - Janusz M Bujnicki
+  - Neva Caliskan
+  - Lorenzo Calviello
+  - Anne-Ruxandra Carvunis
+  - Jamie H D Cate
+  - Can Cenik
+  - Kung Yao Chang
+  - Yiwen Chen
+  - Sonia Chothani
+  - Jyoti S Choudhary
+  - Patricia L Clark
+  - Jim Clauwaert
+  - Lynn Cooley
+  - Erik Dassi
+  - Kellie Dean
+  - Jean-Jacques Diaz
+  - Christoph Dieterich
+  - Rivka Dikstein
+  - Jonathan D Dinman
+  - Sergey E Dmitriev
+  - Olga A Dontsova
+  - Christine M Dunham
+  - Sandeep M Eswarappa
+  - Philip J Farabaugh
+  - Pouya Faridi
+  - Ivo Fierro-Monti
+  - Andrew E Firth
+  - David Gatfield
+  - "F\xE1tima Gebauer"
+  - Mikhail S Gelfand
+  - Nicola K Gray
+  - Rachel Green
+  - Chris H Hill
+  - Ya-Ming Hou
+  - "Norbert H\xFCbner"
+  - Zoya Ignatova
+  - Pavel Ivanov
+  - Shintaro Iwasaki
+  - Rory Johnson
+  - Ahmad Jomaa
+  - Marko Jovanovic
+  - Irwin Jungreis
+  - Manolis Kellis
+  - Jeffrey S Kieft
+  - Alex V Kochetov
+  - Eugene V Koonin
+  - Andrei A Korostelev
+  - Joanna Kufel
+  - Ivan V Kulakovskiy
+  - Leo Kurian
+  - Denis L J Lafontaine
+  - Ola Larsson
+  - Gary Loughran
+  - "Julius Luke\u0161"
+  - Marco Mariotti
+  - Elena S Martens-Uzunova
+  - Thomas F Martinez
+  - Akinobu Matsumoto
+  - Joel McManus
+  - Jan Medenbach
+  - Sergey V Melnikov
+  - Gerben Menschaert
+  - Catharina Merchante
+  - Martin Mikl
+  - W Allen Miller
+  - "Oliver M\xFChlemann"
+  - Olivier Namy
+  - Danny D Nedialkova
+  - Jozef Nosek
+  - Sandra Orchard
+  - "Petar Ozreti\u0107"
+  - Mihaela Pertea
+  - Dmitri D Pervouchine
+  - "Lu\xEDsa Rom\xE3o"
+  - David Ron
+  - Xavier Roucou
+  - Maria P Rubtsova
+  - Jorge Ruiz-Orera
+  - Alan Saghatelian
+  - Steven L Salzberg
+  - Lucia A Seale
+  - Cathal Seoighe
+  - Petr V Sergiev
+  - Premal Shah
+  - Nikolay Shirokikh
+  - Sarah A Slavoff
+  - Nahum Sonenberg
+  - Timothy J Stasevich
+  - Roman J Szczesny
+  - Tiina Tamm
+  - "Marek Tch\xF3rzewski"
+  - Ivan Topisirovic
+  - Michel L Tremblay
+  - Tamir Tuller
+  - Igor Ulitsky
+  - "Leo\u0161 Shivaya Val\xE1\u0161ek"
+  - Petra Van Damme
+  - Gabriella Viero
+  - Juan Antonio Vizcaino
+  - Christine Vogel
+  - Edward W J Wallace
+  - Jonathan S Weissman
+  - Eric Westhof
+  - Nicola Whiffin
+  - Daniel N Wilson
+  - Zhi Xie
+  - Jonathan W Yewdell
+  - Martina M Yordanova
+  - Chien-Hung Yu
+  - Vyacheslav Yurchenko
+  - Bojan Zagrovic
+  - None None
+  - Eivind Valen
+  - Pavel V Baranov
+  publication_date: 02/09/25
+  publication_year: '2025'
+  pubmed_id: '40890551'
+  abstract: null
+  doi: 10.1038/s41592-025-02810-3
+  journal: Nature methods
+- title: Proximity-specific ribosome profiling reveals the logic of localized mitochondrial
+    translation.
+  authors:
+  - Jingchuan Luo
+  - Stuti Khandwala
+  - Jingjie Hu
+  - Song-Yi Lee
+  - Kelsey L Hickey
+  - Zebulon G Levine
+  - J Wade Harper
+  - Alice Y Ting
+  - Jonathan S Weissman
+  publication_date: 29/08/25
+  publication_year: '2025'
+  pubmed_id: '40876456'
+  abstract: "Localized translation broadly enables spatiotemporal control of gene\
+    \ expression. Here, we present LOV-domain-controlled ligase for translation localization\
+    \ (LOCL-TL), an optogenetic approach for monitoring translation with codon resolution\
+    \ at any defined subcellular location under physiological conditions. Application\
+    \ of LOCL-TL to mitochondrially localized translation revealed that \u223C20%\
+    \ of human nuclear-encoded mitochondrial genes are translated on the outer mitochondrial\
+    \ membrane (OMM). Mitochondrially translated messages form two classes distinguished\
+    \ by encoded protein length, recruitment mechanism, and cellular function. An\
+    \ evolutionarily ancient mechanism allows nascent chains to drive cotranslational\
+    \ recruitment of long proteins via an unanticipated bipartite targeting signal.\
+    \ Conversely, mRNAs of short proteins, especially eukaryotic-origin electron transport\
+    \ chain (ETC) components, are specifically recruited by the OMM protein A-kinase\
+    \ anchoring protein 1 (AKAP1) in a translation-independent manner that depends\
+    \ on mRNA splicing. AKAP1 loss lowers ETC levels. LOCL-TL thus reveals a hierarchical\
+    \ strategy that enables preferential translation of a subset of proteins on the\
+    \ OMM."
+  doi: 10.1016/j.cell.2025.08.002
+  journal: Cell
+- title: Large-scale CRISPR screening in primary human 3D gastric organoids enables
+    comprehensive dissection of gene-drug interactions.
+  authors:
+  - Yuan-Hung Lo
+  - Hudson T Horn
+  - Mo-Fan Huang
+  - Wei-Chieh Yu
+  - Chia-Mei Young
+  - Qing Liu
+  - Madeline Tomaske
+  - Martina Towers
+  - Antonia Dominguez
+  - Michael C Bassik
+  - Dung-Fang Lee
+  - Lei S Qi
+  - Jonathan S Weissman
+  - Jin Chen
+  - Calvin J Kuo
+  publication_date: 15/08/25
+  publication_year: '2025'
+  pubmed_id: '40813572'
+  abstract: Understanding how genes influence drug responses is critical for advancing
+    personalized cancer treatments. However, identifying these gene-drug interactions
+    in a physiologically relevant human system remains a challenge, as it requires
+    a model that reflects the complexity and heterogeneity among individuals. Here
+    we show that large-scale CRISPR-based genetic screens, including knockout, interference
+    (CRISPRi), activation (CRISPRa), and single-cell approaches, can be applied in
+    primary human 3D gastric organoids to systematically identify genes that affect
+    sensitivity to cisplatin. Our screens uncover genes that modulate cisplatin response.
+    By combining CRISPR perturbations with single-cell transcriptomics, we resolve
+    how genetic alterations interact with cisplatin at the level of individual cells
+    and uncover an unexpected link between fucosylation and cisplatin sensitivity.
+    We identify TAF6L as a regulator of cell recovery from cisplatin-induced cytotoxicity.
+    These results highlight the utility of human organoid models for dissecting gene-drug
+    interactions and offer insights into therapeutic vulnerabilities in gastric cancer.
+  doi: 10.1038/s41467-025-62818-3
+  journal: Nature communications
 - title: High-resolution spatial mapping of cell state and lineage dynamics in vivo
     with PEtracer.
   authors:
@@ -34,7 +348,8 @@
     biologically-relevant temporal and spatial scales.
   doi: 10.1126/science.adx3800
   journal: Science
-- title: 'High-resolution spatial mapping of cell state and lineage dynamics '
+- title: High-resolution spatial mapping of cell state and lineage dynamics in vivo
+    with PEtracer
   authors:
   - Luke W Koblan
   - Kathryn E Yost
@@ -270,7 +585,8 @@
     may be optimal immunotherapies to direct myeloid cells to eradicate solid tumors.'
   doi: 10.1101/2024.11.25.625185
   journal: biorxiv
-- title: 'A platform for multimodal '
+- title: A platform for multimodal in vivo pooled genetic screens reveals regulators
+    of liver function
   authors:
   - Reuben A Saunders
   - William E Allen
