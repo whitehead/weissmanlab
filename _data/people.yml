@@ -288,6 +288,12 @@
   id: EmilyHe
   alum: false
 
+- name: AZ Zhang
+  pos: Technician
+  email: azz@wi.mit.edu
+  id: AZZhang
+  alum: false
+
 - name: Gloria Ma
   pos: Undergrad
   email: gloriama@mit.edu
