@@ -28,7 +28,9 @@ permalink: /people/
 
    <div class="row">
       {% for jonathan in pi %}
-
+         {% assign img_path = "/assets/img/people/" | append: jonathan.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{jonathan.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ jonathan.id }}.jpg" />
             <div class="label p-3">
@@ -36,11 +38,13 @@ permalink: /people/
                <span class="pos">{{ jonathan.pos }}</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
 
       {% for lab_manager in sumita %}
-
+         {% assign img_path = "/assets/img/people/" | append: lab_manager.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{lab_manager.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ lab_manager.id }}.jpg" />
             <div class="label p-3">
@@ -48,11 +52,13 @@ permalink: /people/
                <span class="pos">{{ lab_manager.pos }}</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
 
       {% for administrative_assistant in administrative_assistants %}
-
+         {% assign img_path = "/assets/img/people/" | append: administrative_assistant.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{administrative_assistant.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ administrative_assistant.id }}.jpg" />
             <div class="label p-3">
@@ -60,10 +66,13 @@ permalink: /people/
                <span class="pos">{{ administrative_assistant.pos }}</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
-      {% for administrative_lab_manager in administrative_lab_managers %}
 
+      {% for administrative_lab_manager in administrative_lab_managers %}
+         {% assign img_path = "/assets/img/people/" | append: administrative_lab_manager.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{administrative_lab_manager.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ administrative_lab_manager.id }}.jpg" />
             <div class="label p-3">
@@ -71,10 +80,13 @@ permalink: /people/
                <span class="pos">{{ administrative_lab_manager.pos }}</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
-      {% for assistant in lab_assistants %}
 
+      {% for assistant in lab_assistants %}
+         {% assign img_path = "/assets/img/people/" | append: assistant.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{assistant.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ assistant.id }}.jpg" />
             <div class="label p-3">
@@ -82,10 +94,13 @@ permalink: /people/
                <span class="pos">{{ assistant.pos }}</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
-      {% for scientist in visiting_scientists %}
 
+      {% for scientist in visiting_scientists %}
+         {% assign img_path = "/assets/img/people/" | append: scientist.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{scientist.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ scientist.id }}.jpg" />
             <div class="label p-3">
@@ -93,12 +108,13 @@ permalink: /people/
                <span class="pos">{{ scientist.pos }}</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
 
-
       {% for postdoc in postdocs %}
-
+         {% assign img_path = "/assets/img/people/" | append: postdoc.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{postdoc.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ postdoc.id }}.jpg" />
             <div class="label p-3">
@@ -106,13 +122,13 @@ permalink: /people/
                <span class="pos">Postdoctoral Fellow</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
-<!--    </div>
 
-   <div class="row"> -->
       {% for grad in grads %}
-
+         {% assign img_path = "/assets/img/people/" | append: grad.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{grad.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ grad.id }}.jpg" />
             <div class="label p-3">
@@ -120,11 +136,13 @@ permalink: /people/
                <span class="pos">Graduate Student</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
 
       {% for tech in techs %}
-
+         {% assign img_path = "/assets/img/people/" | append: tech.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{tech.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ tech.id }}.jpg" />
             <div class="label p-3">
@@ -132,23 +150,27 @@ permalink: /people/
                <span class="pos">Research Technician</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
 
-      {% for softengs in softengs %}
-
-         <div class="col-md-4 g-0 border_left my-5" id="{{softengs.id}}">
-            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ softengs.id }}.jpg" />
+      {% for softeng in softengs %}
+         {% assign img_path = "/assets/img/people/" | append: softeng.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
+         <div class="col-md-4 g-0 border_left my-5" id="{{softeng.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ softeng.id }}.jpg" />
             <div class="label p-3">
-               <span class="name">{{ softengs.name }}</span><br>
+               <span class="name">{{ softeng.name }}</span><br>
                <span class="pos">Software Engineer</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
 
       {% for urop in urops %}
-
+         {% assign img_path = "/assets/img/people/" | append: urop.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
          <div class="col-md-4 g-0 border_left my-5" id="{{urop.id}}">
             <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ urop.id }}.jpg" />
             <div class="label p-3">
@@ -156,9 +178,30 @@ permalink: /people/
                <span class="pos">Undergraduate Student</span>
             </div>
          </div>
-
+         {% endif %}
       {% endfor %}
    </div>
+
+   {% comment %} Text-only list for current members without a photo {% endcomment %}
+   {% assign no_photo_members = "" | split: "" %}
+   {% for person in current %}
+      {% assign img_path = "/assets/img/people/" | append: person.id | append: ".jpg" %}
+      {% assign has_photo = site.static_files | where: "path", img_path | first %}
+      {% unless has_photo %}
+         {% assign no_photo_members = no_photo_members | push: person %}
+      {% endunless %}
+   {% endfor %}
+
+   {% if no_photo_members.size > 0 %}
+   <div class="row mt-2 mb-4">
+      {% for person in no_photo_members %}
+         <div class="row" id="{{person.id}}">
+            <div class="col-3">{{ person.name }}</div>
+            <div class="col-3">{{ person.pos }}</div>
+         </div>
+      {% endfor %}
+   </div>
+   {% endif %}
 
    <h2 id="alumni">Alumni</h2>
 
@@ -170,7 +213,7 @@ permalink: /people/
             <div class="col-8">{{ alum.now }}</div>
          </div>
       {% endfor %}
-   </div> 
+   </div>
 
 
 </div>
