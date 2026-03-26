@@ -183,25 +183,18 @@ permalink: /people/
    </div>
 
    {% comment %} Text-only list for current members without a photo {% endcomment %}
-   {% assign no_photo_members = "" | split: "" %}
-   {% for person in current %}
-      {% assign img_path = "/assets/img/people/" | append: person.id | append: ".jpg" %}
-      {% assign has_photo = site.static_files | where: "path", img_path | first %}
-      {% unless has_photo %}
-         {% assign no_photo_members = no_photo_members | push: person %}
-      {% endunless %}
-   {% endfor %}
-
-   {% if no_photo_members.size > 0 %}
    <div class="row mt-2 mb-4">
-      {% for person in no_photo_members %}
+      {% for person in current %}
+         {% assign img_path = "/assets/img/people/" | append: person.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% unless has_photo %}
          <div class="row" id="{{person.id}}">
             <div class="col-3">{{ person.name }}</div>
             <div class="col-3">{{ person.pos }}</div>
          </div>
+         {% endunless %}
       {% endfor %}
    </div>
-   {% endif %}
 
    <h2 id="alumni">Alumni</h2>
 
