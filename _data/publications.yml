@@ -1,3 +1,216 @@
+- title: Elucidating genes sufficient for viral entry into cells through sequential
+    genome-wide CRISPR activation screens.
+  authors:
+  - Timothy Chai
+  - Alicia Wong
+  - Qingqing Yin
+  - Isabel von Creytz
+  - Jonathan S Weissman
+  - Reuben A Saunders
+  - Joseph B Prescott
+  - Kyle M Loh
+  publication_date: 23/03/26
+  publication_year: '2026'
+  pubmed_id: '41867735'
+  abstract: 'A preeminent goal of virology is to discover cellular genes that mediate
+    virus entry. Genome-wide loss-of-function screens can illuminate single genes '
+  doi: 10.64898/2026.03.06.710083
+  journal: biorxiv
+- title: FET Fusion Oncoproteins Disrupt Physiologic DNA Repair and Create a Targetable
+    Opportunity for ATR Inhibitor Therapy.
+  authors:
+  - Daniel E Gracilla
+  - Shruti Menon
+  - Marcus R Breese
+  - Yone Phar Lin
+  - Filemon S Dela Cruz
+  - Tamar Y Feinberg
+  - Elisa de Stanchina
+  - Ana-Florina Galic
+  - Hannah Allegakoen
+  - Shruthi R Perati
+  - Nicholas Everin
+  - Teresa Vizconde
+  - Nicholas J Wen
+  - Ann Heslin
+  - Romel Somwar
+  - Marc Ladanyi
+  - Max Horlbeck
+  - Jonathan S Weissman
+  - E Alejandro Sweet-Cordero
+  - Trever G Bivona
+  - Asmin Tulpule
+  publication_date: 11/03/26
+  publication_year: '2026'
+  pubmed_id: '41811428'
+  abstract: In cancers with genetic loss of specific DNA damage response (DDR) genes
+    (e.g., BRCA1/2 tumor suppressor mutations), synthetic lethal targeting of compensatory
+    DDR pathways has translated into clinical benefit for patients. Native FET family
+    members are among the earliest factors recruited to DNA double-strand breaks (DSBs),
+    and FET fusion oncoproteins drive a diversity of sarcomas and leukemias. A better
+    understanding of the function of both native FET proteins and FET fusion oncoproteins
+    in DNA repair could reveal tumor-specific vulnerabilities and provide therapeutic
+    opportunities. Focusing on Ewing sarcoma, a pediatric bone tumor driven by the
+    FET fusion oncoprotein EWSR1::FLI1, as a model for FET rearranged cancers, we
+    discovered here that recruitment of EWSR1::FLI1 and other FET fusion oncoproteins
+    to DNA DSBs impairs the activation and downstream signaling of the DNA damage
+    sensor ATM. The compensatory ATR signaling axis acts as a collateral dependency
+    and therapeutic target in patient-derived xenograft models of multiple FET rearranged
+    cancers. In summary, these findings describe how oncogenes can disrupt physiologic
+    DNA repair and provide the preclinical rationale for testing ATR inhibitors in
+    FET rearranged cancers as part of ongoing early phase clinical trials.
+  doi: 10.1158/0008-5472.CAN-25-2166
+  journal: Cancer research
+- title: The GENEVA platform models tumor mosaicism to reveal variations of responses
+    to KRAS inhibitors and identify improved drug combinations.
+  authors:
+  - Johnny X Yu
+  - Jung Min Suh
+  - Katerina D Popova
+  - Kristle Garcia
+  - Tanvi Joshi
+  - Bruce Culbertson
+  - Jessica B Spinelli
+  - Vishvak Subramanyam
+  - Kevin Lou
+  - Trey Charbonneau
+  - Kevan M Shokat
+  - Jonathan Weissman
+  - Hani Goodarzi
+  publication_date: 25/02/26
+  publication_year: '2026'
+  pubmed_id: '41735640'
+  abstract: The clinical success of cancer drug candidates depends on efficacy across
+    many different individuals. Because xenografts are challenging to scale, we currently
+    rely on a limited set of in vivo preclinical models. Here, to address this limitation,
+    we introduce GENEVA, a scalable single-cell-resolution platform for measuring
+    responses to drug perturbations. GENEVA models cancer genetic diversity by combining
+    multiple patient-derived cell lines and cancer cell lines into pooled three-dimensional
+    cultures and xenograft models, allowing us to study drug responses across a wide
+    range of genetic backgrounds within a single experiment. We apply GENEVA to investigate
+    KRAS-G12C inhibitors and demonstrate that mitochondrial activation is a key driver
+    of cell death following KRAS inhibition, while epithelial-to-mesenchymal transition
+    is a prominent resistance mechanism. These findings highlight the utility of GENEVA
+    to identify therapeutic targets and optimize combination therapies with the potential
+    to bridge the gap between preclinical cancer models and patient outcomes.
+  doi: 10.1038/s43018-026-01130-5
+  journal: Nature cancer
+- title: Modeling mitochondrial inheritance enables high-precision single-cell lineage
+    tracing in humans.
+  authors:
+  - Teng Gao
+  - Chen Weng
+  - Isaac Johnson
+  - Michael Poeschla
+  - Jonas Gudera
+  - Emily King
+  - Christopher Rouya
+  - Adriana Donovan
+  - Lauren Bourke
+  - Ying Shao
+  - Eladio Marquez
+  - Rahul Tyagi
+  - Leonard I Zon
+  - Jonathan S Weissman
+  - Vijay G Sankaran
+  publication_date: 23/02/26
+  publication_year: '2026'
+  pubmed_id: '41726901'
+  abstract: 'Somatic mutations in mitochondrial DNA (mtDNA) provide natural barcodes
+    that enable engineering-free lineage tracing in human tissues, but the complex
+    dynamics of mtDNA inheritance across cell divisions and incomplete sampling of
+    mtDNA introduce uncertainty in reconstructed lineages. Here, we present MitoDrift,
+    a probabilistic framework that integrates Wright-Fisher drift dynamics with sparse
+    single-cell measurements to produce confidence-refined lineage trees enriched
+    for accurate clonal relationships. Validation with gold-standard lentiviral barcoding
+    and whole-genome sequencing demonstrates that MitoDrift outperforms existing tree
+    reconstruction methods in precision while maintaining high clonal recovery, enabling
+    robust analyses linking lineage to cell state. Applying MitoDrift to human hematopoiesis
+    reveals an age-associated decline in clonal diversity with differential impact
+    across cell types and identifies heritable regulatory programs in hematopoietic
+    stem cells '
+  doi: 10.64898/2026.02.12.705660
+  journal: biorxiv
+- title: Mechanisms linking cytoplasmic decay of translation-defective mRNA to transcriptional
+    adaptation.
+  authors:
+  - Mohamed A El-Brolosy
+  - Atharv Oak
+  - An T Hoang
+  - Yassine Damergi
+  - "Andr\xE9 Fischer"
+  - Reuben A Saunders
+  - Jingchuan Luo
+  - Amer Balabaki
+  - Jeremy Guez
+  - Troy W Whitfield
+  - Seth R Goldman
+  - Arash Latifkar
+  - Yuancheng Ryan Lu
+  - Didier Y R Stainier
+  - Konrad J Karczewski
+  - Olivia Corradin
+  - Jonathan S Weissman
+  publication_date: 12/02/26
+  publication_year: '2026'
+  pubmed_id: '41678638'
+  abstract: Transcriptional adaptation (TA) is a genetic robustness mechanism through
+    which mutant messenger RNA (mRNA) decay induces sequence-dependent up-regulation
+    of so-called adapting genes. How cytoplasmically generated mRNA fragments affect
+    nuclear transcription remains poorly understood. Using genome-wide CRISPR screens,
+    we uncover ILF3 as an RNA binding protein connecting cytoplasmic mRNA decay and
+    transcription during TA and show that it is required for a range of TA substrates.
+    ILF3 is enriched at adapting genes' RNAs, and its artificial recruitment through
+    dCas13 promotes gene expression. Using tiling oligonucleotide screens, we identify
+    trigger RNA fragments that activate adapting genes when introduced into cells.
+    Further functional dissection reveals a critical role for homology between trigger
+    and target sequences. These findings enhance our molecular understanding of TA
+    and inform the design of programmable oligonucleotides for gene expression augmentation.
+  doi: 10.1126/science.aea1272
+  journal: Science
+- title: Discovery of a pre-vein progenitor that requires VEGF/ERK inhibition to complete
+    vein differentiation.
+  authors:
+  - Lay Teng Ang
+  - Sherry Li Zheng
+  - Kevin J Liu
+  - Anastasiia Masaltseva
+  - June Winters
+  - Isabel von Creytz
+  - Sawan K Jha
+  - Qingqing Yin
+  - Crystal Qian
+  - Xiaochen Xiong
+  - Amir Dailamy
+  - Ellie Xi
+  - Juan C Alcocer
+  - Daniel W Sorensen
+  - Richard She
+  - Karina Smolyar
+  - Dorota Szumska
+  - Svanhild Nornes
+  - Renata M Martin
+  - Benjamin J Lesch
+  - Nicole K Restrepo
+  - Wenfei Sun
+  - Jonathan S Weissman
+  - Heiko Lickert
+  - Matthew H Porteus
+  - Mark A Skylar-Scott
+  - Christian Mosimann
+  - Saulius Sumanas
+  - Sarah De Val
+  - Joseph B Prescott
+  - Kristy Red-Horse
+  - Kyle M Loh
+  publication_date: 24/11/25
+  publication_year: '2025'
+  pubmed_id: '41279810'
+  abstract: Despite substantial insight into mechanisms underlying arterial blood
+    vessel development, multiple aspects of vein development remain elusive, including
+    vein-determining extracellular signals and cell-fate trajectories
+  doi: 10.1101/2025.10.11.681838
+  journal: biorxiv
 - title: Atlas of Lysosomal Aging Reveals a Molecular Clock of Storage Disorder-Associated
     Metabolites.
   authors:
@@ -239,7 +452,6 @@
   publication_date: 02/09/25
   publication_year: '2025'
   pubmed_id: '40890551'
-  abstract: null
   doi: 10.1038/s41592-025-02810-3
   journal: Nature methods
 - title: Proximity-specific ribosome profiling reveals the logic of localized mitochondrial
@@ -512,7 +724,6 @@
   publication_date: 03/03/25
   publication_year: '2025'
   pubmed_id: '40024251'
-  abstract: null
   doi: 10.1016/j.cell.2025.02.026
   journal: Cell
 - title: Multiplexed mosaic tumor models reveal natural phenotypic variations in drug
@@ -1207,7 +1418,6 @@
   publication_date: 19/10/23
   publication_year: '2023'
   pubmed_id: '37853259'
-  abstract: null
   doi: 10.1038/s41587-023-02028-8
   journal: Nature biotechnology
 - title: Systematic functional interrogation of SARS-CoV-2 host factors using Perturb-seq.
@@ -1878,7 +2088,6 @@
   publication_date: 14/07/22
   publication_year: '2022'
   pubmed_id: '35831657'
-  abstract: null
   doi: 10.1038/s41587-022-01369-0
   journal: Nature biotechnology
 - title: A campaign targeting a conserved Hsp70 binding site uncovers how subcellular
@@ -2575,7 +2784,6 @@
   publication_date: 06/02/21
   publication_year: '2021'
   pubmed_id: '33545038'
-  abstract: null
   doi: 10.1016/j.cell.2021.01.019
   journal: Cell
 - title: BRD2 inhibition blocks SARS-CoV-2 infection in vitro by reducing transcription
@@ -3248,7 +3456,6 @@
   publication_date: 26/02/20
   publication_year: '2020'
   pubmed_id: '32094656'
-  abstract: null
   doi: 10.1038/s41587-020-0428-0
   journal: Nature biotechnology
 - title: Titrating gene expression using libraries of systematically attenuated CRISPR
@@ -5321,7 +5528,6 @@
   publication_date: 27/03/15
   publication_year: '2015'
   pubmed_id: '25811902'
-  abstract: null
   doi: 10.1038/nprot0415-644d
   journal: Nature protocols
 - title: Biotechnology. A prudent path forward for genomic engineering and germline
@@ -5348,7 +5554,6 @@
   publication_date: 21/03/15
   publication_year: '2015'
   pubmed_id: '25791083'
-  abstract: null
   doi: 10.1126/science.aab1028
   journal: Science
 - title: Immunogenetics. Dynamic profiling of the protein life cycle in response to
@@ -6828,7 +7033,6 @@
   publication_date: 06/06/12
   publication_year: '2012'
   pubmed_id: '22664198'
-  abstract: null
   doi: 10.1016/j.jmb.2012.05.042
   journal: Journal of molecular biology
 - title: Native elongating transcript sequencing (NET-seq).
@@ -6982,7 +7186,6 @@
   publication_date: 14/12/11
   publication_year: '2011'
   pubmed_id: '22158239'
-  abstract: null
   doi: 10.1038/480188a
   journal: Nature
 - title: Selective ribosome profiling reveals the cotranslational chaperone action
@@ -7338,7 +7541,6 @@
   publication_date: 17/11/10
   publication_year: '2010'
   pubmed_id: '21079033'
-  abstract: null
   doi: 10.1091/mbc.E10-04-0370
   journal: Molecular biology of the cell
 - title: 'Membranes in balance: mechanisms of sphingolipid homeostasis.'
@@ -7555,7 +7757,6 @@
   publication_date: 03/12/09
   publication_year: '2009'
   pubmed_id: '19953683'
-  abstract: null
   doi: 10.1038/nmeth1009-721
   journal: Nature methods
 - title: Journal club. A biochemist looks at how DNA sequencing can reveal more than
@@ -7565,7 +7766,6 @@
   publication_date: 30/10/09
   publication_year: '2009'
   pubmed_id: '19865125'
-  abstract: null
   doi: 10.1038/4611177e
   journal: Nature
 - title: Regulated Ire1-dependent decay of messenger RNAs in mammalian cells.
@@ -7965,7 +8165,6 @@
   publication_date: 30/08/08
   publication_year: '2008'
   pubmed_id: '18756243'
-  abstract: null
   doi: 10.1038/4541059a
   journal: Nature
 - title: The GET complex mediates insertion of tail-anchored proteins into the ER
@@ -8401,7 +8600,6 @@
   publication_date: 24/11/06
   publication_year: '2006'
   pubmed_id: '17122769'
-  abstract: null
   doi: 10.1038/nature05407
   journal: Nature
 - title: An efficient protein transformation protocol for introducing prions into
@@ -8812,7 +9010,6 @@
   publication_date: 24/11/04
   publication_year: '2004'
   pubmed_id: '15557272'
-  abstract: null
   doi: 10.1110/ps.041134604
   journal: 'Protein science : a publication of the Protein Society'
 - title: 'Mechanism of prion propagation: amyloid growth occurs by monomer addition.'

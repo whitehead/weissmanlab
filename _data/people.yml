@@ -125,7 +125,8 @@
   pos: Post-doc
   email: bertozzi@wi.mit.edu
   id: TessaBertozzi
-  alum: false
+  alum: true
+  now: Principal Scientist | Conception Biosciences
 
 - name: Ania Puszynska
   pos: Post-doc
@@ -294,10 +295,22 @@
   id: AZZhang
   alum: false
 
+- name: Amy Zheng
+  pos: Undergrad
+  email: amyzheng@mit.edu
+  id: AmyZheng
+  alum: false
+
 - name: Gloria Ma
   pos: Undergrad
   email: gloriama@mit.edu
   id: GloriaMa
+  alum: false
+
+- name: Eunsu Hur
+  pos: Undergrad
+  email: eunsuhur@wi.mit.edu
+  id: EunsuHur
   alum: false
 
 - name: Christina Zhang
