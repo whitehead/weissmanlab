@@ -1,3 +1,40 @@
+- title: Epigenome editing of human hematopoietic stem cells enables sustained and
+    reversible thrombosis prevention.
+  authors:
+  - Tianyi Ye
+  - Wanying Xu
+  - Maria N Barrachina
+  - Peng Lyu
+  - Mateusz Antoszewski
+  - Lucrezia Della Volpe
+  - Chun-Jie Guo
+  - Andrew J Lee
+  - Madelaine S Theardy
+  - Spencer D Shelton
+  - Lara Wahlster
+  - Alexis Caulier
+  - Luana Messa
+  - Michael Poeschla
+  - Gaurav Agarwal
+  - Ronodeep Mitra
+  - Alec A Schmaier
+  - Jonathan S Weissman
+  - Kellie R Machlus
+  - Vijay G Sankaran
+  publication_date: 03/04/26
+  publication_year: '2026'
+  pubmed_id: '41928991'
+  abstract: "Thrombosis remains a major cause of cardiovascular and cerebrovascular\
+    \ diseases, driven in large part by platelet activation and aggregation. Because\
+    \ platelets are continuously produced from hematopoietic stem cells (HSCs), durable\
+    \ reprogramming of HSC output offers a unique opportunity for a one-time antithrombotic\
+    \ intervention. Here, we show that DNA methylation-based epigenome editors delivered\
+    \ transiently as RNA result in stable, heritable gene silencing in primary human\
+    \ HSCs that persists through long-term self-renewal and megakaryocytic differentiation,\
+    \ while remaining reversible through targeted demethylation. Targeting the platelet\
+    \ integrin \u03B23 ( "
+  doi: 10.64898/2026.03.27.714536
+  journal: biorxiv
 - title: Elucidating genes sufficient for viral entry into cells through sequential
     genome-wide CRISPR activation screens.
   authors:
