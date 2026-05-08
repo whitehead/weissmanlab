@@ -1,18 +1,41 @@
 """
-Update _data/publications.yml and _data/people.yml from PubMed and Google Sheets.
+Update _data/publications.yml and _data/people.yml from PubMed and Google Sheets,
+and sync people portrait images from Google Drive.
 
 Usage:
-    python scripts/update_data.py [--publications] [--people]
+    python scripts/update_data.py [--publications] [--people] [--images]
 
-    With no flags, both are updated.
+    With no flags, all three are updated.
+
+    For --images, first-time use will open a browser for Google OAuth.
+    Requires scripts/drive_credentials.json (OAuth client secrets from Google Cloud Console).
+    After the first auth, a token is cached in scripts/drive_token.json.
 """
 
 import argparse
+import io
+import os
+import tempfile
 import yaml
 import pandas as pd
+from pathlib import Path
+from PIL import Image
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request as GoogleRequest
+from googleapiclient.discovery import build
+from googleapiclient.http import MediaIoBaseDownload
 from pymed import PubMed
 
 PUBMED_EMAIL = "lenail@mit.edu"
+PEOPLE_IMAGES_FOLDER_ID = "1Je52Gv36cGsAH1q1Xsj7hfnwu5gegTLh"
+IMAGES_DIR = "assets/img/people"
+MAX_IMAGE_DIMENSION = 1200  # pixels on longest side
+MAX_IMAGE_BYTES = 3 * 1024 * 1024
+DRIVE_SCOPES = ["https://www.googleapis.com/auth/drive.readonly"]
+DRIVE_CREDENTIALS_FILE = os.path.join(os.path.dirname(__file__), "drive_credentials.json")
+DRIVE_TOKEN_FILE = os.path.join(os.path.dirname(__file__), "drive_token.json")
+
 PEOPLE_SHEET_URL = (
     "https://docs.google.com/spreadsheets/d/"
     "1-Eju9h1XovEBoBv0DGpxh92GYsZ8bzGkxRdRgUb7hvg"
@@ -83,6 +106,79 @@ def update_publications():
     print("  Written to _data/publications.yml")
 
 
+def _get_drive_service():
+    creds = None
+    if os.path.exists(DRIVE_TOKEN_FILE):
+        creds = Credentials.from_authorized_user_file(DRIVE_TOKEN_FILE, DRIVE_SCOPES)
+    if not creds or not creds.valid:
+        if creds and creds.expired and creds.refresh_token:
+            creds.refresh(GoogleRequest())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file(DRIVE_CREDENTIALS_FILE, DRIVE_SCOPES)
+            creds = flow.run_local_server(port=0)
+        with open(DRIVE_TOKEN_FILE, "w") as f:
+            f.write(creds.to_json())
+    return build("drive", "v3", credentials=creds)
+
+
+def update_images():
+    print("Fetching people images from Google Drive...")
+    service = _get_drive_service()
+
+    results = service.files().list(
+        q=f"'{PEOPLE_IMAGES_FOLDER_ID}' in parents and trashed=false",
+        fields="files(id,name)",
+        pageSize=1000,
+        includeItemsFromAllDrives=True,
+        supportsAllDrives=True,
+    ).execute()
+
+    all_files = results.get("files", [])
+    print(f"  Found {len(all_files)} file(s) in folder")
+    if all_files:
+        print(f"  Files: {[f['name'] for f in all_files]}")
+
+    files = [
+        f for f in all_files
+        if Path(f["name"]).suffix.lower() in (".jpg", ".jpeg", ".png")
+    ]
+    print(f"  Found {len(files)} image(s)")
+
+    os.makedirs(IMAGES_DIR, exist_ok=True)
+    with tempfile.TemporaryDirectory() as tmpdir:
+        for file in files:
+            p = Path(file["name"])
+            tmp_path = os.path.join(tmpdir, file["name"])
+
+            request = service.files().get_media(fileId=file["id"])
+            with io.FileIO(tmp_path, "wb") as fh:
+                downloader = MediaIoBaseDownload(fh, request)
+                done = False
+                while not done:
+                    _, done = downloader.next_chunk()
+
+            dest = os.path.join(IMAGES_DIR, f"{p.stem}.jpg")
+            img = Image.open(tmp_path)
+            if img.mode != "RGB":
+                img = img.convert("RGB")
+
+            w, h = img.size
+            if max(w, h) > MAX_IMAGE_DIMENSION:
+                ratio = MAX_IMAGE_DIMENSION / max(w, h)
+                img = img.resize((int(w * ratio), int(h * ratio)), Image.LANCZOS)
+
+            quality = 85
+            img.save(dest, "JPEG", quality=quality)
+            while os.path.getsize(dest) > MAX_IMAGE_BYTES and quality > 50:
+                quality -= 10
+                img.save(dest, "JPEG", quality=quality)
+
+            img.close()
+            print(f"  Saved {p.stem}.jpg ({os.path.getsize(dest) // 1024}KB)")
+
+    print(f"  Processed {len(files)} image(s)")
+
+
 def update_people():
     print("Fetching people from Google Sheets...")
     people = pd.read_csv(PEOPLE_SHEET_URL)
@@ -111,10 +207,13 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--publications", action="store_true")
     parser.add_argument("--people", action="store_true")
+    parser.add_argument("--images", action="store_true")
     args = parser.parse_args()
 
-    run_all = not args.publications and not args.people
+    run_all = not args.publications and not args.people and not args.images
     if args.publications or run_all:
         update_publications()
     if args.people or run_all:
         update_people()
+    if args.images or run_all:
+        update_images()

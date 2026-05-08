@@ -1,3 +1,9 @@
+- name: Yijia Chen
+  pos: PhD Student
+  email: yijiac@mit.edu
+  id: YijiaChen
+  alum: false
+
 - name: Jonathan Weissman
   pos: Principal Investigator
   email: weissman@wi.mit.edu
@@ -171,6 +177,12 @@
   id: EmilyAshkin
   alum: true
 
+- name: Samuel Gould
+  pos: Post-doc
+  email: sgould@wi.mit.edu
+  id: SamuelGould
+  alum: false
+
 - name: Alex LeNail
   pos: Grad student
   email: lenail@mit.edu
@@ -179,7 +191,7 @@
   now: Postdoctoral Fellow | Church Lab, Harvard Medical School
 
 - name: Yi Hua Chen
-  pos: Grad student
+  pos: PhD Student
   email: yhc@wi.mit.edu
   id: YiChen
   alum: false
@@ -199,21 +211,33 @@
   now: Associate, Inhouse Consulting | Merck KGaA, Darmstadt, Germany
 
 - name: Karina Smolyar
-  pos: Grad student
+  pos: PhD Student
   email: ksmolyar@wi.mit.edu
   id: KarinaSmolyar
   alum: false
 
 - name: Yassine Damergi
-  pos: Grad student
+  pos: Masters Student
   email: ydamergi@wi.mit.edu
   id: YassineDamergi
   alum: true
 
 - name: Tyler Masuyama
-  pos: Grad student
+  pos: PhD Student
   email: tylermasuyama@wi.mit.edu
   id: TylerMasuyama
+  alum: false
+
+- name: Valentin Baumann
+  pos: Masters Student
+  email: vbaumann@wi.mit.edu
+  id: ValentinBaumann
+  alum: false
+
+- name: Kadri-Ann Lainde
+  pos: Masters Student
+  email: klainde@wi.mit.edu
+  id: Kadri-AnnLainde
   alum: false
 
 - name: Max Hyman
@@ -305,7 +329,7 @@
   pos: Undergrad
   email: gloriama@mit.edu
   id: GloriaMa
-  alum: false
+  alum: true
 
 - name: Eunsu Hur
   pos: Undergrad
@@ -397,13 +421,13 @@
   alum: true
 
 - name: Jingjie Hu
-  pos: Grad student
+  pos: PhD Student
   email: jhu@wi.mit.edu
   id: JingjieHu
   alum: false
 
 - name: William Colgan
-  pos: Grad student
+  pos: PhD Student
   email: wcolgan@wi.mit.edu
   id: WilliamColgan
   alum: false

@@ -21,7 +21,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install pymed pyyaml pandas requests
+        run: pip install pymed pyyaml pandas requests Pillow google-api-python-client google-auth-oauthlib
+
+      - name: Write Google Drive token
+        run: echo '${{ secrets.GOOGLE_DRIVE_TOKEN }}' > scripts/drive_token.json
 
       - name: Run update script
         run: python scripts/update_data.py
@@ -30,6 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _data/publications.yml _data/people.yml
+          git add _data/publications.yml _data/people.yml assets/img/people/
           git diff --cached --quiet || git commit -m "auto: update publications and people data"
           git push

@@ -15,6 +15,8 @@ permalink: /people/
 {% assign visiting_scientists = current | where: "pos", "Visiting Scientist" %}
 {% assign postdocs = current | where: "pos", "Post-doc" %}
 {% assign grads = current | where: "pos", "Grad student" %}
+{% assign phds = current | where: "pos", "PhD Student" %}
+{% assign masters = current | where: "pos", "Masters Student" %}
 {% assign techs = current | where: "pos", "Technician" %}
 {% assign softengs = current | where: "pos", "Software Engineer" %}
 {% assign urops = current | where: "pos", "Undergrad" %}
@@ -134,6 +136,34 @@ permalink: /people/
             <div class="label p-3">
                <span class="name">{{ grad.name }}</span><br>
                <span class="pos">Graduate Student</span>
+            </div>
+         </div>
+         {% endif %}
+      {% endfor %}
+
+      {% for phd in phds %}
+         {% assign img_path = "/assets/img/people/" | append: phd.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
+         <div class="col-md-4 g-0 border_left my-5" id="{{phd.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ phd.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ phd.name }}</span><br>
+               <span class="pos">PhD Student</span>
+            </div>
+         </div>
+         {% endif %}
+      {% endfor %}
+
+      {% for master in masters %}
+         {% assign img_path = "/assets/img/people/" | append: master.id | append: ".jpg" %}
+         {% assign has_photo = site.static_files | where: "path", img_path | first %}
+         {% if has_photo %}
+         <div class="col-md-4 g-0 border_left my-5" id="{{master.id}}">
+            <img class="img-fluid portrait" src="{{ site.baseurl }}/assets/img/people/{{ master.id }}.jpg" />
+            <div class="label p-3">
+               <span class="name">{{ master.name }}</span><br>
+               <span class="pos">Masters Student</span>
             </div>
          </div>
          {% endif %}

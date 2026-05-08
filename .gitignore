@@ -177,3 +177,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+scripts/drive_credentials.json
+scripts/drive_token.json

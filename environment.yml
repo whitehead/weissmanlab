@@ -1,0 +1,15 @@
+name: website
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - pymed==0.8.9
+    - pyyaml>=6.0
+    - pandas>=1.5
+    - requests>=2.27
+    - Pillow>=9.4
+    - google-api-python-client>=2.196
+    - google-auth-oauthlib>=1.4

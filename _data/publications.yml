@@ -1,3 +1,79 @@
+- title: Expanding the human proteome with microproteins and peptideins.
+  authors:
+  - Eric W Deutsch
+  - Leron W Kok
+  - Jonathan M Mudge
+  - Cristian F Valls
+  - Irwin Jungreis
+  - Jorge Ruiz-Orera
+  - Zhi Sun
+  - Ulrike Kusebauch
+  - Ivo Fierro-Monti
+  - Jennifer G Abelin
+  - M Mar Alba
+  - Julie L Aspden
+  - Sreejan Bandyopadhyay
+  - Kaushik Banerjee
+  - Pavel V Baranov
+  - Ariel A Bazzini
+  - Francis Bourassa
+  - Elspeth A Bruford
+  - Lorenzo Calviello
+  - Steven A Carr
+  - Anne-Ruxandra Carvunis
+  - Sonia Chothani
+  - Jim Clauwaert
+  - Kellie Dean
+  - Pouya Faridi
+  - Adam Frankish
+  - Amy Goodale
+  - Thomas Green
+  - Norbert Hubner
+  - Nicholas T Ingolia
+  - Manolis Kellis
+  - Michele Magrane
+  - Maria Jesus Martin
+  - Thomas F Martinez
+  - Gerben Menschaert
+  - Uwe Ohler
+  - Sandra Orchard
+  - Alisa Potter
+  - Owen J L Rackham
+  - Matthew G Rees
+  - David E Root
+  - Jennifer A Roth
+  - Xavier Roucou
+  - Fernando J Sialana
+  - Sarah A Slavoff
+  - "Micha\u0142 I \u015Awirski"
+  - Jack A S Tierney
+  - "F\xE9lix-Antoine Trifiro"
+  - Eivind Valen
+  - Valeriia Vasylieva
+  - Aaron Wacholder
+  - Shengbo Wang
+  - Li Wang
+  - Jonathan S Weissman
+  - Wei Wu
+  - Zhi Xie
+  - Jyoti S Choudhary
+  - Michal Bassani-Sternberg
+  - "Juan Antonio Vizca\xEDno"
+  - Nicola Ternette
+  - Marie A Brunet
+  - Robert L Moritz
+  - John R Prensner
+  - Sebastiaan van Heesch
+  publication_date: 07/05/26
+  publication_year: '2026'
+  pubmed_id: '42092140'
+  abstract: A major scientific drive is to characterize the protein-coding genome,
+    which is a primary basis for studying human health. But the fundamental question
+    remains of what has been missed in previous analyses. Over the past decade, the
+    translation of non-canonical open reading frames (ncORFs) has been observed across
+    human cell types and disease states
+  doi: 10.1038/s41586-026-10459-x
+  journal: Nature
 - title: Epigenome editing of human hematopoietic stem cells enables sustained and
     reversible thrombosis prevention.
   authors:
