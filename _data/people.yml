@@ -240,6 +240,12 @@
   id: Kadri-AnnLainde
   alum: false
 
+- name: Timosh Rueff
+  pos: Masters Student
+  email: trueff@wi.mit.edu
+  id: TimoshRueff
+  alum: false
+
 - name: Max Hyman
   pos: Technician
   email: mhyman@wi.mit.edu
@@ -448,6 +454,12 @@
   pos: Visiting Scientist
   email: gokulg@mit.edu
   id: GokulGowri
+  alum: false
+
+- name: Kang Jin
+  pos: Visiting Scientist
+  email: kjin@wi.mit.edu
+  id: KangJin
   alum: false
 
 - name: Jeff Hussmann
