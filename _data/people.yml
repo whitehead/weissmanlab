@@ -252,6 +252,12 @@
   id: MaxHyman
   alum: false
 
+- name: Jack Lu
+  pos: Undergraduate Student
+  email: jqlu@wi.mit.edu
+  id: JackLu
+  alum: false
+
 - name: Theo Esantsi
   pos: Technician
   email: esantsit@wi.mit.edu
@@ -341,7 +347,7 @@
   pos: Undergrad
   email: eunsuhur@wi.mit.edu
   id: EunsuHur
-  alum: false
+  alum: true
 
 - name: Christina Zhang
   pos: Undergrad
@@ -436,6 +442,12 @@
   pos: PhD Student
   email: wcolgan@wi.mit.edu
   id: WilliamColgan
+  alum: false
+
+- name: Abbie Ireland
+  pos: Post-doc
+  email: aireland@wi.mit.edu
+  id: AbbieIreland
   alum: false
 
 - name: Xinjie Pan
