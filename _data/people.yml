@@ -258,6 +258,12 @@
   id: JackLu
   alum: false
 
+- name: Wesley Suen
+  pos: PhD Student
+  email: ycsuen@wi.mit.edu
+  id: WesleySuen
+  alum: false
+
 - name: Theo Esantsi
   pos: Technician
   email: esantsit@wi.mit.edu
@@ -323,13 +329,13 @@
   pos: Technician
   email: ehe@wi.mit.edu
   id: EmilyHe
-  alum: false
+  alum: true
 
 - name: AZ Zhang
   pos: Technician
   email: azz@wi.mit.edu
   id: AZZhang
-  alum: false
+  alum: true
 
 - name: Amy Zheng
   pos: Undergrad
