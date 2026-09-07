@@ -406,6 +406,30 @@
     vein-determining extracellular signals and cell-fate trajectories
   doi: 10.1101/2025.10.11.681838
   journal: biorxiv
+- title: A Versatile Ribo-seq Workflow for Enhanced Analysis of Ribosome Dynamics.
+  authors:
+  - "H\xE9l\xE8ne H\xE9rault"
+  - Armelle Choquet
+  - Alexandre David
+  publication_date: 21/11/25
+  publication_year: '2025'
+  pubmed_id: '41269562'
+  abstract: Ribosome profiling (or ribo-sequencing) is a powerful technique that enables
+    high-resolution analysis of active translation by sequencing ribosome-protected
+    mRNA fragments. Developed in 2009 by Nicholas Ingolia and Jonathan Weissman, it
+    provides direct insights into which mRNAs are being translated and at what rate,
+    surpassing traditional transcriptomic and proteomic methods. Ribo-seq allows for
+    precise mapping of ribosome positions, enabling detailed characterization of ribosome
+    dynamics and the identification of alternative translation initiation sites and
+    upstream open reading frames. The standard workflow includes key steps such as
+    ribosome stabilization, nuclease digestion, fragment isolation, and deep sequencing.
+    The protocol described in this chapter incorporates a polysome profiling step
+    prior to RNase treatment, allowing, for instance, the isolation of distinct ribosome
+    species (also known as k-somes). Ribo-seq has transformed our understanding of
+    translational regulation and has become an essential tool for omics studies in
+    various fields such as developmental biology, cancer biology, virology, and microbiology.
+  doi: 10.1007/978-1-0716-4997-8_19
+  journal: Methods in molecular biology
 - title: Atlas of Lysosomal Aging Reveals a Molecular Clock of Storage Disorder-Associated
     Metabolites.
   authors:
@@ -2852,6 +2876,63 @@
     \ over fourfold more target sites than achieved using any single CGBE variant."
   doi: 10.1038/s41587-021-00938-z
   journal: Nature biotechnology
+- title: Intra-session test-retest reliability of functional connectivity in infants.
+  authors:
+  - Yun Wang
+  - Walter Hinds
+  - Cristiane S Duarte
+  - Seonjoo Lee
+  - Catherine Monk
+  - Melanie Wall
+  - Glorisa Canino
+  - Ana Carolina C Milani
+  - Andrea Jackowski
+  - Marina Griorgi Mamin
+  - Bernd U Foerster
+  - Jay Gingrich
+  - Myrna M Weissman
+  - Bradley S Peterson
+  - David Semanek
+  - Edna Acosta Perez
+  - Eduardo Labat
+  - Ioannisely Berrios Torres
+  - Ivaldo Da Silva
+  - Camila Parente
+  - Nitamar Abdala
+  - Jonathan Posner
+  publication_date: 21/06/21
+  publication_year: '2021'
+  pubmed_id: '34147630'
+  abstract: "Resting functional MRI studies of the infant brain are increasingly becoming\
+    \ an important tool in developmental neuroscience. Whereas the test-retest reliability\
+    \ of functional connectivity (FC) measures derived from resting fMRI data have\
+    \ been characterized in the adult and child brain, similar assessments have not\
+    \ been conducted in infants. In this study, we examined the intra-session test-retest\
+    \ reliability of FC measures from 119 infant brain MRI scans from four neurodevelopmental\
+    \ studies. We investigated edge-level and subject-level reliability within one\
+    \ MRI session (between and within runs) measured by the Intraclass correlation\
+    \ coefficient (ICC). First, using an atlas-based approach, we examined whole-brain\
+    \ connectivity as well as connectivity within two common resting fMRI networks\
+    \ - the default mode network (DMN) and the sensorimotor network (SMN). Second,\
+    \ we examined the influence of run duration, study site, and scanning manufacturer\
+    \ (e.g., Philips and General Electric) on ICCs. Lastly, we tested spatial similarity\
+    \ using the Jaccard Index from networks derived from independent component analysis\
+    \ (ICA). Consistent with resting fMRI studies from adults, our findings indicated\
+    \ poor edge-level reliability (ICC\_=\_0.14-0.18), but moderate-to-good subject-level\
+    \ intra-session reliability for whole-brain, DMN, and SMN connectivity (ICC\_\
+    =\_0.40-0.78). We also found significant effects of run duration, site, and scanning\
+    \ manufacturer on reliability estimates. Some ICA-derived networks showed strong\
+    \ spatial reproducibility (e.g., DMN, SMN, and Visual Network), and were labelled\
+    \ based on their spatial similarity to analogous networks measured in adults.\
+    \ These networks were reproducibly found across different study sites. However,\
+    \ other ICA-networks (e.g. Executive Control Network) did not show strong spatial\
+    \ reproducibility, suggesting that the reliability and/or maturational course\
+    \ of functional connectivity may vary by network. In sum, our findings suggest\
+    \ that developmental scientists may be on safe ground examining the functional\
+    \ organization of some major neural networks (e.g. DMN and SMN), but judicious\
+    \ interpretation of functional connectivity is essential to its ongoing success."
+  doi: 10.1016/j.neuroimage.2021.118284
+  journal: NeuroImage
 - title: Genome-wide CRISPRi screening identifies OCIAD1 as a prohibitin client and
     regulatory determinant of mitochondrial Complex III assembly in human cells.
   authors:
@@ -3489,6 +3570,49 @@
     enhance appreciation of relevance of the extent of ribosome loading for recoding.
   doi: 10.1016/j.jmb.2020.05.010
   journal: Journal of molecular biology
+- title: Anti-PfGARP activates programmed cell death of parasites and reduces severe
+    malaria.
+  authors:
+  - Dipak K Raj
+  - Alok Das Mohapatra
+  - Anup Jnawali
+  - Jenna Zuromski
+  - Ambrish Jha
+  - Gerald Cham-Kpu
+  - Brett Sherman
+  - Rachel M Rudlaff
+  - Christina E Nixon
+  - Nicholas Hilton
+  - Andrew V Oleinikov
+  - Olga Chesnokov
+  - Jordan Merritt
+  - Sunthorn Pond-Tor
+  - Lauren Burns
+  - Grant Jolly
+  - Choukri Ben Mamoun
+  - Edward Kabyemela
+  - Atis Muehlenbachs
+  - Lynn Lambert
+  - Sachy Orr-Gonzalez
+  - "Nina F Gn\xE4dig"
+  - David A Fidock
+  - Sangshin Park
+  - Jeffrey D Dvorin
+  - Norbert Pardi
+  - Drew Weissman
+  - Barbara L Mui
+  - Ying K Tam
+  - Jennifer F Friedman
+  - Michal Fried
+  - Patrick E Duffy
+  - Jonathan D Kurtis
+  publication_date: 20/05/20
+  publication_year: '2020'
+  pubmed_id: '32427965'
+  abstract: Malaria caused by Plasmodium falciparum remains the leading single-agent
+    cause of mortality in children
+  doi: 10.1038/s41586-020-2220-1
+  journal: Nature
 - title: Inference of single-cell phylogenies from lineage tracing data using Cassiopeia.
   authors:
   - Matthew G Jones
@@ -3710,6 +3834,17 @@
     by inhibiting the nonconventional splicing of '
   doi: 10.1101/gad.331330.119
   journal: Genes & development
+- title: Personal Life Events-A Promising Dimension for Psychiatry in Electronic Health
+    Records.
+  authors:
+  - Myrna M Weissman
+  - Jyotishman Pathak
+  - Ardesheer Talati
+  publication_date: 24/10/19
+  publication_year: '2019'
+  pubmed_id: '31642873'
+  doi: 10.1001/jamapsychiatry.2019.3217
+  journal: JAMA psychiatry
 - title: The ER membrane protein complex is required to ensure correct topology and
     stable expression of flavivirus polyproteins.
   authors:
