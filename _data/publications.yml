@@ -1,3 +1,60 @@
+- title: Spatiotemporal lineage tracing reveals the dynamic spatial architecture of
+    tumor growth and metastasis.
+  authors:
+  - Matthew G Jones
+  - Dawei Sun
+  - Kyung Hoi Joseph Min
+  - William N Colgan
+  - Haoyu Wang
+  - "Tivadar T\xF6r\xF6k"
+  - Juliano Ribeiro
+  - Jessie Xue
+  - Erik C Cardoso
+  - Yao Rong
+  - Luyi Tian
+  - Jackson A Weir
+  - Victor Z Chen
+  - Luke W Koblan
+  - Kathryn E Yost
+  - Nicolas Mathey-Andrews
+  - Edridge D'Souza
+  - Andrew J C Russell
+  - Robert R Stickels
+  - Karol S Balderrama
+  - William M Rideout
+  - Min Dai
+  - Giovanni Marrero
+  - Vipin Kumar
+  - Anjali Saqi
+  - Benjamin Herzberg
+  - Benjamin Izar
+  - Howard Y Chang
+  - Joo-Hyeon Lee
+  - Tyler Jacks
+  - Fei Chen
+  - Jonathan S Weissman
+  - Nir Yosef
+  - Dian Yang
+  publication_date: 03/09/26
+  publication_year: '2026'
+  pubmed_id: '42687033'
+  abstract: Tumor progression is driven by dynamic interactions between cancer cells
+    and their surrounding microenvironment. Here we integrate high-resolution spatial
+    transcriptomics and evolving lineage-tracing technologies to elucidate how tumor
+    expansion, plasticity and metastasis co-evolve with microenvironmental remodeling
+    in a Kras;Trp53-driven mouse model of lung adenocarcinoma. We find that subclonal
+    expansion contributes to a hypoxic, immunosuppressive and fibrotic microenvironment
+    that is associated with the emergence of prometastatic cancer cell states. We
+    use tumor phylogeography to delineate intercellular interactions that are rewired
+    in the expanding tumor niche and use co-culture systems to dissect how intercellular
+    interactions and hypoxia influence cancer cell state. Furthermore, we find that
+    metastases arise from spatially confined primary tumor subclones and remodel the
+    distant metastatic niche into a fibrotic, collagen-rich microenvironment. Together,
+    we present a comprehensive dataset integrating spatial assays and lineage tracing
+    to elucidate how sequential changes in cancer cell state and microenvironmental
+    structures cooperate to promote tumor progression.
+  doi: 10.1038/s41588-026-02739-z
+  journal: Nature genetics
 - title: 'Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies.'
   authors:
   - Chen Weng
