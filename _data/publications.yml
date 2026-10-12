@@ -1,3 +1,154 @@
+- title: A genome-scale ORF screen for resilience factors that protect the RPE and
+    restore vision in aged mice.
+  authors:
+  - Yuancheng Ryan Lu
+  - Han Shen
+  - Kathrin Kajderowicz
+  - Jiahe Ai
+  - Yi Hua Chen-Neumann
+  - Yan Hu
+  - Alexander Tyshkovskiy
+  - Qiannuo Lou
+  - Tianwei Dong
+  - Louisa Grauvogel
+  - Zhaoyi Chen
+  - James C Cameron
+  - Ximeng Li
+  - Shintaro Shirahama
+  - Michael Bligh
+  - Shurong Hou
+  - Jessica Chin
+  - Mauro W Costa
+  - Jiwon Ryu
+  - Ruchi Sharma
+  - Matthias Mann
+  - Kapil Bharti
+  - Catherine Bowes Rickman
+  - Vadim N Gladyshev
+  - Meredith Gregory-Ksander
+  - Bruce R Ksander
+  - Jonathan Weissman
+  publication_date: 11/10/26
+  publication_year: '2026'
+  pubmed_id: '42856529'
+  abstract: 'Aging is a complex process, yet therapeutic discovery has largely relied
+    on hypothesis-driven testing of individual targets. Here, we performed an unbiased
+    genome-scale open reading frame (ORF) screen for oxidative-stress resistance in
+    retinal pigment epithelium (RPE) cells, which are particularly vulnerable to oxidative
+    damage with age. The screen identified nine protective ORFs, including antioxidant
+    factors and a regulator of epithelial-to-mesenchymal transition. Notably, we also
+    identified three factors that reduce transcriptomic age, including the cardiac
+    transcription factor NKX2-5. NKX2-5 conferred robust oxidative resilience '
+  doi: 10.64898/2026.09.29.755187
+  journal: biorxiv
+- title: Failure to release from the ER translocon induces 60S ribosome degradation.
+  authors:
+  - Zebulon G Levine
+  - Stuti Khandwala
+  - Christina J Zhang
+  - Kelsey L Hickey
+  - Julia Joung
+  - Jingjie Hu
+  - Yi Hua Chen-Neumann
+  - Jingchuan Luo
+  - Anders S Hansen
+  - J Wade Harper
+  - Gavin Schlissel
+  - Jonathan S Weissman
+  publication_date: 11/10/26
+  publication_year: '2026'
+  pubmed_id: '42856200'
+  abstract: Ribosome malfunction has toxic consequences, but how mammalian cells select
+    ribosomal subunits for degradation remains poorly understood. Here, we develop
+    a pulse-chase CRISPR screening strategy to identify regulators of ribosome turnover
+    and uncover that loss of protein UFMylation promotes ribosome degradation. Normal
+    UFMylation releases the 60S subunit from the endoplasmic reticulum (ER) translocon.
+    Without UFMylation, single-molecule tracking and optogenetic proximity labeling
+    reveal accumulation of ER-associated 60S subunits and their specific degradation.
+    This translocon-associated large subunit degradation (TLSD) is independent of
+    the lysosome and, in our human cell model, is only active in nondividing, contact-inhibited
+    cells. Degradation requires the poorly characterized protein R3HDM4, which we
+    term TLSD1. Upon UFMylation loss, TLSD1 redistributes to the ER and promotes 60S
+    degradation. These findings identify a cell-state-dependent pathway for clearing
+    ER-retained 60S subunits. We propose translocon release acts as a checkpoint for
+    ribosome function, explaining TLSD1's genetic links to neuronal health and erythropoiesis.
+  doi: 10.64898/2026.09.26.754687
+  journal: biorxiv
+- title: Mapping the functional dark proteome in cancer.
+  authors:
+  - John R Prensner
+  - William A Freed-Pastor
+  - Jennifer G Abelin
+  - Catherine J Wu
+  - Yifat Merbl
+  - Yitzhak Pilpel
+  - Ton N Schumacher
+  - Jonathan S Weissman
+  - Sebastiaan van Heesch
+  - Reuven Agami
+  publication_date: 09/10/26
+  publication_year: '2026'
+  pubmed_id: '42850324'
+  abstract: A generation after the genomics revolution, and with the advent of proteomic
+    technologies, the dark proteome now stands as a potential new direction for cancer
+    science and therapeutics. The dark proteome covers a vast terrain of previously
+    undiscovered and uncharacterized protein molecules derived from alternative genomic
+    loci or altered RNA translation. Over the past decade, an unprecedented depth
+    of resolution of the dark proteome has been attained, identifying diverse classes
+    of dark proteins with thousands of members each. Increasingly, individual dark
+    proteins are also being characterized as functional components of cancer cell
+    biology as well as potential therapeutic targets. Therefore, as a whole, the dark
+    proteome offers the possibility to advance cancer science, diagnosis and treatment.
+    Yet, many fundamental questions about the dark proteome remain, including key
+    gaps in knowledge regarding its regulation, contribution to cancer phenotypes
+    and antigenicity, and tractability for clinical-grade therapies. This Perspective
+    outlines the current state of knowledge of the dark proteome in cancer, highlighting
+    critical areas in which further research is needed. Furthermore, it poses guiding
+    questions that illuminate important directions of growth for the field of the
+    cancer dark proteome.
+  doi: 10.1038/s41568-026-00985-1
+  journal: Nature reviews. Cancer
+- title: Comprehensive lineage tracing maps the landscape of cell fate decisions in
+    mouse embryogenesis.
+  authors:
+  - William N Colgan
+  - Luke W Koblan
+  - JoAnne Villagrana
+  - Tien-Chi Jason Hou
+  - Minming Wang
+  - Gokul Gowri
+  - Whitney Chandler
+  - "Leonardo A Sep\xFAlveda"
+  - Didar Ciftci
+  - Karina Smolyar
+  - Kathryn E Yost
+  - Alicia Young
+  - Lars Wittler
+  - Styliani Markoulaki
+  - Kyle M Loh
+  - Xiaowei Zhuang
+  - Nir Yosef
+  - Zachary D Smith
+  - Jonathan S Weissman
+  publication_date: 08/10/26
+  publication_year: '2026'
+  pubmed_id: '42849436'
+  abstract: "A comprehensive cell fate map of mammalian embryogenesis has remained\
+    \ out of reach given the scale, cellular diversity, and non-deterministic nature\
+    \ of development in utero. Here, we use PEtracer to continuously install heritable\
+    \ genetic marks as development progresses, reconstructing lineage trees that resolve\
+    \ \u223C75% of cell divisions across >1.4 million cells from 16 replicate embryos.\
+    \ We pair these trees with deep transcriptional profiling to resolve cell fate\
+    \ biases, restriction timing, progenitor pool sizes, and lineage relationships\
+    \ throughout embryogenesis. Using this quantitative reference, we uncover strikingly\
+    \ reproducible lineage architecture between replicate embryos and chart the lineage\
+    \ dynamics driving fate specification across diverse tissues. Specific biological\
+    \ insights include the progressive restriction of neural crest fate, the relative\
+    \ contributions of distinct mesodermal origins to endothelium, and the dynamics\
+    \ of axial elongation. This work provides a foundation for a quantitative and\
+    \ predictive understanding of mammalian development."
+  doi: 10.1016/j.cell.2026.09.050
+  journal: Cell
 - title: The diverse functions of viral microproteins.
   authors:
   - Yi Hua Chen-Neumann
